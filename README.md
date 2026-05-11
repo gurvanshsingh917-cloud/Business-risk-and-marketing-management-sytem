@@ -30,17 +30,17 @@ Integrated-Business-Risk-Marketing-System
 
  datasets
 
-  sales_data.csv
-  customer_data.csv
-  marketing_data.csv
-  churn_data.csv
+  sales_data.csv,
+  customer_data.csv,
+  marketing_data.csv,
+  churn_data.csv,
 
  notebooks
  
-   day1.ipynb
-   marketing.ipynb
-   churn.ipynb
-   customers.ipynb
+   day1.ipynb,
+   marketing.ipynb,
+   churn.ipynb,
+   customers.ipynb,
    
  dashboard
  
