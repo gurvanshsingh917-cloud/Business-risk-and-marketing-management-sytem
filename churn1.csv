@@ -1,0 +1,2242 @@
+,Order ID,Gender,Visting,PaperlessBilling,PaymentMethod,Monthly Spending,Total Spending,Churn
+0,CA-2016-152156,Female,Month-to-month,Yes,Electronic check,29.85,29.85,No
+1,CA-2016-152156,Male,One year,No,Mailed check,56.95,1889.5,No
+2,CA-2016-138688,Female,Month-to-month,Yes,Mailed check,53.85,108.15,Yes
+3,US-2015-108966,Male,One year,No,Bank transfer (automatic),42.3,1840.75,No
+4,US-2015-108966,Female,Month-to-month,Yes,Electronic check,70.7,151.65,Yes
+5,CA-2014-115812,Male,Month-to-month,Yes,Electronic check,99.65,820.5,Yes
+6,CA-2014-115812,Male,Month-to-month,Yes,Credit card (automatic),89.1,1949.4,No
+7,CA-2014-115812,Female,Month-to-month,No,Mailed check,29.75,301.9,No
+8,CA-2014-115812,Male,Month-to-month,Yes,Electronic check,104.8,3046.05,Yes
+9,CA-2014-115812,Male,One year,No,Bank transfer (automatic),56.15,3487.95,No
+10,CA-2014-115812,Male,Month-to-month,Yes,Mailed check,49.95,587.45,No
+11,CA-2014-115812,Female,Two year,No,Credit card (automatic),18.95,326.8,No
+12,CA-2017-114412,Male,One year,No,Credit card (automatic),100.35,5681.1,No
+13,CA-2016-161389,Male,Month-to-month,Yes,Bank transfer (automatic),103.7,5036.3,Yes
+14,US-2015-118983,Male,Month-to-month,Yes,Electronic check,105.5,2686.05,No
+15,US-2015-118983,Female,Two year,No,Credit card (automatic),113.25,7895.15,No
+16,CA-2014-105893,Female,One year,No,Mailed check,20.65,1022.95,No
+17,CA-2014-167164,Male,Two year,No,Bank transfer (automatic),106.7,7382.25,No
+18,CA-2014-143336,Male,Month-to-month,No,Credit card (automatic),55.2,528.35,Yes
+19,CA-2014-143336,Female,Month-to-month,Yes,Electronic check,90.05,1862.9,No
+20,CA-2014-143336,Male,Month-to-month,Yes,Electronic check,39.65,39.65,Yes
+21,CA-2016-137330,Male,One year,No,Bank transfer (automatic),19.8,202.25,No
+22,CA-2016-137330,Male,Month-to-month,No,Mailed check,20.15,20.15,Yes
+23,US-2017-156909,Male,Two year,Yes,Credit card (automatic),59.9,3505.1,No
+24,CA-2015-106320,Female,Month-to-month,No,Credit card (automatic),59.6,2970.3,No
+25,CA-2016-121755,Male,Month-to-month,Yes,Bank transfer (automatic),55.3,1530.6,No
+26,CA-2016-121755,Male,Month-to-month,Yes,Electronic check,99.35,4749.15,Yes
+27,US-2015-150630,Female,Month-to-month,No,Electronic check,30.2,30.2,Yes
+28,US-2015-150630,Female,Two year,Yes,Credit card (automatic),90.25,6369.45,No
+29,US-2015-150630,Male,Month-to-month,Yes,Mailed check,64.7,1093.1,Yes
+30,US-2015-150630,Male,Two year,Yes,Credit card (automatic),96.35,6766.95,No
+31,US-2015-150630,Male,Month-to-month,Yes,Credit card (automatic),95.5,181.65,No
+32,US-2015-150630,Male,One year,No,Mailed check,66.15,1874.45,No
+33,US-2015-150630,Male,Month-to-month,No,Bank transfer (automatic),20.2,20.2,No
+34,CA-2017-107727,Female,Month-to-month,No,Bank transfer (automatic),45.25,45.25,No
+35,CA-2016-117590,Female,Two year,No,Bank transfer (automatic),99.9,7251.7,No
+36,CA-2016-117590,Male,Month-to-month,Yes,Electronic check,69.7,316.9,Yes
+37,CA-2015-117415,Male,Month-to-month,Yes,Credit card (automatic),74.8,3548.3,No
+38,CA-2015-117415,Male,Month-to-month,Yes,Electronic check,106.35,3549.25,Yes
+39,CA-2015-117415,Male,Month-to-month,Yes,Bank transfer (automatic),97.85,1105.4,Yes
+40,CA-2015-117415,Male,One year,No,Mailed check,49.55,475.7,No
+41,CA-2017-120999,Male,Two year,Yes,Credit card (automatic),69.2,4872.35,No
+42,CA-2016-101343,Male,One year,No,Mailed check,20.75,418.25,No
+43,CA-2017-139619,Female,Two year,Yes,Credit card (automatic),79.85,4861.45,No
+44,CA-2016-118255,Female,Month-to-month,Yes,Electronic check,76.2,981.45,No
+45,CA-2016-118255,Female,Month-to-month,Yes,Electronic check,84.5,3906.7,No
+46,CA-2014-146703,Male,Month-to-month,No,Mailed check,49.25,97.0,No
+47,CA-2016-169194,Male,Month-to-month,Yes,Electronic check,80.65,144.15,Yes
+48,CA-2016-169194,Female,Two year,Yes,Credit card (automatic),79.75,4217.8,No
+49,CA-2015-115742,Male,Two year,Yes,Credit card (automatic),64.15,4254.1,No
+50,CA-2015-115742,Male,Month-to-month,Yes,Electronic check,90.25,3838.75,No
+51,CA-2015-115742,Male,Month-to-month,Yes,Credit card (automatic),99.1,1426.4,Yes
+52,CA-2015-115742,Female,Month-to-month,Yes,Credit card (automatic),69.5,1752.65,No
+53,CA-2016-105816,Male,Month-to-month,Yes,Credit card (automatic),80.65,633.3,Yes
+54,CA-2016-105816,Male,One year,Yes,Credit card (automatic),74.85,4456.35,No
+55,CA-2016-111682,Female,Month-to-month,Yes,Electronic check,95.45,1752.55,Yes
+56,CA-2016-111682,Male,One year,Yes,Credit card (automatic),99.65,6311.2,No
+57,CA-2016-111682,Female,One year,Yes,Electronic check,108.45,7076.35,No
+58,CA-2016-111682,Female,Two year,No,Credit card (automatic),24.95,894.3,No
+59,CA-2016-111682,Male,Two year,Yes,Credit card (automatic),107.5,7853.7,No
+60,CA-2016-111682,Male,Month-to-month,Yes,Electronic check,100.5,4707.1,No
+61,CA-2016-111682,Female,Month-to-month,Yes,Bank transfer (automatic),89.9,5450.7,No
+62,CA-2015-135545,Male,Two year,No,Bank transfer (automatic),42.1,2962.0,No
+63,CA-2015-135545,Female,One year,Yes,Credit card (automatic),54.4,957.1,No
+64,CA-2015-135545,Male,Month-to-month,No,Electronic check,94.4,857.25,Yes
+65,CA-2015-135545,Female,Month-to-month,Yes,Electronic check,75.3,244.1,No
+66,US-2015-164175,Male,One year,Yes,Electronic check,78.9,3650.35,No
+67,CA-2014-106376,Female,Two year,No,Mailed check,79.2,2497.2,No
+68,CA-2014-106376,Female,Two year,No,Bank transfer (automatic),20.15,930.9,No
+69,CA-2016-119823,Female,Month-to-month,Yes,Mailed check,79.85,887.35,No
+70,CA-2016-106075,Female,Month-to-month,No,Mailed check,49.05,49.05,No
+71,CA-2017-114440,Female,One year,Yes,Electronic check,20.4,1090.65,No
+72,US-2015-134026,Female,Two year,Yes,Bank transfer (automatic),111.6,7099.0,No
+73,US-2015-134026,Female,Two year,Yes,Bank transfer (automatic),24.25,1424.6,No
+74,US-2015-134026,Female,Month-to-month,Yes,Bank transfer (automatic),64.5,177.4,No
+75,US-2017-118038,Female,One year,No,Electronic check,110.5,6139.5,No
+76,US-2017-118038,Male,One year,No,Credit card (automatic),55.65,2688.85,No
+77,US-2017-118038,Female,Month-to-month,No,Mailed check,54.65,482.25,No
+78,US-2014-147606,Female,Month-to-month,Yes,Electronic check,74.75,2111.3,No
+79,CA-2016-127208,Female,One year,Yes,Credit card (automatic),25.9,1216.6,No
+80,CA-2016-127208,Female,Month-to-month,Yes,Electronic check,79.35,79.35,Yes
+81,CA-2014-139451,Female,Month-to-month,No,Electronic check,50.55,565.35,No
+82,CA-2014-139451,Female,Month-to-month,Yes,Bank transfer (automatic),75.15,496.9,Yes
+83,CA-2015-149734,Male,Month-to-month,Yes,Bank transfer (automatic),103.8,4327.5,No
+84,US-2017-119662,Male,Two year,Yes,Bank transfer (automatic),20.15,973.35,No
+85,CA-2017-140088,Male,Month-to-month,Yes,Credit card (automatic),99.3,918.75,No
+86,CA-2017-155558,Female,One year,Yes,Bank transfer (automatic),62.15,2215.45,No
+87,CA-2017-155558,Female,Two year,No,Bank transfer (automatic),20.65,1057.0,No
+88,CA-2016-159695,Female,Two year,Yes,Mailed check,19.95,927.1,No
+89,CA-2016-109806,Male,Month-to-month,No,Mailed check,33.75,1009.25,No
+90,CA-2016-109806,Male,Month-to-month,No,Bank transfer (automatic),82.05,2570.2,No
+91,CA-2016-109806,Female,Month-to-month,No,Electronic check,74.7,74.7,No
+92,CA-2015-149587,Male,Two year,Yes,Mailed check,84.0,5714.25,No
+93,CA-2015-149587,Male,Month-to-month,Yes,Credit card (automatic),111.05,7107.0,No
+94,CA-2015-149587,Male,Two year,Yes,Bank transfer (automatic),100.9,7459.05,No
+95,US-2017-109484,Female,Month-to-month,Yes,Electronic check,78.95,927.35,Yes
+96,CA-2017-161018,Male,One year,Yes,Credit card (automatic),66.85,4748.7,No
+97,CA-2017-157833,Male,Month-to-month,No,Mailed check,21.05,113.85,Yes
+98,CA-2016-149223,Male,Two year,No,Bank transfer (automatic),21.0,1107.2,No
+99,CA-2016-158568,Female,Month-to-month,Yes,Electronic check,98.5,2514.5,Yes
+100,CA-2016-158568,Male,Month-to-month,No,Mailed check,20.2,20.2,No
+101,CA-2016-158568,Male,Month-to-month,No,Electronic check,19.45,19.45,No
+102,CA-2016-129903,Male,One year,No,Bank transfer (automatic),95.0,3605.6,No
+103,US-2015-156867,Female,One year,No,Bank transfer (automatic),45.55,3027.25,No
+104,US-2015-156867,Male,Two year,Yes,Bank transfer (automatic),110.0,7611.85,Yes
+105,US-2015-156867,Male,Month-to-month,No,Mailed check,24.3,100.2,No
+106,CA-2017-119004,Female,One year,Yes,Electronic check,104.15,7303.05,No
+107,CA-2017-119004,Male,One year,No,Mailed check,30.15,927.65,No
+108,CA-2017-119004,Male,One year,No,Mailed check,94.35,3921.3,No
+109,CA-2015-129476,Female,Two year,No,Credit card (automatic),19.4,1363.25,No
+110,CA-2017-146780,Male,Month-to-month,Yes,Electronic check,96.75,5238.9,Yes
+111,CA-2016-128867,Female,One year,No,Credit card (automatic),57.95,3042.25,No
+112,CA-2016-128867,Male,Month-to-month,Yes,Electronic check,91.65,3954.1,No
+113,CA-2014-115259,Male,Month-to-month,Yes,Electronic check,76.5,2868.15,Yes
+114,CA-2014-115259,Female,Two year,Yes,Electronic check,54.6,3423.5,No
+115,CA-2014-115259,Female,Month-to-month,No,Electronic check,89.85,248.4,No
+116,CA-2014-115259,Female,Two year,No,Bank transfer (automatic),31.05,1126.35,No
+117,CA-2015-110457,Female,Month-to-month,Yes,Electronic check,100.25,1064.65,Yes
+118,US-2015-136476,Male,Two year,No,Mailed check,20.65,835.15,No
+119,CA-2016-103730,Male,Month-to-month,Yes,Credit card (automatic),85.2,2151.6,No
+120,CA-2016-103730,Female,One year,Yes,Credit card (automatic),99.8,5515.45,No
+121,CA-2016-103730,Male,Month-to-month,No,Mailed check,20.7,112.75,No
+122,CA-2016-103730,Male,Month-to-month,Yes,Electronic check,74.4,229.55,Yes
+123,CA-2016-103730,Male,Month-to-month,No,Mailed check,50.7,350.35,No
+124,US-2014-152030,Male,Month-to-month,No,Mailed check,20.85,62.9,No
+125,US-2014-134614,Male,Two year,Yes,Electronic check,88.95,3027.65,No
+126,US-2017-107272,Female,Month-to-month,Yes,Electronic check,78.05,2135.5,Yes
+127,US-2017-107272,Male,Two year,Yes,Bank transfer (automatic),23.55,1723.95,No
+128,US-2016-125969,Female,Month-to-month,No,Mailed check,19.75,19.75,No
+129,US-2016-125969,Male,One year,Yes,Electronic check,56.45,3985.35,No
+130,US-2017-164147,Male,Month-to-month,Yes,Electronic check,85.95,1215.65,No
+131,US-2017-164147,Female,Month-to-month,Yes,Credit card (automatic),58.6,1502.65,Yes
+132,US-2017-164147,Male,Two year,No,Bank transfer (automatic),50.55,3260.1,No
+133,CA-2016-145583,Male,Month-to-month,Yes,Electronic check,35.45,35.45,Yes
+134,CA-2016-145583,Female,Month-to-month,No,Electronic check,44.35,81.25,Yes
+135,CA-2016-145583,Female,Two year,Yes,Credit card (automatic),25.7,1188.2,No
+136,CA-2016-145583,Female,Month-to-month,Yes,Bank transfer (automatic),75.0,1778.5,No
+137,CA-2016-145583,Female,Two year,No,Mailed check,20.2,1277.75,No
+138,CA-2016-145583,Male,Two year,Yes,Mailed check,19.6,1170.55,No
+139,CA-2016-145583,Female,Month-to-month,Yes,Mailed check,70.45,70.45,Yes
+140,CA-2016-110366,Male,Two year,Yes,Credit card (automatic),88.05,6425.65,No
+141,CA-2017-106180,Male,Month-to-month,No,Electronic check,71.15,563.65,Yes
+142,CA-2017-106180,Male,Two year,Yes,Bank transfer (automatic),101.05,5971.25,No
+143,CA-2017-106180,Female,One year,Yes,Credit card (automatic),84.3,5289.05,No
+144,CA-2017-155376,Male,Two year,No,Bank transfer (automatic),23.95,1756.2,No
+145,CA-2015-110744,Male,Two year,Yes,Credit card (automatic),99.05,6416.7,No
+146,CA-2014-110072,Male,One year,No,Mailed check,19.6,61.35,No
+147,CA-2016-114489,Male,Month-to-month,Yes,Electronic check,45.65,45.65,Yes
+148,CA-2016-114489,Female,One year,No,Credit card (automatic),64.5,1929.95,No
+149,CA-2016-114489,Male,Month-to-month,Yes,Mailed check,69.5,1071.4,No
+150,CA-2016-114489,Female,Month-to-month,Yes,Electronic check,68.55,564.35,No
+151,CA-2016-158834,Female,Month-to-month,No,Mailed check,95.0,655.5,Yes
+152,CA-2016-158834,Female,One year,Yes,Credit card (automatic),108.15,7930.55,No
+153,CA-2015-124919,Male,Two year,No,Electronic check,86.1,5215.25,No
+154,CA-2015-124919,Male,Month-to-month,No,Mailed check,19.7,113.5,No
+155,CA-2015-124919,Female,Month-to-month,Yes,Bank transfer (automatic),80.9,1152.8,No
+156,CA-2015-118948,Female,Month-to-month,Yes,Bank transfer (automatic),84.15,1821.95,No
+157,CA-2014-104269,Male,One year,No,Mailed check,20.15,419.9,No
+158,CA-2016-114104,Male,Two year,No,Mailed check,64.25,1024.0,No
+159,CA-2016-114104,Female,Two year,No,Bank transfer (automatic),25.7,251.6,No
+160,CA-2016-162733,Male,Month-to-month,Yes,Electronic check,56.0,764.55,No
+161,CA-2015-119697,Female,Month-to-month,No,Electronic check,82.4,1592.35,Yes
+162,CA-2016-154508,Female,Month-to-month,Yes,Electronic check,69.7,135.2,No
+163,CA-2016-113817,Male,Two year,Yes,Bank transfer (automatic),73.9,3958.25,No
+164,CA-2014-139892,Female,One year,No,Mailed check,20.6,233.9,No
+165,CA-2014-139892,Female,Two year,No,Mailed check,19.9,1363.45,No
+166,CA-2014-139892,Male,Month-to-month,Yes,Bank transfer (automatic),70.9,273.0,Yes
+167,CA-2014-139892,Male,Two year,Yes,Bank transfer (automatic),89.05,6254.45,No
+168,CA-2014-139892,Female,Month-to-month,Yes,Electronic check,45.3,2651.2,Yes
+169,CA-2014-139892,Female,Month-to-month,No,Electronic check,20.4,321.4,No
+170,CA-2014-139892,Female,One year,Yes,Bank transfer (automatic),84.25,3539.25,No
+171,CA-2014-118962,Female,Month-to-month,Yes,Electronic check,104.4,242.8,Yes
+172,CA-2014-118962,Male,Two year,No,Mailed check,81.95,1181.75,No
+173,CA-2014-118962,Female,One year,Yes,Bank transfer (automatic),94.85,5000.2,Yes
+174,US-2014-100853,Male,One year,No,Bank transfer (automatic),20.55,654.55,No
+175,US-2014-100853,Male,Month-to-month,No,Electronic check,24.7,780.2,No
+176,US-2017-152366,Male,Month-to-month,Yes,Mailed check,74.45,1145.7,Yes
+177,US-2015-101511,Male,Month-to-month,No,Bank transfer (automatic),76.45,503.6,Yes
+178,US-2015-101511,Female,Month-to-month,Yes,Bank transfer (automatic),105.35,1559.25,No
+179,CA-2015-137225,Male,One year,Yes,Credit card (automatic),20.55,1252.0,No
+180,CA-2014-166191,Male,Month-to-month,No,Bank transfer (automatic),29.95,29.95,Yes
+181,CA-2014-166191,Male,Month-to-month,No,Mailed check,45.3,45.3,No
+182,CA-2014-158274,Female,Month-to-month,No,Bank transfer (automatic),84.5,662.65,Yes
+183,CA-2014-158274,Male,One year,No,Credit card (automatic),74.75,2453.3,No
+184,CA-2014-158274,Male,Month-to-month,Yes,Electronic check,79.25,1111.65,Yes
+185,CA-2016-105018,Female,Month-to-month,Yes,Electronic check,24.8,24.8,Yes
+186,CA-2014-123260,Male,Month-to-month,Yes,Mailed check,51.8,1023.85,No
+187,CA-2016-157000,Male,Month-to-month,No,Electronic check,30.4,82.15,No
+188,CA-2016-157000,Female,One year,No,Electronic check,19.65,244.8,No
+189,CA-2015-102281,Male,Month-to-month,No,Credit card (automatic),56.6,2379.1,No
+190,CA-2015-102281,Female,One year,Yes,Credit card (automatic),71.9,3173.35,No
+191,CA-2015-102281,Female,Month-to-month,Yes,Electronic check,91.0,531.0,Yes
+192,CA-2015-102281,Female,Two year,No,Bank transfer (automatic),19.75,1375.4,No
+193,CA-2015-102281,Female,Two year,No,Credit card (automatic),109.7,8129.3,No
+194,CA-2015-131457,Male,Two year,No,Credit card (automatic),19.3,1192.7,No
+195,CA-2014-140004,Male,Month-to-month,Yes,Electronic check,96.55,1901.65,No
+196,CA-2014-140004,Female,Two year,Yes,Bank transfer (automatic),24.1,587.4,No
+197,CA-2017-107720,Female,Month-to-month,Yes,Electronic check,111.35,6519.75,No
+198,US-2017-124303,Male,Two year,Yes,Bank transfer (automatic),112.25,8041.65,No
+199,US-2017-124303,Male,Month-to-month,No,Mailed check,20.75,20.75,No
+200,CA-2017-105074,Male,One year,Yes,Credit card (automatic),101.9,2681.15,No
+201,CA-2014-133690,Female,Month-to-month,Yes,Credit card (automatic),80.05,1112.3,No
+202,CA-2014-133690,Female,Two year,No,Electronic check,105.55,7405.5,No
+203,US-2017-116701,Female,Month-to-month,Yes,Credit card (automatic),78.3,1033.95,No
+204,CA-2017-126382,Male,Month-to-month,No,Credit card (automatic),68.85,2958.95,No
+205,CA-2017-108329,Female,One year,Yes,Bank transfer (automatic),79.95,2684.85,No
+206,CA-2017-135860,Male,Two year,Yes,Credit card (automatic),55.45,4179.2,No
+207,CA-2017-135860,Female,Month-to-month,No,Electronic check,79.9,79.9,Yes
+208,CA-2017-135860,Male,Month-to-month,Yes,Electronic check,106.6,1934.45,Yes
+209,CA-2017-135860,Male,One year,Yes,Credit card (automatic),102.45,6654.1,No
+210,CA-2017-135860,Female,Month-to-month,Yes,Credit card (automatic),46.0,84.5,Yes
+211,CA-2015-101007,Female,Month-to-month,No,Electronic check,25.25,25.25,No
+212,CA-2015-146262,Female,Two year,No,Mailed check,19.75,1124.2,No
+213,CA-2015-146262,Female,One year,No,Electronic check,20.0,540.05,No
+214,CA-2015-146262,Female,Month-to-month,No,Electronic check,86.8,1975.85,No
+215,CA-2015-146262,Female,Month-to-month,Yes,Bank transfer (automatic),58.75,3437.45,No
+216,CA-2015-146262,Male,Two year,No,Credit card (automatic),45.25,3139.8,No
+217,CA-2016-130162,Male,Two year,Yes,Bank transfer (automatic),56.6,3789.2,No
+218,CA-2016-130162,Male,Two year,Yes,Bank transfer (automatic),84.2,5324.5,No
+219,CA-2015-169397,Male,Month-to-month,Yes,Bank transfer (automatic),80.0,624.6,No
+220,CA-2015-169397,Female,Month-to-month,Yes,Electronic check,70.15,268.35,Yes
+221,CA-2015-169397,Male,Two year,No,Bank transfer (automatic),24.75,1836.9,No
+222,CA-2015-169397,Male,One year,Yes,Electronic check,20.2,20.2,No
+223,CA-2015-169397,Male,Month-to-month,No,Mailed check,50.05,179.35,Yes
+224,CA-2015-169397,Male,One year,Yes,Bank transfer (automatic),19.35,219.35,No
+225,CA-2015-163055,Female,One year,Yes,Mailed check,50.6,1288.75,No
+226,CA-2015-163055,Female,One year,Yes,Mailed check,81.15,2545.75,No
+227,CA-2015-163055,Female,Month-to-month,No,Mailed check,55.2,55.2,Yes
+228,US-2015-145436,Male,Month-to-month,Yes,Credit card (automatic),89.9,2723.15,No
+229,US-2015-145436,Male,Two year,Yes,Credit card (automatic),85.3,4107.25,No
+230,US-2014-156216,Male,Two year,Yes,Credit card (automatic),108.0,5760.65,No
+231,US-2017-100930,Male,Month-to-month,Yes,Credit card (automatic),93.5,4747.5,No
+232,US-2017-100930,Male,Month-to-month,Yes,Mailed check,84.6,84.6,Yes
+233,US-2017-100930,Male,Two year,No,Credit card (automatic),20.25,1566.9,No
+234,US-2017-100930,Male,Month-to-month,No,Electronic check,25.15,702.0,No
+235,US-2017-100930,Female,Month-to-month,Yes,Mailed check,54.4,114.1,Yes
+236,CA-2017-160514,Male,Two year,Yes,Mailed check,29.6,299.05,No
+237,CA-2016-157749,Female,Month-to-month,Yes,Electronic check,73.15,1305.95,No
+238,CA-2016-157749,Female,Month-to-month,Yes,Electronic check,95.0,1120.3,Yes
+239,CA-2016-157749,Male,Two year,No,Mailed check,19.75,284.35,No
+240,CA-2016-157749,Male,Two year,No,Bank transfer (automatic),86.6,6350.5,No
+241,CA-2016-157749,Female,Two year,No,Bank transfer (automatic),109.2,7878.3,No
+242,CA-2016-157749,Male,One year,Yes,Credit card (automatic),74.7,3187.65,No
+243,CA-2016-157749,Female,Month-to-month,No,Electronic check,94.4,6126.15,No
+244,CA-2014-131926,Female,Month-to-month,Yes,Electronic check,54.8,731.3,No
+245,CA-2014-131926,Female,Month-to-month,No,Electronic check,75.35,273.4,No
+246,CA-2014-131926,Male,One year,No,Mailed check,65.0,2531.8,No
+247,CA-2014-131926,Male,Month-to-month,Yes,Electronic check,74.4,1074.3,Yes
+248,CA-2014-131926,Female,Month-to-month,Yes,Mailed check,48.55,48.55,Yes
+249,CA-2016-154739,Female,One year,Yes,Electronic check,99.0,4298.45,No
+250,CA-2016-145625,Female,One year,Yes,Electronic check,93.5,4619.55,No
+251,CA-2016-145625,Female,Month-to-month,No,Electronic check,70.4,147.15,Yes
+252,CA-2016-146941,Male,Month-to-month,No,Electronic check,40.2,40.2,Yes
+253,CA-2016-146941,Male,One year,No,Credit card (automatic),83.7,2633.3,No
+254,US-2015-159982,Female,Month-to-month,Yes,Mailed check,19.85,193.05,No
+255,US-2015-159982,Male,Two year,Yes,Electronic check,59.55,4103.9,No
+256,US-2015-159982,Female,Two year,No,Credit card (automatic),115.1,7008.15,No
+257,US-2015-159982,Male,One year,No,Credit card (automatic),114.35,5791.1,No
+258,CA-2017-163139,Male,Month-to-month,Yes,Credit card (automatic),44.6,80.55,Yes
+259,CA-2017-163139,Male,Month-to-month,Yes,Electronic check,45.0,1228.65,No
+260,CA-2017-163139,Male,Month-to-month,Yes,Electronic check,41.15,132.2,Yes
+261,US-2017-155299,Male,Month-to-month,Yes,Electronic check,106.9,1364.3,Yes
+262,US-2014-106992,Female,Month-to-month,Yes,Electronic check,89.85,4925.35,No
+263,US-2014-106992,Male,Two year,Yes,Bank transfer (automatic),49.85,1520.1,No
+264,CA-2016-125318,Female,One year,No,Mailed check,113.3,5032.25,No
+265,CA-2015-155040,Male,Two year,No,Mailed check,88.1,5526.75,No
+266,CA-2017-136826,Male,Two year,No,Bank transfer (automatic),24.9,1195.25,No
+267,CA-2016-111010,Male,Month-to-month,Yes,Mailed check,105.0,2007.25,No
+268,US-2017-145366,Male,Two year,No,Mailed check,19.35,1099.6,Yes
+269,US-2017-145366,Male,Two year,Yes,Credit card (automatic),24.25,1732.95,No
+270,CA-2017-163979,Male,Month-to-month,Yes,Electronic check,94.45,1511.2,Yes
+271,CA-2015-155334,Female,Two year,Yes,Electronic check,59.75,3450.15,No
+272,CA-2015-155334,Female,Month-to-month,No,Bank transfer (automatic),24.8,24.8,Yes
+273,CA-2015-155334,Female,Month-to-month,No,Electronic check,107.05,2172.05,No
+274,CA-2017-118136,Male,Month-to-month,No,Mailed check,70.6,70.6,Yes
+275,CA-2017-118136,Female,Month-to-month,Yes,Electronic check,85.4,401.1,Yes
+276,CA-2017-132976,Female,Month-to-month,Yes,Electronic check,105.05,5624.85,Yes
+277,CA-2017-132976,Female,Month-to-month,Yes,Bank transfer (automatic),64.95,1339.8,No
+278,CA-2017-132976,Male,Month-to-month,Yes,Electronic check,55.0,771.95,No
+279,CA-2017-132976,Male,Month-to-month,No,Bank transfer (automatic),50.55,244.75,No
+280,US-2015-161991,Male,Month-to-month,No,Mailed check,55.15,322.9,No
+281,US-2015-161991,Female,Month-to-month,No,Electronic check,51.2,498.25,No
+282,CA-2015-130890,Male,Month-to-month,No,Mailed check,25.4,25.4,No
+283,CA-2015-130883,Male,Month-to-month,No,Mailed check,54.45,3687.75,No
+284,CA-2015-130883,Male,Month-to-month,No,Mailed check,95.15,1779.95,Yes
+285,CA-2015-130883,Male,One year,Yes,Credit card (automatic),76.0,1783.6,No
+286,CA-2016-112697,Male,Month-to-month,Yes,Electronic check,44.35,927.15,No
+287,CA-2016-112697,Male,Month-to-month,No,Electronic check,70.0,70.0,Yes
+288,CA-2016-112697,Female,Month-to-month,Yes,Electronic check,74.5,606.55,Yes
+289,CA-2016-110772,Male,Month-to-month,Yes,Credit card (automatic),44.85,435.4,Yes
+290,CA-2016-110772,Male,Month-to-month,Yes,Electronic check,76.1,1712.7,Yes
+291,CA-2016-110772,Female,One year,No,Mailed check,61.2,2021.2,No
+292,CA-2016-110772,Female,One year,No,Mailed check,86.8,1940.8,No
+293,CA-2014-111451,Male,Month-to-month,Yes,Electronic check,89.35,567.8,No
+294,CA-2014-111451,Male,Month-to-month,No,Mailed check,19.7,220.35,No
+295,CA-2014-111451,Male,Month-to-month,No,Mailed check,20.25,20.25,No
+296,CA-2014-111451,Female,Two year,No,Electronic check,76.05,5436.45,No
+297,CA-2014-111451,Male,Month-to-month,Yes,Electronic check,100.8,3437.5,No
+298,CA-2016-142545,Male,Month-to-month,Yes,Electronic check,74.55,3015.75,No
+299,CA-2016-142545,Female,Month-to-month,Yes,Mailed check,73.6,73.6,Yes
+300,CA-2016-142545,Male,One year,Yes,Bank transfer (automatic),64.9,1509.8,No
+301,CA-2016-142545,Female,Month-to-month,Yes,Electronic check,95.45,396.1,Yes
+302,CA-2016-142545,Male,Month-to-month,Yes,Electronic check,90.4,356.65,No
+303,US-2017-152380,Male,Two year,No,Credit card (automatic),60.3,4109.0,No
+304,CA-2015-144253,Female,Month-to-month,Yes,Mailed check,81.85,3141.7,No
+305,CA-2014-130960,Male,Two year,No,Mailed check,24.8,1229.1,No
+306,CA-2014-111003,Male,Month-to-month,Yes,Electronic check,74.9,2303.35,Yes
+307,CA-2014-111003,Female,Two year,No,Mailed check,75.55,2054.4,No
+308,CA-2017-126774,Male,Month-to-month,No,Electronic check,101.15,3741.85,No
+309,CA-2016-142902,Female,One year,Yes,Credit card (automatic),78.75,3682.45,No
+310,CA-2016-142902,Male,Month-to-month,Yes,Bank transfer (automatic),19.25,19.25,No
+311,CA-2016-142902,Female,Month-to-month,Yes,Electronic check,89.05,1886.25,No
+312,CA-2016-142902,Female,Two year,No,Credit card (automatic),115.05,4895.1,No
+313,CA-2014-120887,Male,Month-to-month,Yes,Electronic check,69.35,341.6,No
+314,CA-2014-167850,Female,Month-to-month,Yes,Electronic check,80.6,415.55,Yes
+315,CA-2014-167850,Male,One year,No,Credit card (automatic),110.05,5686.4,No
+316,CA-2014-164259,Female,Two year,Yes,Credit card (automatic),19.9,1355.1,No
+317,CA-2014-164973,Male,One year,No,Credit card (automatic),80.3,3058.65,Yes
+318,CA-2014-164973,Male,Month-to-month,Yes,Electronic check,93.15,2231.05,Yes
+319,CA-2014-164973,Female,Month-to-month,Yes,Credit card (automatic),91.5,3236.35,No
+320,CA-2014-164973,Male,One year,No,Bank transfer (automatic),82.45,4350.1,Yes
+321,CA-2014-164973,Female,Two year,Yes,Electronic check,60.0,4264.0,No
+322,CA-2014-156601,Male,Month-to-month,Yes,Electronic check,44.8,44.8,No
+323,CA-2016-162138,Female,One year,No,Mailed check,48.6,422.3,No
+324,CA-2016-162138,Female,Two year,Yes,Bank transfer (automatic),60.05,4176.7,No
+325,CA-2017-153339,Female,Month-to-month,Yes,Credit card (automatic),102.7,5138.1,No
+326,US-2016-141544,Female,Month-to-month,Yes,Electronic check,82.9,880.05,No
+327,US-2016-141544,Female,Month-to-month,Yes,Electronic check,70.35,139.05,Yes
+328,US-2016-141544,Male,Month-to-month,Yes,Electronic check,35.9,973.65,No
+329,US-2016-141544,Female,Month-to-month,Yes,Credit card (automatic),82.65,1470.05,No
+330,US-2016-141544,Male,Two year,Yes,Mailed check,19.85,739.35,No
+331,US-2016-150147,Female,One year,Yes,Mailed check,19.2,161.95,No
+332,US-2016-150147,Female,One year,Yes,Credit card (automatic),94.9,4422.95,No
+333,US-2016-150147,Male,Month-to-month,Yes,Electronic check,73.85,511.25,Yes
+334,CA-2015-137946,Male,Month-to-month,No,Mailed check,80.6,155.8,Yes
+335,CA-2015-137946,Female,One year,Yes,Bank transfer (automatic),75.8,5293.95,Yes
+336,CA-2015-137946,Male,Two year,Yes,Electronic check,104.6,4759.85,Yes
+337,CA-2014-129924,Female,Two year,Yes,Electronic check,88.15,6148.45,No
+338,CA-2014-129924,Female,Month-to-month,Yes,Credit card (automatic),94.8,3565.65,No
+339,CA-2015-128167,Male,Month-to-month,Yes,Electronic check,103.4,6603.0,Yes
+340,CA-2014-122336,Male,Month-to-month,No,Bank transfer (automatic),54.65,1830.1,No
+341,CA-2014-122336,Male,Two year,No,Credit card (automatic),85.75,6223.8,No
+342,CA-2014-122336,Female,Month-to-month,Yes,Bank transfer (automatic),67.45,4508.65,No
+343,CA-2014-122336,Male,One year,No,Mailed check,20.5,1328.15,No
+344,US-2015-120712,Female,One year,Yes,Credit card (automatic),20.25,865.0,No
+345,CA-2017-169901,Female,Month-to-month,Yes,Electronic check,72.1,72.1,No
+346,CA-2017-134306,Male,Month-to-month,Yes,Electronic check,90.4,168.2,Yes
+347,CA-2017-134306,Female,Two year,No,Bank transfer (automatic),19.45,1303.5,No
+348,CA-2017-134306,Female,Month-to-month,Yes,Electronic check,44.95,996.85,No
+349,CA-2016-129714,Female,One year,No,Bank transfer (automatic),97.0,6430.9,No
+350,CA-2016-129714,Male,Two year,Yes,Credit card (automatic),62.8,2278.75,No
+351,CA-2016-129714,Female,One year,No,Mailed check,44.6,681.4,No
+352,CA-2016-129714,Female,Month-to-month,Yes,Electronic check,89.15,574.35,No
+353,CA-2016-129714,Male,Month-to-month,Yes,Bank transfer (automatic),84.8,371.9,Yes
+354,CA-2016-138520,Female,Month-to-month,Yes,Electronic check,41.9,840.1,Yes
+355,CA-2016-138520,Female,Month-to-month,Yes,Bank transfer (automatic),80.25,846.0,Yes
+356,CA-2016-138520,Male,Month-to-month,Yes,Electronic check,54.1,889.0,No
+357,CA-2016-138520,Male,Two year,Yes,Electronic check,105.25,6823.4,No
+358,CA-2016-130001,Male,Month-to-month,No,Credit card (automatic),30.75,805.1,Yes
+359,CA-2017-155698,Female,One year,No,Electronic check,97.1,4016.75,No
+360,CA-2017-155698,Female,Month-to-month,No,Mailed check,20.2,83.75,No
+361,CA-2017-144904,Female,Two year,Yes,Bank transfer (automatic),98.8,3959.15,No
+362,CA-2017-144904,Male,One year,No,Credit card (automatic),50.3,2878.55,No
+363,CA-2017-144904,Female,Two year,Yes,Mailed check,20.55,945.7,No
+364,CA-2017-144904,Female,Month-to-month,Yes,Bank transfer (automatic),75.9,1373.05,No
+365,CA-2014-123344,Female,Month-to-month,No,Bank transfer (automatic),96.5,492.55,Yes
+366,CA-2016-155516,Male,Month-to-month,Yes,Bank transfer (automatic),59.95,1406.0,No
+367,CA-2016-155516,Female,Month-to-month,No,Mailed check,19.15,19.15,No
+368,CA-2016-155516,Male,One year,Yes,Credit card (automatic),98.65,6962.85,No
+369,CA-2016-155516,Male,Two year,Yes,Credit card (automatic),112.6,8126.65,No
+370,CA-2017-104745,Female,One year,No,Mailed check,20.6,690.25,No
+371,CA-2017-104745,Male,Month-to-month,Yes,Electronic check,85.65,181.5,Yes
+372,US-2014-119137,Female,Two year,No,Mailed check,35.75,830.8,No
+373,US-2014-119137,Male,One year,Yes,Credit card (automatic),99.75,5608.4,No
+374,US-2014-119137,Female,Month-to-month,Yes,Credit card (automatic),96.1,3646.8,No
+375,US-2014-119137,Female,One year,No,Credit card (automatic),85.1,3662.25,No
+376,US-2016-134656,Male,Month-to-month,No,Mailed check,25.35,25.35,No
+377,US-2017-134481,Male,Month-to-month,Yes,Bank transfer (automatic),104.95,2566.5,Yes
+378,CA-2015-130792,Female,Two year,No,Electronic check,89.65,5308.7,No
+379,CA-2015-130792,Female,One year,No,Electronic check,86.75,1410.25,No
+380,CA-2015-130792,Male,One year,Yes,Bank transfer (automatic),86.2,3339.05,No
+381,CA-2016-134775,Male,Month-to-month,No,Mailed check,50.65,50.65,Yes
+382,CA-2016-134775,Male,Two year,Yes,Bank transfer (automatic),64.8,4732.35,No
+383,CA-2015-125395,Female,Month-to-month,Yes,Credit card (automatic),90.85,90.85,Yes
+384,US-2015-168935,Female,Two year,Yes,Bank transfer (automatic),108.1,5067.45,No
+385,US-2015-168935,Female,Month-to-month,No,Mailed check,19.95,214.75,Yes
+386,CA-2015-122756,Male,Month-to-month,Yes,Electronic check,85.45,4874.7,Yes
+387,CA-2015-122756,Male,One year,Yes,Electronic check,54.75,2348.45,No
+388,CA-2014-115973,Male,Month-to-month,Yes,Mailed check,90.4,4063.0,No
+389,CA-2017-101798,Male,Month-to-month,No,Electronic check,44.0,44.0,No
+390,CA-2017-101798,Female,Month-to-month,Yes,Bank transfer (automatic),95.6,2595.25,No
+391,US-2014-135972,Female,Month-to-month,Yes,Bank transfer (automatic),84.8,2309.55,No
+392,US-2014-135972,Female,Month-to-month,Yes,Electronic check,44.3,89.3,No
+393,US-2014-134971,Female,Month-to-month,No,Mailed check,19.9,367.55,No
+394,CA-2017-102946,Male,Month-to-month,Yes,Electronic check,95.05,3944.5,No
+395,CA-2017-165603,Female,Two year,Yes,Credit card (automatic),90.05,5965.95,No
+396,CA-2017-165603,Male,Month-to-month,Yes,Bank transfer (automatic),109.9,3694.7,No
+397,CA-2015-122259,Female,Month-to-month,Yes,Credit card (automatic),73.95,2524.45,Yes
+398,CA-2016-108987,Female,Month-to-month,Yes,Electronic check,54.6,1803.7,No
+399,CA-2016-108987,Female,One year,No,Mailed check,20.05,415.1,No
+400,CA-2016-108987,Female,One year,No,Bank transfer (automatic),19.75,624.15,No
+401,CA-2016-108987,Female,One year,No,Credit card (automatic),20.05,237.7,No
+402,CA-2014-113166,Male,Month-to-month,Yes,Credit card (automatic),99.45,7007.6,Yes
+403,CA-2014-155208,Female,One year,No,Bank transfer (automatic),55.9,3848.8,No
+404,CA-2017-117933,Female,Two year,Yes,Mailed check,19.7,419.4,No
+405,CA-2017-117457,Female,Two year,Yes,Credit card (automatic),19.8,1468.75,No
+406,CA-2017-117457,Female,One year,Yes,Bank transfer (automatic),95.4,5812.0,No
+407,CA-2017-117457,Female,Month-to-month,Yes,Mailed check,93.95,2861.45,No
+408,CA-2017-117457,Female,Month-to-month,Yes,Mailed check,19.9,19.9,Yes
+409,CA-2017-117457,Female,Month-to-month,Yes,Mailed check,19.6,19.6,Yes
+410,CA-2017-117457,Female,Month-to-month,Yes,Electronic check,81.35,233.7,Yes
+411,CA-2017-117457,Female,One year,Yes,Bank transfer (automatic),24.45,1066.15,No
+412,CA-2017-117457,Female,Month-to-month,Yes,Electronic check,74.95,2149.05,No
+413,CA-2017-117457,Female,Month-to-month,Yes,Electronic check,87.35,4473.0,No
+414,CA-2017-142636,Female,Month-to-month,Yes,Bank transfer (automatic),70.65,3545.05,No
+415,CA-2017-142636,Female,Month-to-month,No,Bank transfer (automatic),73.25,1195.75,No
+416,CA-2017-122105,Male,Two year,Yes,Bank transfer (automatic),98.7,6858.9,No
+417,CA-2016-148796,Female,Two year,Yes,Mailed check,24.8,1024.7,No
+418,CA-2017-154816,Male,Month-to-month,No,Electronic check,83.3,1845.9,Yes
+419,CA-2017-110478,Male,Month-to-month,Yes,Bank transfer (automatic),75.3,75.3,Yes
+420,CA-2017-110478,Female,Month-to-month,Yes,Mailed check,24.3,132.25,No
+421,CA-2014-142048,Male,Month-to-month,Yes,Bank transfer (automatic),69.85,515.45,No
+422,CA-2017-125388,Female,One year,No,Credit card (automatic),100.55,2830.45,No
+423,CA-2017-125388,Female,One year,No,Mailed check,25.7,1110.5,No
+424,CA-2017-155705,Female,Month-to-month,No,Bank transfer (automatic),40.7,449.3,No
+425,CA-2017-149160,Female,Month-to-month,No,Bank transfer (automatic),51.65,2838.55,No
+426,CA-2017-149160,Female,One year,Yes,Bank transfer (automatic),105.1,5376.4,No
+427,CA-2014-101476,Male,Month-to-month,No,Electronic check,85.95,858.6,No
+428,CA-2017-152275,Male,Month-to-month,Yes,Bank transfer (automatic),75.6,1395.05,No
+429,US-2016-123750,Male,One year,No,Bank transfer (automatic),58.25,3975.7,No
+430,US-2016-123750,Female,Month-to-month,Yes,Mailed check,19.4,1182.55,Yes
+431,US-2016-123750,Female,Two year,Yes,Credit card (automatic),65.2,4784.45,No
+432,US-2016-123750,Female,Month-to-month,No,Electronic check,53.45,119.5,No
+433,CA-2016-127369,Female,Month-to-month,Yes,Bank transfer (automatic),45.4,518.9,Yes
+434,US-2014-150574,Male,Two year,Yes,Electronic check,19.75,899.45,No
+435,US-2014-150574,Male,Month-to-month,Yes,Credit card (automatic),44.45,1183.8,No
+436,CA-2016-147375,Female,One year,No,Bank transfer (automatic),20.85,720.05,No
+437,CA-2016-147375,Female,Two year,Yes,Credit card (automatic),114.05,8468.2,No
+438,CA-2017-130043,Male,Month-to-month,Yes,Bank transfer (automatic),89.85,3161.2,No
+439,CA-2017-157252,Female,Month-to-month,No,Mailed check,55.05,55.05,No
+440,CA-2016-115756,Male,Month-to-month,Yes,Electronic check,112.95,1882.55,No
+441,CA-2016-115756,Female,Month-to-month,No,Credit card (automatic),101.55,5070.4,No
+442,CA-2016-115756,Male,One year,Yes,Mailed check,114.65,6049.5,No
+443,CA-2016-115756,Female,Month-to-month,No,Electronic check,64.8,1166.7,No
+444,CA-2016-115756,Female,Month-to-month,No,Electronic check,80.4,2937.65,No
+445,CA-2016-115756,Female,Month-to-month,Yes,Electronic check,105.9,6396.45,Yes
+446,CA-2017-154214,Male,Month-to-month,No,Mailed check,69.55,69.55,Yes
+447,CA-2016-166674,Female,Two year,Yes,Bank transfer (automatic),25.05,1270.25,No
+448,CA-2016-166674,Male,Month-to-month,Yes,Electronic check,94.75,759.55,No
+449,CA-2016-166674,Female,Two year,No,Bank transfer (automatic),105.5,7611.55,No
+450,CA-2016-166674,Female,One year,No,Mailed check,24.7,1642.75,No
+451,CA-2016-166674,Female,Month-to-month,Yes,Mailed check,69.75,1545.4,No
+452,CA-2016-166674,Male,Month-to-month,Yes,Bank transfer (automatic),60.2,3582.4,No
+453,CA-2017-147277,Male,Month-to-month,Yes,Electronic check,81.05,2227.1,Yes
+454,CA-2017-147277,Male,Two year,No,Mailed check,24.4,1417.9,No
+455,CA-2016-100153,Female,Month-to-month,Yes,Electronic check,104.15,2494.65,No
+456,US-2014-110674,Male,One year,No,Bank transfer (automatic),92.9,2768.35,No
+457,US-2016-157945,Female,Two year,No,Bank transfer (automatic),80.8,2369.3,No
+458,US-2016-157945,Female,Month-to-month,No,Mailed check,20.0,38.0,No
+459,CA-2015-109638,Male,Month-to-month,Yes,Electronic check,75.1,75.1,No
+460,CA-2015-109638,Female,Month-to-month,No,Mailed check,19.65,100.9,No
+461,CA-2015-109638,Male,Month-to-month,Yes,Bank transfer (automatic),69.45,1614.05,No
+462,CA-2016-109869,Male,Month-to-month,No,Electronic check,101.15,385.9,Yes
+463,CA-2016-109869,Male,Month-to-month,Yes,Electronic check,99.8,673.25,Yes
+464,CA-2016-109869,Female,Two year,Yes,Bank transfer (automatic),116.05,8404.9,No
+465,CA-2016-109869,Female,Two year,Yes,Mailed check,40.05,2799.75,No
+466,CA-2016-109869,Male,Two year,No,Electronic check,102.1,6538.45,No
+467,US-2015-101399,Female,One year,Yes,Electronic check,89.7,6588.95,No
+468,CA-2017-154907,Male,Two year,No,Mailed check,19.9,868.1,No
+469,US-2016-100419,Male,Month-to-month,No,Electronic check,55.95,734.35,Yes
+470,CA-2015-154144,Female,One year,No,Mailed check,20.65,330.6,No
+471,CA-2014-144666,Male,Month-to-month,Yes,Electronic check,55.0,55.0,Yes
+472,CA-2014-144666,Male,Month-to-month,Yes,Mailed check,70.05,564.4,No
+473,CA-2014-144666,Female,Month-to-month,No,Mailed check,53.6,1315.35,No
+474,CA-2014-144666,Female,Month-to-month,Yes,Electronic check,74.7,74.7,Yes
+475,CA-2014-144666,Female,Month-to-month,Yes,Electronic check,80.25,1861.5,Yes
+476,CA-2014-144666,Female,Month-to-month,Yes,Electronic check,76.05,2747.2,No
+477,CA-2016-103891,Male,Month-to-month,Yes,Electronic check,75.7,554.05,No
+478,CA-2016-152632,Female,Month-to-month,Yes,Electronic check,96.1,453.4,Yes
+479,CA-2016-100790,Female,Month-to-month,No,Bank transfer (automatic),69.0,994.8,Yes
+480,CA-2016-100790,Male,Two year,No,Mailed check,19.65,225.75,No
+481,CA-2014-134677,Female,Month-to-month,Yes,Bank transfer (automatic),45.3,2145.0,Yes
+482,CA-2014-127691,Male,Month-to-month,Yes,Electronic check,81.45,1671.6,No
+483,CA-2014-127691,Male,One year,Yes,Bank transfer (automatic),108.5,8003.8,No
+484,CA-2017-140963,Female,Month-to-month,Yes,Electronic check,83.55,680.05,Yes
+485,CA-2017-140963,Female,Two year,Yes,Credit card (automatic),84.5,6130.85,No
+486,CA-2017-140963,Female,Month-to-month,Yes,Electronic check,100.15,1415.0,No
+487,CA-2014-154627,Female,Two year,Yes,Bank transfer (automatic),88.6,6201.95,No
+488,CA-2014-133753,Male,Two year,Yes,Bank transfer (automatic),52.55,6201.95,No
+489,CA-2014-133753,Male,Month-to-month,Yes,Electronic check,74.35,74.35,Yes
+490,CA-2014-133753,Female,Two year,Yes,Bank transfer (automatic),104.8,6597.25,No
+491,CA-2014-113362,Male,Month-to-month,Yes,Electronic check,59.0,114.15,No
+492,CA-2014-113362,Female,Month-to-month,Yes,Electronic check,74.4,139.4,Yes
+493,CA-2016-169166,Male,One year,No,Bank transfer (automatic),64.05,3902.6,No
+494,US-2016-120929,Male,Month-to-month,No,Mailed check,20.4,20.4,No
+495,CA-2015-134782,Male,One year,Yes,Bank transfer (automatic),43.75,903.6,Yes
+496,CA-2016-126158,Male,Month-to-month,No,Mailed check,60.9,1785.65,No
+497,CA-2016-126158,Female,Two year,No,Bank transfer (automatic),19.8,1397.65,No
+498,CA-2016-126158,Female,Month-to-month,No,Electronic check,28.45,131.05,Yes
+499,CA-2016-126158,Male,Month-to-month,Yes,Bank transfer (automatic),99.7,1238.45,Yes
+500,US-2016-105578,Male,One year,No,Credit card (automatic),116.25,3899.05,No
+501,US-2016-105578,Male,Two year,Yes,Credit card (automatic),80.7,5676.0,No
+502,US-2016-105578,Female,One year,No,Bank transfer (automatic),65.2,4543.15,No
+503,US-2016-105578,Male,Month-to-month,Yes,Bank transfer (automatic),84.05,4326.8,No
+504,US-2016-105578,Male,Two year,Yes,Credit card (automatic),79.45,5502.55,No
+505,CA-2017-134978,Male,Month-to-month,Yes,Electronic check,94.1,1782.4,Yes
+506,CA-2015-145352,Female,Month-to-month,Yes,Mailed check,78.0,851.8,No
+507,CA-2015-145352,Male,Month-to-month,Yes,Electronic check,94.2,167.5,Yes
+508,CA-2015-145352,Female,Month-to-month,Yes,Electronic check,80.5,502.85,Yes
+509,CA-2015-145352,Male,Month-to-month,No,Mailed check,19.85,19.85,No
+510,CA-2017-135307,Female,One year,No,Credit card (automatic),94.3,1818.3,No
+511,CA-2017-135307,Female,Month-to-month,Yes,Electronic check,106.45,6300.15,No
+512,CA-2016-106341,Female,Month-to-month,Yes,Electronic check,74.35,334.8,Yes
+513,CA-2017-163405,Female,Month-to-month,Yes,Bank transfer (automatic),105.45,5916.95,No
+514,CA-2017-163405,Male,Month-to-month,Yes,Credit card (automatic),95.0,2852.4,No
+515,CA-2017-127432,Female,Month-to-month,No,Bank transfer (automatic),104.8,4131.95,Yes
+516,CA-2017-127432,Male,One year,No,Mailed check,54.3,1546.3,No
+517,CA-2017-127432,Female,Month-to-month,No,Electronic check,70.05,302.6,No
+518,CA-2017-127432,Female,Month-to-month,Yes,Bank transfer (automatic),75.2,1929.35,Yes
+519,CA-2015-157812,Female,Month-to-month,No,Credit card (automatic),20.05,265.45,No
+520,CA-2015-157812,Female,One year,Yes,Electronic check,105.4,6989.45,No
+521,CA-2015-157812,Male,Month-to-month,Yes,Electronic check,51.6,1442.0,No
+522,CA-2017-145142,Female,Month-to-month,No,Bank transfer (automatic),85.5,4713.4,No
+523,US-2016-139486,Female,Month-to-month,No,Bank transfer (automatic),75.6,1758.6,Yes
+524,US-2016-139486,Female,Month-to-month,Yes,Electronic check,100.05,3480.0,Yes
+525,CA-2015-158792,Female,One year,No,Electronic check,91.25,4738.3,No
+526,CA-2017-113558,Female,Two year,Yes,Credit card (automatic),115.75,8399.15,No
+527,CA-2017-113558,Female,One year,Yes,Credit card (automatic),94.7,5430.35,No
+528,US-2015-138303,Female,Two year,No,Mailed check,19.6,686.95,No
+529,US-2015-138303,Female,Two year,Yes,Bank transfer (automatic),99.9,5706.3,No
+530,US-2015-138303,Female,Two year,Yes,Credit card (automatic),21.1,490.65,No
+531,CA-2015-102848,Male,Two year,No,Credit card (automatic),20.05,1360.25,No
+532,US-2017-129441,Male,Month-to-month,Yes,Electronic check,79.95,174.45,No
+533,CA-2016-168753,Female,One year,Yes,Credit card (automatic),107.15,7379.8,No
+534,CA-2016-168753,Female,Month-to-month,Yes,Electronic check,85.0,85.0,Yes
+535,CA-2016-126613,Male,Month-to-month,Yes,Electronic check,89.55,1021.75,No
+536,US-2017-122637,Male,Month-to-month,Yes,Bank transfer (automatic),81.55,5029.05,No
+537,CA-2015-147851,Male,One year,Yes,Mailed check,58.45,1955.4,No
+538,CA-2015-134894,Male,One year,Yes,Credit card (automatic),95.65,6744.2,No
+539,CA-2015-134894,Male,Two year,Yes,Bank transfer (automatic),80.6,4946.7,No
+540,CA-2014-140795,Male,Two year,Yes,Bank transfer (automatic),113.1,8248.5,No
+541,CA-2016-136924,Female,Month-to-month,Yes,Mailed check,58.95,601.6,No
+542,US-2015-120161,Male,Month-to-month,No,Mailed check,19.55,19.55,No
+543,CA-2014-103849,Male,Month-to-month,Yes,Bank transfer (automatic),86.05,834.1,Yes
+544,CA-2014-103849,Male,Month-to-month,Yes,Credit card (automatic),45.55,597.0,Yes
+545,CA-2014-103849,Male,One year,Yes,Bank transfer (automatic),78.95,2647.2,No
+546,CA-2017-162929,Female,Month-to-month,Yes,Mailed check,86.3,3266.0,Yes
+547,CA-2017-162929,Female,One year,Yes,Bank transfer (automatic),105.05,6744.25,No
+548,CA-2015-113173,Male,One year,Yes,Bank transfer (automatic),101.9,5265.5,No
+549,CA-2015-113173,Male,Month-to-month,No,Mailed check,19.75,311.6,No
+550,CA-2015-113173,Male,Two year,Yes,Bank transfer (automatic),110.3,7966.9,No
+551,CA-2016-136406,Female,Two year,Yes,Bank transfer (automatic),115.6,8220.4,No
+552,CA-2017-112774,Male,Two year,No,Bank transfer (automatic),19.35,1153.25,No
+553,CA-2017-101945,Male,Two year,Yes,Credit card (automatic),25.6,514.75,No
+554,CA-2017-100650,Female,Month-to-month,Yes,Bank transfer (automatic),80.35,2596.15,Yes
+555,CA-2014-155852,Female,One year,Yes,Bank transfer (automatic),68.75,3808.0,No
+556,CA-2016-113243,Male,Month-to-month,No,Bank transfer (automatic),19.9,19.9,No
+557,CA-2016-113243,Male,One year,No,Mailed check,70.6,2708.2,No
+558,CA-2016-113243,Male,Month-to-month,No,Electronic check,70.2,760.05,No
+559,CA-2017-118731,Male,Month-to-month,Yes,Electronic check,49.3,49.3,No
+560,CA-2017-118731,Male,One year,Yes,Electronic check,107.25,6033.3,No
+561,CA-2014-145576,Male,Month-to-month,Yes,Mailed check,23.6,89.05,No
+562,CA-2014-145576,Female,Month-to-month,No,Credit card (automatic),69.7,516.15,No
+563,CA-2015-130736,Male,Two year,Yes,Credit card (automatic),99.5,5861.75,No
+564,CA-2015-130736,Male,Month-to-month,No,Bank transfer (automatic),64.3,445.95,No
+565,CA-2017-137099,Male,Two year,Yes,Credit card (automatic),70.85,4973.4,No
+566,CA-2017-156951,Female,One year,No,Electronic check,101.9,1667.25,No
+567,CA-2017-156951,Male,Two year,No,Credit card (automatic),73.5,5357.75,No
+568,CA-2017-156951,Male,Month-to-month,Yes,Electronic check,100.25,3527.6,Yes
+569,CA-2017-156951,Male,One year,Yes,Credit card (automatic),40.4,422.6,No
+570,CA-2017-164826,Male,Two year,Yes,Credit card (automatic),19.25,1103.25,No
+571,CA-2017-164826,Male,Two year,No,Bank transfer (automatic),59.6,2754.0,No
+572,CA-2017-164826,Male,One year,No,Credit card (automatic),64.9,697.25,No
+573,CA-2017-164826,Male,One year,No,Credit card (automatic),100.3,5614.45,Yes
+574,CA-2016-127250,Male,Month-to-month,Yes,Electronic check,110.85,3204.4,No
+575,CA-2015-149713,Male,Two year,Yes,Mailed check,81.05,4747.65,No
+576,CA-2015-149713,Female,One year,No,Bank transfer (automatic),98.05,3082.1,No
+577,CA-2015-149713,Female,Month-to-month,Yes,Electronic check,70.5,597.9,No
+578,CA-2017-118640,Female,Month-to-month,Yes,Electronic check,94.55,3365.4,No
+579,CA-2017-118640,Male,Month-to-month,Yes,Mailed check,19.65,38.8,No
+580,CA-2015-132906,Male,Month-to-month,No,Mailed check,19.0,233.55,Yes
+581,CA-2017-145233,Male,Month-to-month,No,Mailed check,75.3,75.3,Yes
+582,CA-2017-145233,Female,Month-to-month,Yes,Electronic check,89.2,346.2,Yes
+583,CA-2017-145233,Male,Month-to-month,Yes,Mailed check,19.0,19.0,No
+584,CA-2017-145233,Male,Month-to-month,Yes,Mailed check,20.0,61.7,No
+585,CA-2017-145233,Male,Month-to-month,Yes,Electronic check,85.7,85.7,Yes
+586,CA-2015-128139,Male,Two year,Yes,Credit card (automatic),63.25,3342.45,No
+587,CA-2015-128139,Male,One year,No,Mailed check,20.1,85.1,No
+588,US-2016-156986,Male,Two year,Yes,Electronic check,99.15,7422.1,No
+589,US-2016-156986,Female,Two year,No,Electronic check,90.4,6668.05,No
+590,US-2016-156986,Male,Two year,Yes,Credit card (automatic),111.9,8071.05,No
+591,US-2016-156986,Male,One year,No,Electronic check,24.9,1174.8,No
+592,CA-2014-135405,Male,Two year,No,Credit card (automatic),83.5,5435.0,No
+593,CA-2014-135405,Male,Month-to-month,Yes,Credit card (automatic),84.3,2438.6,No
+594,CA-2014-131450,Female,Month-to-month,No,Mailed check,45.6,45.6,No
+595,CA-2014-131450,Male,Month-to-month,Yes,Mailed check,61.65,713.75,Yes
+596,CA-2014-131450,Male,Two year,No,Mailed check,54.85,916.15,No
+597,CA-2014-131450,Male,Month-to-month,No,Mailed check,65.55,237.2,No
+598,CA-2016-120180,Male,One year,Yes,Credit card (automatic),90.35,4614.55,No
+599,US-2016-100720,Male,Two year,Yes,Credit card (automatic),20.4,1414.45,No
+600,US-2016-100720,Female,Month-to-month,Yes,Credit card (automatic),74.55,1170.5,No
+601,US-2016-100720,Male,One year,No,Mailed check,19.95,47.7,No
+602,CA-2014-149958,Male,One year,Yes,Bank transfer (automatic),74.25,4859.25,No
+603,CA-2014-149958,Male,Two year,No,Electronic check,108.65,4903.2,No
+604,CA-2014-149958,Male,One year,Yes,Bank transfer (automatic),109.55,3608.0,No
+605,CA-2014-149958,Male,Two year,No,Credit card (automatic),86.65,6094.25,No
+606,CA-2014-149958,Female,Two year,No,Credit card (automatic),81.0,3084.9,No
+607,US-2014-105767,Male,One year,No,Credit card (automatic),47.85,2356.75,No
+608,US-2014-105767,Male,Two year,No,Bank transfer (automatic),114.55,8306.05,No
+609,US-2014-105767,Male,Month-to-month,No,Bank transfer (automatic),105.25,6786.4,Yes
+610,CA-2016-161816,Female,Month-to-month,Yes,Electronic check,29.95,248.95,Yes
+611,CA-2016-161816,Male,Month-to-month,No,Mailed check,65.0,663.05,Yes
+612,CA-2016-121223,Male,Two year,No,Mailed check,20.55,1357.1,No
+613,CA-2016-121223,Male,One year,Yes,Credit card (automatic),109.8,4860.35,No
+614,CA-2017-138611,Female,Two year,No,Bank transfer (automatic),69.5,3418.2,No
+615,CA-2017-138611,Male,Month-to-month,No,Mailed check,48.85,631.4,No
+616,CA-2017-117947,Male,Month-to-month,Yes,Credit card (automatic),25.25,186.3,No
+617,CA-2017-117947,Male,One year,Yes,Credit card (automatic),102.85,6976.75,No
+618,CA-2017-117947,Male,Month-to-month,Yes,Bank transfer (automatic),87.55,4884.85,No
+619,CA-2017-117947,Male,Month-to-month,Yes,Bank transfer (automatic),78.55,522.95,No
+620,CA-2017-117947,Female,Month-to-month,Yes,Bank transfer (automatic),34.55,362.6,No
+621,US-2014-111171,Male,One year,Yes,Electronic check,92.05,5755.8,No
+622,CA-2015-138009,Female,One year,Yes,Electronic check,85.05,3355.65,No
+623,CA-2015-138009,Male,Two year,No,Mailed check,19.7,406.95,No
+624,CA-2015-138009,Female,Month-to-month,No,Bank transfer (automatic),20.0,137.6,Yes
+625,CA-2015-138009,Female,Month-to-month,Yes,Electronic check,95.15,2395.7,No
+626,CA-2017-163020,Male,Month-to-month,No,Electronic check,84.25,1968.1,No
+627,CA-2017-153787,Male,One year,No,Credit card (automatic),104.6,6819.45,No
+628,CA-2017-133431,Male,Two year,No,Electronic check,111.65,7943.45,No
+629,CA-2017-133431,Female,Month-to-month,No,Credit card (automatic),90.05,4547.25,Yes
+630,US-2016-135720,Male,Month-to-month,Yes,Bank transfer (automatic),110.75,4687.9,Yes
+631,US-2016-135720,Male,Month-to-month,No,Bank transfer (automatic),55.0,2473.95,No
+632,US-2016-135720,Female,Two year,No,Credit card (automatic),89.85,6562.9,No
+633,CA-2017-144694,Male,One year,No,Mailed check,20.35,176.3,No
+634,CA-2017-144694,Male,One year,Yes,Bank transfer (automatic),54.55,2236.2,No
+635,CA-2015-168004,Male,Month-to-month,Yes,Electronic check,105.5,6985.65,Yes
+636,US-2016-123470,Female,Two year,No,Bank transfer (automatic),99.45,3109.9,No
+637,US-2016-123470,Male,Two year,No,Credit card (automatic),70.9,4911.35,No
+638,CA-2016-115917,Female,One year,Yes,Bank transfer (automatic),104.55,5794.65,Yes
+639,CA-2016-115917,Female,Month-to-month,Yes,Electronic check,85.25,855.3,Yes
+640,CA-2016-147067,Female,Two year,No,Bank transfer (automatic),25.4,1620.2,No
+641,CA-2017-167913,Female,Month-to-month,No,Electronic check,56.15,2499.3,Yes
+642,CA-2017-167913,Male,Month-to-month,Yes,Electronic check,89.55,89.55,Yes
+643,CA-2017-106103,Male,One year,Yes,Bank transfer (automatic),89.85,4287.2,No
+644,US-2017-127719,Female,Month-to-month,Yes,Electronic check,25.25,394.85,No
+645,CA-2017-126221,Female,Month-to-month,Yes,Electronic check,94.55,1899.65,Yes
+646,CA-2016-103947,Male,Month-to-month,Yes,Mailed check,45.7,45.7,Yes
+647,CA-2016-103947,Male,One year,Yes,Electronic check,69.65,3442.15,No
+648,CA-2016-160745,Male,Month-to-month,No,Electronic check,89.5,161.5,Yes
+649,CA-2016-160745,Male,Month-to-month,No,Credit card (automatic),70.0,1732.6,No
+650,CA-2016-160745,Female,Month-to-month,Yes,Bank transfer (automatic),69.55,222.3,Yes
+651,CA-2016-132661,Male,Month-to-month,Yes,Mailed check,74.6,74.6,Yes
+652,CA-2017-140844,Female,Two year,No,Mailed check,20.1,655.3,No
+653,CA-2017-140844,Female,Month-to-month,No,Mailed check,24.8,475.25,No
+654,CA-2016-137239,Male,Month-to-month,No,Electronic check,19.65,164.3,Yes
+655,CA-2016-137239,Female,Month-to-month,Yes,Credit card (automatic),95.1,865.1,No
+656,CA-2016-137239,Female,Two year,Yes,Credit card (automatic),88.85,6132.7,No
+657,US-2016-156097,Female,One year,No,Bank transfer (automatic),78.8,3597.5,No
+658,US-2016-156097,Female,One year,No,Mailed check,19.85,35.9,Yes
+659,CA-2015-146563,Male,Month-to-month,No,Bank transfer (automatic),20.35,697.65,No
+660,CA-2015-146563,Female,Month-to-month,Yes,Mailed check,24.25,96.05,Yes
+661,CA-2015-146563,Male,Month-to-month,No,Mailed check,45.25,428.7,No
+662,CA-2015-146563,Male,Month-to-month,No,Mailed check,20.05,20.05,No
+663,CA-2016-123666,Female,Two year,Yes,Mailed check,69.55,4459.15,No
+664,CA-2016-143308,Male,Two year,No,Bank transfer (automatic),19.5,1167.6,No
+665,CA-2017-132682,Male,Month-to-month,Yes,Mailed check,74.75,238.1,No
+666,CA-2017-132682,Male,Month-to-month,No,Electronic check,69.65,145.15,Yes
+667,CA-2017-132682,Male,Month-to-month,Yes,Bank transfer (automatic),30.2,1453.1,No
+668,CA-2014-156314,Female,Month-to-month,No,Mailed check,45.65,191.05,Yes
+669,US-2017-106663,Female,Two year,No,Bank transfer (automatic),57.8,4039.3,No
+670,US-2017-106663,Male,One year,Yes,Bank transfer (automatic),19.85,1039.45,No
+671,US-2017-106663,Female,Two year,No,Credit card (automatic),25.55,1336.1,No
+672,CA-2017-111178,Male,Month-to-month,Yes,Mailed check,75.05,75.05,Yes
+673,CA-2017-130351,Female,Month-to-month,Yes,Credit card (automatic),24.85,493.4,No
+674,CA-2017-130351,Male,Month-to-month,Yes,Electronic check,49.15,2550.9,Yes
+675,CA-2017-130351,Female,Two year,Yes,Electronic check,110.35,7246.15,No
+676,US-2017-119438,Female,One year,No,Bank transfer (automatic),24.55,1203.95,No
+677,US-2017-119438,Female,Month-to-month,Yes,Electronic check,34.7,62.25,Yes
+678,US-2017-119438,Male,Month-to-month,No,Mailed check,107.95,313.6,No
+679,US-2017-119438,Female,Month-to-month,No,Bank transfer (automatic),81.4,3775.85,No
+680,CA-2016-164511,Female,Month-to-month,No,Electronic check,80.0,80.0,Yes
+681,CA-2016-164511,Male,Two year,Yes,Bank transfer (automatic),73.8,4616.05,No
+682,CA-2016-164511,Female,Month-to-month,Yes,Credit card (automatic),64.4,195.65,No
+683,US-2017-168116,Male,One year,Yes,Credit card (automatic),103.75,4188.4,No
+684,US-2017-168116,Male,Month-to-month,No,Mailed check,71.1,71.1,No
+685,CA-2014-157784,Male,Month-to-month,Yes,Electronic check,49.9,49.9,No
+686,CA-2014-157784,Male,One year,Yes,Bank transfer (automatic),24.6,1266.4,No
+687,CA-2014-157784,Female,Month-to-month,Yes,Electronic check,49.25,91.1,Yes
+688,CA-2017-161480,Female,One year,No,Mailed check,30.1,1623.4,No
+689,US-2014-117135,Female,Month-to-month,No,Bank transfer (automatic),83.4,4149.45,No
+690,US-2014-117135,Male,Month-to-month,Yes,Mailed check,20.45,20.45,No
+691,US-2014-117135,Male,One year,Yes,Bank transfer (automatic),75.25,2344.5,No
+692,CA-2015-131534,Female,One year,No,Credit card (automatic),20.55,1013.05,No
+693,CA-2015-131534,Female,Month-to-month,Yes,Credit card (automatic),75.1,270.7,Yes
+694,CA-2015-119291,Female,One year,Yes,Mailed check,20.05,417.0,No
+695,CA-2015-119291,Male,Month-to-month,Yes,Mailed check,20.65,20.65,No
+696,CA-2015-119291,Male,Two year,Yes,Bank transfer (automatic),85.15,6316.2,No
+697,CA-2015-119291,Female,Month-to-month,Yes,Electronic check,50.15,168.15,Yes
+698,CA-2015-119291,Male,One year,Yes,Bank transfer (automatic),84.95,4018.05,No
+699,CA-2015-119291,Male,Two year,Yes,Credit card (automatic),66.5,4811.6,No
+700,CA-2015-119291,Male,Two year,Yes,Bank transfer (automatic),63.3,4189.7,No
+701,CA-2017-114552,Female,Month-to-month,No,Electronic check,83.15,2848.45,No
+702,CA-2016-163755,Male,Month-to-month,Yes,Electronic check,84.9,2516.2,No
+703,CA-2015-142027,Female,Month-to-month,Yes,Mailed check,20.55,33.6,No
+704,CA-2014-138527,Male,Month-to-month,No,Mailed check,49.25,208.45,No
+705,CA-2014-138527,Female,Month-to-month,Yes,Bank transfer (automatic),79.85,2015.35,Yes
+706,CA-2014-138527,Female,Two year,Yes,Mailed check,59.6,3739.8,No
+707,CA-2014-112158,Male,One year,Yes,Bank transfer (automatic),104.65,2964.0,No
+708,CA-2014-112158,Female,Month-to-month,Yes,Credit card (automatic),75.3,2263.4,No
+709,CA-2014-112158,Male,Month-to-month,No,Credit card (automatic),80.1,2211.8,No
+710,CA-2014-113887,Male,Month-to-month,No,Mailed check,19.55,19.55,Yes
+711,CA-2017-146136,Male,Month-to-month,Yes,Mailed check,81.0,1683.7,No
+712,US-2017-100048,Female,Two year,Yes,Credit card (automatic),24.7,1519.0,No
+713,US-2017-100048,Male,Month-to-month,Yes,Mailed check,86.0,1164.05,No
+714,US-2017-100048,Female,Two year,No,Mailed check,25.4,1710.9,No
+715,CA-2014-153150,Female,Month-to-month,Yes,Credit card (automatic),89.15,4245.55,No
+716,CA-2014-130092,Female,Two year,No,Bank transfer (automatic),58.25,4145.9,No
+717,CA-2017-108910,Male,Month-to-month,Yes,Bank transfer (automatic),85.65,2664.3,No
+718,CA-2014-104472,Male,Month-to-month,Yes,Credit card (automatic),50.35,1277.5,No
+719,CA-2014-104472,Male,Month-to-month,Yes,Credit card (automatic),80.35,5589.3,No
+720,CA-2016-112942,Male,One year,No,Mailed check,20.2,34.75,No
+721,CA-2016-142335,Male,Two year,No,Credit card (automatic),20.55,1305.95,No
+722,CA-2016-142335,Male,Month-to-month,Yes,Electronic check,85.95,381.3,Yes
+723,CA-2014-117429,Male,Month-to-month,Yes,Electronic check,45.35,141.5,Yes
+724,CA-2016-114713,Male,Month-to-month,Yes,Electronic check,94.5,3105.55,Yes
+725,CA-2017-144113,Male,Month-to-month,Yes,Mailed check,21.25,204.55,No
+726,CA-2017-144113,Male,Two year,No,Mailed check,26.25,605.9,No
+727,US-2016-150861,Male,Month-to-month,Yes,Electronic check,80.85,356.1,No
+728,US-2016-150861,Female,Month-to-month,No,Credit card (automatic),91.7,2758.15,Yes
+729,US-2016-150861,Female,Two year,Yes,Credit card (automatic),74.2,4805.65,No
+730,US-2016-150861,Male,Month-to-month,Yes,Electronic check,87.25,3941.7,Yes
+731,US-2016-150861,Male,Month-to-month,No,Mailed check,20.35,92.75,No
+732,CA-2017-131954,Male,Month-to-month,Yes,Electronic check,75.5,1901.05,No
+733,CA-2017-131954,Male,Two year,No,Bank transfer (automatic),79.05,5730.7,No
+734,CA-2017-131954,Female,Month-to-month,No,Bank transfer (automatic),90.15,2423.4,No
+735,CA-2017-131954,Male,Month-to-month,No,Credit card (automatic),50.6,1653.45,No
+736,CA-2017-131954,Male,One year,No,Credit card (automatic),110.45,3327.05,No
+737,CA-2017-131954,Male,Two year,No,Credit card (automatic),101.0,7085.5,No
+738,CA-2014-132500,Male,Month-to-month,Yes,Bank transfer (automatic),79.35,3344.1,No
+739,CA-2014-112326,Male,Two year,Yes,Bank transfer (automatic),89.85,6697.35,No
+740,CA-2014-112326,Female,Two year,Yes,Mailed check,65.0,2879.9,No
+741,CA-2014-112326,Male,Month-to-month,Yes,Electronic check,80.45,137.1,No
+742,US-2016-146710,Male,Month-to-month,No,Electronic check,98.55,1008.55,Yes
+743,US-2016-146710,Male,Two year,Yes,Mailed check,24.1,1551.6,No
+744,US-2016-146710,Male,Month-to-month,Yes,Credit card (automatic),44.05,202.15,No
+745,US-2016-146710,Female,Two year,Yes,Credit card (automatic),110.8,7882.25,No
+746,CA-2014-124429,Female,Two year,Yes,Bank transfer (automatic),114.95,8196.4,No
+747,CA-2014-124429,Female,Month-to-month,No,Mailed check,75.05,202.9,No
+748,CA-2016-150889,Female,Two year,No,Mailed check,19.25,855.1,No
+749,CA-2017-126074,Male,One year,Yes,Credit card (automatic),90.05,5817.0,No
+750,CA-2017-126074,Male,Month-to-month,Yes,Mailed check,56.7,1652.95,No
+751,CA-2017-126074,Male,Two year,Yes,Credit card (automatic),80.15,5600.15,No
+752,CA-2017-126074,Male,Month-to-month,Yes,Credit card (automatic),71.35,515.75,No
+753,CA-2016-110499,Male,Two year,No,Mailed check,20.25,515.75,No
+754,CA-2015-135272,Male,Month-to-month,No,Electronic check,90.35,190.5,No
+755,CA-2016-140928,Female,Month-to-month,Yes,Electronic check,98.55,1842.8,Yes
+756,CA-2014-106803,Female,Two year,No,Bank transfer (automatic),19.7,1253.8,No
+757,CA-2014-106803,Female,Month-to-month,No,Mailed check,19.85,57.2,No
+758,CA-2017-117240,Male,Month-to-month,Yes,Bank transfer (automatic),85.9,1269.55,Yes
+759,CA-2017-133333,Female,Two year,Yes,Bank transfer (automatic),90.35,6563.4,No
+760,CA-2015-112319,Female,Month-to-month,No,Mailed check,20.8,20.8,No
+761,CA-2017-126046,Male,Month-to-month,No,Electronic check,89.25,1907.85,Yes
+762,CA-2015-114923,Male,Month-to-month,Yes,Electronic check,70.3,208.85,Yes
+763,CA-2014-162775,Male,Two year,No,Bank transfer (automatic),66.85,4758.8,No
+764,CA-2014-162775,Female,Two year,No,Mailed check,19.9,1292.6,No
+765,CA-2014-162775,Male,Month-to-month,Yes,Mailed check,35.8,363.15,No
+766,CA-2014-162775,Male,Month-to-month,Yes,Mailed check,78.85,1600.25,No
+767,CA-2014-162775,Male,One year,No,Bank transfer (automatic),20.4,275.7,No
+768,CA-2014-106810,Male,Month-to-month,Yes,Electronic check,74.25,3089.1,No
+769,CA-2016-157245,Male,One year,No,Mailed check,64.8,1175.6,No
+770,CA-2017-104220,Male,Month-to-month,Yes,Credit card (automatic),20.45,237.3,No
+771,CA-2017-104220,Male,Month-to-month,Yes,Electronic check,93.35,1444.65,Yes
+772,CA-2017-104220,Female,Month-to-month,No,Mailed check,19.9,19.9,Yes
+773,CA-2017-104220,Female,Month-to-month,Yes,Mailed check,88.9,454.15,Yes
+774,CA-2017-104220,Male,One year,Yes,Electronic check,95.8,3036.75,Yes
+775,CA-2017-104220,Female,Two year,Yes,Credit card (automatic),110.65,8065.65,No
+776,CA-2014-165974,Male,Month-to-month,No,Mailed check,40.3,92.5,No
+777,CA-2015-144267,Male,Month-to-month,Yes,Electronic check,82.0,184.65,Yes
+778,CA-2015-144267,Male,One year,Yes,Credit card (automatic),107.0,6152.3,No
+779,CA-2015-144267,Female,Month-to-month,No,Electronic check,45.35,89.5,Yes
+780,CA-2015-144267,Male,Two year,Yes,Credit card (automatic),73.35,5154.5,No
+781,US-2015-157014,Female,Month-to-month,No,Mailed check,44.8,220.45,No
+782,US-2015-157014,Female,Month-to-month,Yes,Credit card (automatic),54.75,1510.3,No
+783,US-2015-157014,Male,Month-to-month,Yes,Electronic check,52.2,52.2,Yes
+784,US-2015-157014,Female,One year,Yes,Bank transfer (automatic),40.6,2588.95,No
+785,CA-2015-154921,Male,One year,Yes,Electronic check,110.0,4874.8,Yes
+786,CA-2017-129567,Male,Two year,No,Bank transfer (automatic),55.3,3983.6,No
+787,CA-2015-154620,Male,Month-to-month,Yes,Bank transfer (automatic),60.85,2003.6,No
+788,CA-2015-115938,Female,One year,No,Electronic check,78.4,1832.4,No
+789,CA-2015-115938,Male,Two year,No,Bank transfer (automatic),69.65,4908.25,No
+790,CA-2015-115938,Male,Two year,No,Credit card (automatic),59.85,3590.2,No
+791,CA-2015-115938,Male,One year,Yes,Credit card (automatic),76.9,5023.0,No
+792,CA-2016-105256,Male,Two year,Yes,Mailed check,19.85,146.6,No
+793,CA-2014-156433,Female,Two year,No,Credit card (automatic),67.65,2339.3,No
+794,CA-2014-156433,Female,Month-to-month,No,Credit card (automatic),45.0,298.7,No
+795,CA-2017-151428,Female,Month-to-month,Yes,Mailed check,64.2,143.65,No
+796,CA-2015-124653,Female,One year,No,Credit card (automatic),81.7,2548.65,No
+797,CA-2015-124653,Female,Month-to-month,Yes,Bank transfer (automatic),25.55,507.4,No
+798,CA-2015-124653,Male,Month-to-month,No,Electronic check,20.0,20.0,No
+799,CA-2015-101910,Male,One year,Yes,Electronic check,96.75,6125.4,Yes
+800,CA-2017-105809,Male,Two year,Yes,Credit card (automatic),75.65,5411.4,No
+801,CA-2017-105809,Male,Month-to-month,Yes,Electronic check,98.5,1058.25,Yes
+802,CA-2016-136133,Female,Two year,Yes,Mailed check,23.8,903.8,No
+803,CA-2016-115504,Male,Two year,Yes,Credit card (automatic),64.2,3009.5,No
+804,CA-2017-135783,Male,Month-to-month,Yes,Electronic check,85.35,489.45,Yes
+805,CA-2014-134313,Male,Two year,Yes,Bank transfer (automatic),76.8,5468.45,No
+806,CA-2014-134313,Female,Month-to-month,No,Credit card (automatic),55.2,1058.1,No
+807,CA-2015-140921,Male,Two year,Yes,Credit card (automatic),108.55,7616.0,No
+808,CA-2015-140921,Female,Month-to-month,Yes,Electronic check,101.3,4113.1,Yes
+809,CA-2014-151995,Male,Month-to-month,Yes,Electronic check,69.55,69.55,Yes
+810,CA-2014-151995,Female,One year,Yes,Bank transfer (automatic),103.25,6017.65,Yes
+811,CA-2014-151995,Female,Two year,Yes,Credit card (automatic),104.0,7250.15,Yes
+812,CA-2014-151995,Male,Two year,No,Electronic check,25.25,1108.2,No
+813,CA-2017-143686,Female,One year,No,Bank transfer (automatic),30.4,938.65,No
+814,CA-2017-143686,Male,Month-to-month,No,Bank transfer (automatic),20.05,94.15,No
+815,CA-2015-106565,Male,Month-to-month,Yes,Mailed check,84.6,2088.05,No
+816,CA-2016-149370,Female,Month-to-month,Yes,Mailed check,86.2,178.7,Yes
+817,CA-2014-140858,Female,One year,Yes,Bank transfer (automatic),103.7,5656.75,No
+818,CA-2014-140858,Female,Month-to-month,Yes,Electronic check,111.2,2317.1,Yes
+819,CA-2014-140858,Male,Two year,Yes,Credit card (automatic),88.0,5986.45,No
+820,CA-2014-140858,Female,Month-to-month,Yes,Electronic check,106.35,6751.35,No
+821,CA-2014-140858,Female,Two year,Yes,Credit card (automatic),79.15,3566.6,No
+822,CA-2017-101434,Female,One year,Yes,Electronic check,103.1,4889.3,No
+823,CA-2017-101434,Female,Month-to-month,Yes,Credit card (automatic),63.95,318.1,No
+824,US-2014-102071,Female,Two year,Yes,Credit card (automatic),25.8,1563.95,No
+825,US-2014-102071,Male,Month-to-month,Yes,Credit card (automatic),89.45,1430.25,Yes
+826,CA-2017-126956,Male,Month-to-month,Yes,Bank transfer (automatic),95.6,644.35,Yes
+827,CA-2017-126956,Female,Month-to-month,No,Mailed check,25.55,372.45,No
+828,CA-2017-126956,Male,One year,No,Electronic check,90.95,5453.4,Yes
+829,CA-2017-129462,Female,Month-to-month,Yes,Electronic check,44.85,1442.6,No
+830,CA-2017-129462,Male,One year,No,Electronic check,108.55,5610.7,Yes
+831,CA-2017-129462,Male,Two year,No,Credit card (automatic),25.05,963.95,No
+832,CA-2017-129462,Male,One year,No,Credit card (automatic),74.1,5222.3,No
+833,CA-2016-165316,Female,Month-to-month,Yes,Electronic check,88.8,3340.55,No
+834,CA-2016-165316,Female,Month-to-month,Yes,Electronic check,78.85,292.8,Yes
+835,CA-2016-165316,Female,Month-to-month,Yes,Electronic check,93.25,5774.55,No
+836,US-2014-115987,Female,One year,No,Credit card (automatic),71.4,4487.3,No
+837,US-2017-156083,Female,Month-to-month,No,Mailed check,44.4,44.4,Yes
+838,US-2016-137547,Female,Month-to-month,Yes,Credit card (automatic),79.2,2854.95,No
+839,CA-2015-100454,Female,Two year,No,Credit card (automatic),20.4,905.55,No
+840,CA-2015-100454,Female,One year,Yes,Electronic check,100.0,5509.3,Yes
+841,CA-2015-100454,Female,Two year,Yes,Credit card (automatic),105.0,7589.8,No
+842,CA-2016-161669,Female,One year,No,Bank transfer (automatic),19.8,229.6,Yes
+843,CA-2016-161669,Male,Month-to-month,Yes,Bank transfer (automatic),30.85,394.1,No
+844,CA-2016-161669,Female,Month-to-month,Yes,Electronic check,89.9,89.9,Yes
+845,CA-2016-161669,Male,One year,No,Mailed check,20.55,295.95,No
+846,CA-2015-114300,Male,Two year,Yes,Bank transfer (automatic),84.85,5459.2,No
+847,CA-2015-114300,Female,One year,No,Credit card (automatic),33.15,444.75,No
+848,CA-2017-107503,Female,Two year,Yes,Credit card (automatic),92.0,6782.15,No
+849,CA-2014-107755,Male,Two year,No,Credit card (automatic),89.8,6510.45,No
+850,CA-2016-152534,Male,Two year,Yes,Bank transfer (automatic),115.8,8476.5,No
+851,CA-2016-152534,Male,Two year,Yes,Mailed check,85.15,4461.85,No
+852,CA-2016-113747,Male,Month-to-month,No,Mailed check,24.85,62.0,No
+853,CA-2016-123274,Female,Month-to-month,Yes,Electronic check,64.35,352.65,No
+854,CA-2016-123274,Female,Two year,No,Credit card (automatic),20.5,1424.9,No
+855,CA-2014-125612,Male,One year,Yes,Electronic check,100.15,6413.65,Yes
+856,CA-2014-125612,Male,Two year,No,Credit card (automatic),86.05,6309.65,No
+857,CA-2014-125612,Female,Month-to-month,No,Electronic check,50.8,50.8,Yes
+858,CA-2017-161984,Female,One year,No,Electronic check,89.0,5898.6,No
+859,CA-2017-161984,Female,Two year,Yes,Credit card (automatic),64.8,4719.75,No
+860,CA-2014-133851,Male,One year,No,Credit card (automatic),19.8,457.3,No
+861,CA-2014-133851,Female,Two year,No,Bank transfer (automatic),93.4,5822.3,No
+862,CA-2016-134474,Male,Month-to-month,Yes,Electronic check,73.65,1463.5,Yes
+863,CA-2016-134474,Male,Month-to-month,Yes,Electronic check,95.1,307.4,Yes
+864,CA-2016-134474,Female,Month-to-month,Yes,Credit card (automatic),94.65,2104.55,Yes
+865,CA-2014-149020,Female,Month-to-month,Yes,Mailed check,80.6,319.15,Yes
+866,CA-2014-149020,Male,Two year,Yes,Bank transfer (automatic),39.0,2337.45,No
+867,CA-2016-134362,Male,Month-to-month,Yes,Mailed check,20.5,104.3,No
+868,CA-2014-136742,Female,One year,No,Electronic check,85.55,5084.65,Yes
+869,CA-2016-158099,Male,Two year,Yes,Mailed check,26.4,121.25,No
+870,CA-2016-158099,Male,Two year,Yes,Bank transfer (automatic),98.2,7015.9,No
+871,CA-2015-131128,Male,One year,Yes,Credit card (automatic),97.55,5598.0,No
+872,CA-2014-148488,Female,Two year,No,Credit card (automatic),19.95,1269.1,No
+873,CA-2014-148488,Female,Month-to-month,Yes,Electronic check,50.8,3027.4,Yes
+874,CA-2017-114636,Male,Two year,No,Bank transfer (automatic),99.7,4634.35,No
+875,CA-2016-116736,Male,Month-to-month,Yes,Credit card (automatic),34.8,113.95,No
+876,CA-2016-116736,Male,Month-to-month,No,Electronic check,105.1,1582.75,Yes
+877,CA-2016-116736,Female,One year,No,Bank transfer (automatic),60.15,3077.0,No
+878,US-2014-158638,Female,One year,No,Electronic check,64.75,4039.5,No
+879,CA-2017-111689,Male,Month-to-month,Yes,Bank transfer (automatic),54.65,1665.2,No
+880,CA-2017-111689,Female,Month-to-month,Yes,Electronic check,110.1,1043.3,Yes
+881,CA-2015-129098,Female,One year,No,Credit card (automatic),19.3,504.2,No
+882,US-2017-123463,Male,Month-to-month,No,Electronic check,83.9,497.55,Yes
+883,CA-2016-165148,Male,One year,Yes,Electronic check,111.25,7511.65,No
+884,CA-2014-134061,Female,One year,Yes,Credit card (automatic),35.8,1782.0,No
+885,CA-2015-143602,Male,Month-to-month,Yes,Mailed check,20.05,20.05,No
+886,CA-2017-115364,Female,Month-to-month,Yes,Electronic check,84.35,609.65,No
+887,CA-2017-150707,Female,One year,Yes,Bank transfer (automatic),110.5,2857.6,No
+888,CA-2014-104976,Female,One year,No,Credit card (automatic),91.2,3247.55,No
+889,CA-2017-132934,Male,Month-to-month,Yes,Electronic check,100.55,6215.35,Yes
+890,CA-2017-132934,Male,Month-to-month,No,Electronic check,89.3,2823.0,No
+891,CA-2017-133256,Female,Month-to-month,Yes,Bank transfer (automatic),103.85,5017.9,Yes
+892,CA-2017-133256,Male,Month-to-month,Yes,Credit card (automatic),81.1,2619.25,No
+893,CA-2017-133256,Male,Month-to-month,No,Electronic check,24.6,24.6,Yes
+894,CA-2016-105494,Female,One year,Yes,Credit card (automatic),81.2,4965.1,No
+895,CA-2016-105494,Male,Month-to-month,Yes,Credit card (automatic),94.3,2679.7,No
+896,CA-2016-140634,Female,Two year,Yes,Bank transfer (automatic),116.1,8310.55,No
+897,CA-2014-144407,Male,Two year,No,Electronic check,105.55,5682.25,No
+898,CA-2017-160983,Female,Month-to-month,Yes,Bank transfer (automatic),98.9,1120.95,Yes
+899,US-2016-114622,Male,Month-to-month,Yes,Credit card (automatic),94.4,4914.9,No
+900,CA-2017-150959,Female,Month-to-month,No,Mailed check,19.5,27.55,No
+901,CA-2017-150959,Male,Month-to-month,No,Credit card (automatic),98.3,923.5,Yes
+902,CA-2017-132353,Male,Month-to-month,No,Electronic check,93.85,1625.65,Yes
+903,CA-2016-130477,Male,One year,Yes,Credit card (automatic),105.6,6068.65,No
+904,CA-2016-130477,Male,Two year,No,Credit card (automatic),81.35,5398.6,No
+905,CA-2016-130477,Male,Month-to-month,Yes,Electronic check,100.5,918.6,Yes
+906,CA-2017-143259,Male,Month-to-month,Yes,Electronic check,56.4,234.85,No
+907,CA-2017-143259,Female,One year,Yes,Bank transfer (automatic),65.35,1231.85,No
+908,CA-2017-143259,Female,Month-to-month,No,Mailed check,19.95,170.9,No
+909,CA-2017-137596,Male,Two year,Yes,Electronic check,111.25,7984.15,No
+910,CA-2017-137596,Male,Month-to-month,Yes,Electronic check,72.85,688.65,Yes
+911,CA-2017-137596,Male,Month-to-month,No,Credit card (automatic),89.0,1288.3,No
+912,CA-2015-133627,Male,One year,Yes,Bank transfer (automatic),106.1,7848.5,No
+913,CA-2017-102519,Female,One year,No,Credit card (automatic),20.05,267.0,No
+914,CA-2017-102519,Male,Two year,Yes,Bank transfer (automatic),25.2,1798.9,No
+915,US-2014-141215,Male,Month-to-month,Yes,Electronic check,73.55,73.55,Yes
+916,US-2014-141215,Female,Month-to-month,Yes,Bank transfer (automatic),75.4,1643.55,No
+917,US-2014-141215,Female,Two year,Yes,Bank transfer (automatic),65.55,4807.45,No
+918,CA-2016-165218,Female,Month-to-month,Yes,Electronic check,80.7,2193.0,No
+919,CA-2016-165218,Male,One year,Yes,Mailed check,104.55,2239.4,No
+920,CA-2014-138296,Male,One year,No,Bank transfer (automatic),24.15,1505.9,No
+921,CA-2015-111164,Male,Month-to-month,No,Mailed check,20.45,255.35,No
+922,CA-2015-111164,Female,Month-to-month,Yes,Electronic check,75.4,1189.4,No
+923,CA-2015-111164,Male,One year,Yes,Credit card (automatic),79.7,4786.15,No
+924,CA-2016-149797,Female,Month-to-month,No,Electronic check,81.7,1820.9,No
+925,CA-2014-132962,Male,Month-to-month,No,Bank transfer (automatic),76.3,2404.15,No
+926,CA-2014-132962,Female,Month-to-month,Yes,Electronic check,79.4,205.05,Yes
+927,CA-2015-115091,Female,Month-to-month,Yes,Electronic check,81.15,952.3,Yes
+928,CA-2015-115091,Female,Two year,Yes,Credit card (automatic),103.75,7039.45,No
+929,CA-2017-144932,Female,One year,No,Electronic check,86.45,2538.05,No
+930,CA-2017-144932,Female,Month-to-month,No,Bank transfer (automatic),75.1,1212.85,No
+931,CA-2017-144932,Male,Two year,No,Bank transfer (automatic),80.6,2651.1,No
+932,CA-2017-114216,Male,Two year,No,Credit card (automatic),19.3,1304.8,No
+933,CA-2016-140081,Male,Month-to-month,Yes,Electronic check,84.6,360.1,Yes
+934,CA-2016-140081,Female,One year,Yes,Mailed check,33.6,435.45,No
+935,CA-2016-140081,Male,Month-to-month,Yes,Electronic check,83.25,308.05,No
+936,CA-2016-140081,Male,Two year,No,Mailed check,80.85,308.05,No
+937,US-2017-111745,Male,Month-to-month,Yes,Electronic check,79.05,434.5,Yes
+938,CA-2015-148250,Female,One year,Yes,Credit card (automatic),108.05,7118.9,No
+939,CA-2015-148250,Male,Month-to-month,No,Mailed check,19.9,320.45,No
+940,CA-2016-105760,Female,One year,No,Bank transfer (automatic),21.05,531.55,No
+941,CA-2016-142958,Female,Month-to-month,No,Electronic check,30.15,382.2,No
+942,CA-2016-142958,Female,Month-to-month,Yes,Credit card (automatic),79.85,2001.0,No
+943,CA-2015-120880,Female,Two year,No,Bank transfer (automatic),65.5,4919.7,No
+944,CA-2015-120880,Male,Month-to-month,Yes,Bank transfer (automatic),104.1,5645.8,No
+945,CA-2015-120880,Female,Month-to-month,No,Bank transfer (automatic),74.4,215.8,Yes
+946,US-2015-140200,Male,Month-to-month,Yes,Mailed check,20.5,77.6,No
+947,US-2017-110576,Female,Month-to-month,Yes,Mailed check,91.35,2896.55,No
+948,US-2017-110576,Male,Month-to-month,Yes,Electronic check,99.05,3395.8,Yes
+949,US-2017-110576,Female,Two year,No,Bank transfer (automatic),20.5,759.35,No
+950,US-2017-110576,Female,Month-to-month,No,Mailed check,44.95,85.15,Yes
+951,US-2017-110576,Female,Month-to-month,No,Electronic check,75.6,535.55,No
+952,CA-2017-131156,Female,Month-to-month,No,Mailed check,55.1,1253.15,No
+953,CA-2017-136539,Female,Month-to-month,No,Electronic check,58.95,955.15,No
+954,CA-2017-136539,Male,Month-to-month,Yes,Electronic check,95.1,2162.6,No
+955,CA-2017-119305,Female,Month-to-month,No,Credit card (automatic),44.7,44.7,Yes
+956,CA-2017-102414,Female,Two year,No,Bank transfer (automatic),25.45,1813.35,No
+957,CA-2017-102414,Female,Month-to-month,No,Electronic check,56.75,245.15,No
+958,CA-2017-102414,Female,Month-to-month,No,Bank transfer (automatic),81.75,2028.8,No
+959,CA-2015-112571,Male,Month-to-month,Yes,Electronic check,86.1,2723.75,No
+960,CA-2017-152142,Female,Month-to-month,No,Bank transfer (automatic),29.8,220.45,No
+961,CA-2015-160059,Female,One year,Yes,Mailed check,20.5,365.8,No
+962,CA-2016-120859,Female,Month-to-month,No,Bank transfer (automatic),60.9,551.95,No
+963,CA-2014-127488,Female,Two year,No,Bank transfer (automatic),73.25,4054.2,No
+964,CA-2017-135279,Male,Month-to-month,Yes,Mailed check,45.7,45.7,Yes
+965,CA-2017-135279,Male,Month-to-month,No,Credit card (automatic),100.3,832.35,Yes
+966,CA-2017-135279,Female,Month-to-month,No,Electronic check,19.25,112.3,Yes
+967,CA-2017-135279,Male,Month-to-month,No,Mailed check,20.85,60.65,No
+968,CA-2017-135279,Female,Two year,No,Credit card (automatic),77.35,5550.1,No
+969,CA-2017-135279,Male,Month-to-month,Yes,Electronic check,96.0,174.8,Yes
+970,CA-2014-115791,Male,Month-to-month,No,Electronic check,90.55,90.55,Yes
+971,CA-2014-115791,Male,Month-to-month,Yes,Bank transfer (automatic),93.85,4733.1,No
+972,CA-2014-115791,Male,Two year,No,Bank transfer (automatic),70.1,4048.95,No
+973,CA-2014-115791,Male,Month-to-month,Yes,Electronic check,30.35,1359.7,Yes
+974,US-2017-103247,Male,Two year,Yes,Credit card (automatic),75.95,4542.35,No
+975,US-2017-103247,Male,Two year,Yes,Electronic check,108.05,7532.15,Yes
+976,US-2017-100209,Male,Month-to-month,Yes,Electronic check,69.9,69.9,Yes
+977,CA-2017-159366,Female,Month-to-month,No,Electronic check,75.25,888.65,No
+978,CA-2016-145499,Male,One year,Yes,Electronic check,103.75,6383.35,Yes
+979,CA-2015-157035,Female,One year,Yes,Bank transfer (automatic),54.95,1916.0,No
+980,CA-2016-144939,Female,Month-to-month,Yes,Bank transfer (automatic),19.5,413.0,No
+981,CA-2014-163419,Male,Two year,No,Mailed check,19.6,808.95,No
+982,CA-2014-163419,Male,One year,Yes,Electronic check,47.85,1886.4,No
+983,CA-2014-163419,Male,Month-to-month,Yes,Electronic check,86.6,86.6,Yes
+984,CA-2017-100314,Male,Two year,No,Bank transfer (automatic),23.75,1679.25,No
+985,CA-2017-100314,Male,Month-to-month,Yes,Bank transfer (automatic),80.6,2656.5,Yes
+986,CA-2017-100314,Male,Month-to-month,No,Bank transfer (automatic),43.8,540.95,No
+987,CA-2015-146829,Male,Month-to-month,No,Bank transfer (automatic),19.75,19.75,No
+988,CA-2017-167899,Male,Month-to-month,No,Mailed check,19.15,537.35,No
+989,CA-2017-167899,Male,One year,No,Credit card (automatic),19.6,678.8,No
+990,CA-2015-153549,Male,Two year,No,Bank transfer (automatic),80.3,4513.65,No
+991,CA-2016-110023,Male,Two year,No,Credit card (automatic),24.35,1423.85,No
+992,CA-2016-105585,Female,Two year,No,Credit card (automatic),25.25,555.4,No
+993,CA-2016-105585,Female,Two year,No,Credit card (automatic),26.1,225.55,No
+994,CA-2014-117639,Female,Two year,No,Credit card (automatic),20.0,268.45,No
+995,CA-2014-117639,Male,Month-to-month,No,Credit card (automatic),85.3,2917.5,Yes
+996,CA-2015-162537,Male,Month-to-month,Yes,Credit card (automatic),70.0,2416.1,Yes
+997,CA-2015-162537,Male,Month-to-month,Yes,Electronic check,94.3,424.45,Yes
+998,CA-2015-162537,Male,Two year,No,Bank transfer (automatic),20.7,1492.1,No
+999,CA-2015-162537,Male,Month-to-month,No,Electronic check,70.3,132.4,No
+1000,CA-2016-155488,Female,Month-to-month,Yes,Electronic check,95.35,660.9,Yes
+1001,CA-2015-124891,Male,Month-to-month,Yes,Electronic check,75.5,1893.95,Yes
+1002,CA-2015-124891,Male,Month-to-month,Yes,Mailed check,69.55,284.9,No
+1003,CA-2015-124891,Male,Two year,No,Mailed check,19.85,784.25,No
+1004,CA-2015-126445,Female,Month-to-month,No,Mailed check,20.0,417.7,No
+1005,CA-2015-111199,Male,One year,Yes,Credit card (automatic),95.85,5016.25,No
+1006,CA-2015-105312,Male,Month-to-month,Yes,Electronic check,90.1,1612.75,Yes
+1007,CA-2015-105312,Male,Month-to-month,No,Electronic check,68.95,119.75,Yes
+1008,US-2017-106705,Male,Month-to-month,Yes,Credit card (automatic),99.55,3204.65,Yes
+1009,CA-2017-135034,Male,One year,Yes,Electronic check,20.75,485.2,No
+1010,CA-2014-158540,Male,Month-to-month,Yes,Mailed check,50.15,160.85,No
+1011,CA-2017-118437,Male,Two year,No,Mailed check,58.65,4145.25,No
+1012,CA-2017-118437,Female,Month-to-month,Yes,Bank transfer (automatic),95.9,827.45,No
+1013,US-2015-126214,Male,Month-to-month,No,Electronic check,49.5,49.5,No
+1014,US-2015-126214,Female,Month-to-month,No,Electronic check,57.45,990.85,Yes
+1015,CA-2015-133025,Male,One year,No,Credit card (automatic),53.65,696.35,Yes
+1016,CA-2015-108665,Female,Two year,Yes,Mailed check,80.1,5585.4,No
+1017,CA-2015-108665,Female,One year,Yes,Bank transfer (automatic),24.4,1601.2,No
+1018,CA-2015-108665,Female,Month-to-month,Yes,Electronic check,40.05,162.45,No
+1019,CA-2015-108665,Male,Month-to-month,Yes,Mailed check,19.5,470.2,No
+1020,CA-2015-124450,Male,Month-to-month,No,Credit card (automatic),51.05,2066.0,No
+1021,CA-2015-124450,Male,One year,No,Mailed check,54.35,1426.45,No
+1022,CA-2015-124450,Male,Month-to-month,Yes,Electronic check,84.7,392.5,No
+1023,CA-2015-167269,Male,Month-to-month,Yes,Electronic check,86.1,3861.45,No
+1024,CA-2017-106964,Female,Month-to-month,Yes,Mailed check,70.35,2552.9,No
+1025,CA-2016-126529,Male,Two year,Yes,Bank transfer (automatic),110.0,6668.35,No
+1026,CA-2016-126529,Male,Month-to-month,Yes,Electronic check,100.6,819.4,Yes
+1027,CA-2016-126529,Male,One year,No,Credit card (automatic),94.9,4615.25,No
+1028,CA-2014-163552,Male,Month-to-month,Yes,Electronic check,83.75,2070.6,Yes
+1029,CA-2014-163552,Male,Month-to-month,Yes,Mailed check,88.3,273.75,Yes
+1030,CA-2014-163552,Female,Month-to-month,Yes,Bank transfer (automatic),69.75,3557.7,No
+1031,CA-2014-163552,Male,Month-to-month,No,Bank transfer (automatic),71.6,1957.1,No
+1032,CA-2014-163552,Male,Month-to-month,Yes,Electronic check,92.1,729.95,Yes
+1033,CA-2016-109820,Male,Two year,No,Bank transfer (automatic),23.65,1416.75,No
+1034,CA-2016-109820,Male,Two year,No,Bank transfer (automatic),81.85,5924.4,No
+1035,CA-2016-109820,Male,Two year,No,Mailed check,25.1,1697.7,No
+1036,CA-2016-113061,Male,Two year,Yes,Bank transfer (automatic),114.7,7849.85,No
+1037,CA-2015-127418,Male,Month-to-month,No,Electronic check,49.15,649.4,No
+1038,CA-2017-121818,Male,One year,Yes,Electronic check,80.9,4557.5,No
+1039,CA-2017-121818,Male,Month-to-month,Yes,Electronic check,79.45,3013.05,Yes
+1040,CA-2016-127670,Male,Month-to-month,No,Credit card (automatic),90.45,1266.1,Yes
+1041,CA-2016-102981,Male,One year,Yes,Bank transfer (automatic),19.3,360.35,No
+1042,CA-2016-102981,Male,Month-to-month,No,Electronic check,70.2,1046.5,No
+1043,CA-2017-115651,Male,Month-to-month,Yes,Bank transfer (automatic),69.75,2347.9,Yes
+1044,CA-2017-115651,Male,One year,No,Bank transfer (automatic),54.25,447.75,No
+1045,CA-2017-152702,Female,Month-to-month,Yes,Bank transfer (automatic),99.3,4209.95,No
+1046,CA-2016-169103,Male,One year,No,Credit card (automatic),74.0,3877.65,No
+1047,CA-2016-169103,Male,Month-to-month,Yes,Mailed check,50.25,152.3,No
+1048,CA-2014-139192,Male,One year,Yes,Mailed check,19.8,572.2,No
+1049,CA-2014-139192,Male,Month-to-month,No,Mailed check,19.65,19.65,Yes
+1050,US-2015-153500,Female,Month-to-month,Yes,Electronic check,43.65,526.95,Yes
+1051,US-2015-153500,Male,Month-to-month,Yes,Credit card (automatic),35.5,552.7,No
+1052,US-2015-153500,Male,One year,Yes,Mailed check,80.75,3208.65,No
+1053,CA-2015-110667,Female,Month-to-month,No,Electronic check,39.5,210.75,Yes
+1054,CA-2015-110667,Female,Month-to-month,Yes,Bank transfer (automatic),97.1,3706.95,Yes
+1055,CA-2015-110667,Female,One year,No,Mailed check,19.55,620.75,No
+1056,CA-2015-110667,Male,Month-to-month,Yes,Electronic check,80.0,412.5,Yes
+1057,CA-2017-167150,Female,Month-to-month,Yes,Mailed check,84.7,832.05,Yes
+1058,CA-2017-167150,Male,Month-to-month,Yes,Bank transfer (automatic),89.55,185.55,Yes
+1059,CA-2016-105284,Female,Month-to-month,Yes,Electronic check,90.6,1943.2,Yes
+1060,US-2015-125374,Female,One year,Yes,Bank transfer (automatic),20.05,505.9,No
+1061,CA-2015-161263,Female,Two year,Yes,Electronic check,112.4,8046.85,No
+1062,CA-2015-161263,Female,Month-to-month,No,Bank transfer (automatic),50.2,1815.3,No
+1063,CA-2015-161263,Female,Month-to-month,No,Bank transfer (automatic),62.25,612.95,No
+1064,CA-2015-161263,Female,One year,No,Mailed check,55.7,795.15,No
+1065,CA-2015-161263,Female,Month-to-month,Yes,Bank transfer (automatic),90.05,2169.8,Yes
+1066,CA-2015-161263,Male,Two year,No,Mailed check,19.65,973.1,No
+1067,CA-2016-157686,Female,Month-to-month,Yes,Electronic check,89.25,2210.2,No
+1068,US-2017-139955,Female,Month-to-month,Yes,Bank transfer (automatic),99.05,4853.75,Yes
+1069,US-2015-150161,Male,One year,No,Mailed check,54.0,1055.9,No
+1070,CA-2015-144652,Male,Month-to-month,No,Bank transfer (automatic),69.75,144.55,Yes
+1071,CA-2016-152814,Female,Month-to-month,Yes,Credit card (automatic),49.05,91.1,Yes
+1072,CA-2017-106943,Female,Two year,No,Bank transfer (automatic),56.75,1304.85,No
+1073,CA-2016-134348,Female,Month-to-month,Yes,Bank transfer (automatic),98.05,713.0,Yes
+1074,CA-2016-134348,Female,Month-to-month,No,Mailed check,21.1,21.1,No
+1075,CA-2016-134348,Male,Month-to-month,Yes,Bank transfer (automatic),96.65,5580.8,No
+1076,CA-2016-161781,Female,One year,Yes,Credit card (automatic),24.5,1497.9,No
+1077,CA-2017-132521,Female,Month-to-month,Yes,Bank transfer (automatic),114.5,4527.45,Yes
+1078,CA-2017-132521,Female,Two year,Yes,Credit card (automatic),79.2,4590.35,No
+1079,CA-2017-132521,Female,Month-to-month,Yes,Electronic check,69.55,200.2,No
+1080,CA-2015-110016,Female,Two year,Yes,Bank transfer (automatic),20.05,614.45,No
+1081,CA-2015-110016,Female,Month-to-month,Yes,Electronic check,98.85,4564.9,No
+1082,US-2016-143819,Male,Two year,No,Mailed check,25.75,4564.9,No
+1083,US-2016-143819,Female,Month-to-month,Yes,Electronic check,80.95,171.15,Yes
+1084,US-2016-143819,Female,One year,No,Credit card (automatic),19.6,1012.4,No
+1085,US-2016-143819,Male,Month-to-month,Yes,Electronic check,74.3,940.35,Yes
+1086,CA-2016-167584,Female,Month-to-month,No,Bank transfer (automatic),89.7,1047.7,Yes
+1087,CA-2016-166163,Female,Month-to-month,No,Bank transfer (automatic),87.65,2766.4,No
+1088,CA-2016-166163,Male,Month-to-month,Yes,Credit card (automatic),100.45,1622.45,Yes
+1089,CA-2017-158407,Male,Month-to-month,Yes,Credit card (automatic),74.75,1129.35,No
+1090,CA-2017-158407,Male,One year,No,Bank transfer (automatic),107.45,5680.9,No
+1091,CA-2015-143490,Male,One year,Yes,Bank transfer (automatic),75.35,2243.9,No
+1092,CA-2015-143490,Female,Two year,No,Credit card (automatic),64.95,4523.25,No
+1093,CA-2015-165085,Female,Two year,No,Electronic check,100.45,7159.7,No
+1094,CA-2015-165085,Female,One year,No,Bank transfer (automatic),68.5,2839.95,No
+1095,CA-2017-160423,Female,Month-to-month,Yes,Electronic check,80.55,80.55,No
+1096,CA-2017-160423,Male,Month-to-month,No,Bank transfer (automatic),81.25,580.1,No
+1097,CA-2014-159338,Female,One year,Yes,Electronic check,90.4,2178.6,Yes
+1098,CA-2016-107216,Female,One year,No,Electronic check,89.55,6038.55,No
+1099,CA-2016-107216,Female,Month-to-month,Yes,Mailed check,55.7,259.4,No
+1100,CA-2016-107216,Female,Month-to-month,Yes,Electronic check,24.8,324.15,No
+1101,CA-2016-107216,Male,Month-to-month,No,Electronic check,20.0,417.65,No
+1102,US-2017-145863,Female,Month-to-month,Yes,Mailed check,56.15,168.15,Yes
+1103,US-2017-145863,Female,One year,Yes,Electronic check,105.2,5637.85,No
+1104,CA-2016-112340,Male,One year,Yes,Mailed check,19.55,839.4,No
+1105,US-2016-110156,Female,Month-to-month,Yes,Electronic check,79.75,769.1,No
+1106,US-2016-110156,Male,Two year,No,Bank transfer (automatic),97.45,6253.0,No
+1107,US-2016-110156,Male,Two year,No,Bank transfer (automatic),24.25,1641.8,No
+1108,US-2016-110156,Male,Two year,No,Credit card (automatic),24.6,1678.05,No
+1109,US-2016-110156,Male,Month-to-month,Yes,Mailed check,50.15,2058.5,No
+1110,US-2016-110156,Female,Two year,No,Bank transfer (automatic),39.6,2424.5,No
+1111,US-2016-110156,Male,Month-to-month,Yes,Bank transfer (automatic),94.4,387.2,Yes
+1112,US-2016-110156,Male,Two year,No,Mailed check,89.85,6293.45,No
+1113,CA-2017-140585,Female,Month-to-month,Yes,Credit card (automatic),78.95,2839.65,Yes
+1114,CA-2017-140585,Female,Month-to-month,Yes,Credit card (automatic),98.85,3145.9,No
+1115,CA-2017-140585,Female,Two year,Yes,Credit card (automatic),53.85,2200.7,No
+1116,CA-2016-144855,Male,One year,Yes,Electronic check,24.25,914.4,No
+1117,CA-2015-142755,Female,Two year,Yes,Credit card (automatic),89.45,4577.75,No
+1118,CA-2015-142755,Female,Month-to-month,Yes,Credit card (automatic),105.25,4997.5,No
+1119,CA-2015-142755,Female,Two year,No,Bank transfer (automatic),59.5,4144.8,No
+1120,CA-2015-142755,Female,Month-to-month,No,Credit card (automatic),70.55,1493.55,No
+1121,US-2014-147627,Female,One year,Yes,Credit card (automatic),82.5,4179.1,No
+1122,US-2014-147627,Male,One year,Yes,Credit card (automatic),44.85,893.55,Yes
+1123,US-2014-147627,Male,One year,Yes,Bank transfer (automatic),61.6,1611.0,No
+1124,US-2014-147627,Male,Month-to-month,Yes,Bank transfer (automatic),49.05,593.05,No
+1125,US-2014-147627,Male,Month-to-month,Yes,Electronic check,105.65,4284.8,Yes
+1126,US-2014-147627,Female,Month-to-month,No,Mailed check,74.65,544.55,Yes
+1127,CA-2015-105970,Female,One year,Yes,Mailed check,66.25,1533.8,No
+1128,CA-2015-105970,Female,Month-to-month,Yes,Electronic check,19.4,529.8,No
+1129,CA-2016-112102,Male,Month-to-month,Yes,Credit card (automatic),86.05,3865.6,No
+1130,CA-2016-112102,Male,Two year,Yes,Credit card (automatic),19.15,515.75,No
+1131,CA-2016-112102,Male,Month-to-month,Yes,Bank transfer (automatic),64.7,941.0,Yes
+1132,US-2016-114776,Male,Month-to-month,Yes,Bank transfer (automatic),104.05,1133.65,Yes
+1133,US-2016-134908,Female,Month-to-month,No,Mailed check,19.25,48.35,No
+1134,US-2016-134908,Female,Month-to-month,No,Electronic check,81.95,2070.05,No
+1135,US-2016-148803,Male,Two year,Yes,Bank transfer (automatic),114.65,8333.95,No
+1136,CA-2016-152170,Male,Two year,No,Credit card (automatic),20.0,1209.25,No
+1137,CA-2016-152170,Male,Two year,No,Mailed check,19.8,1396.25,No
+1138,CA-2016-152170,Male,Month-to-month,Yes,Bank transfer (automatic),65.15,723.35,No
+1139,CA-2016-152170,Female,One year,No,Mailed check,19.65,228.65,No
+1140,CA-2016-152170,Male,Two year,No,Credit card (automatic),88.95,1161.75,No
+1141,CA-2014-146969,Female,Month-to-month,Yes,Mailed check,20.2,98.35,No
+1142,CA-2014-146969,Female,Month-to-month,Yes,Credit card (automatic),75.2,775.3,No
+1143,CA-2014-146969,Male,Month-to-month,No,Credit card (automatic),56.8,1074.65,No
+1144,CA-2014-146969,Male,Month-to-month,Yes,Electronic check,35.55,35.55,Yes
+1145,CA-2014-146969,Male,Month-to-month,Yes,Bank transfer (automatic),75.5,2324.7,No
+1146,CA-2015-112452,Male,One year,No,Mailed check,35.6,1072.6,No
+1147,CA-2015-112452,Female,Month-to-month,Yes,Electronic check,60.25,170.5,No
+1148,CA-2015-112452,Male,Month-to-month,Yes,Electronic check,95.15,196.9,Yes
+1149,CA-2015-112452,Female,Month-to-month,Yes,Mailed check,96.65,1162.85,Yes
+1150,CA-2015-112452,Male,Month-to-month,Yes,Electronic check,40.35,1677.85,No
+1151,CA-2015-113971,Male,Month-to-month,No,Electronic check,18.85,18.85,No
+1152,CA-2017-160395,Male,Month-to-month,No,Mailed check,54.85,370.4,No
+1153,CA-2017-160395,Male,One year,Yes,Mailed check,64.3,3410.6,No
+1154,CA-2014-136567,Male,Two year,Yes,Bank transfer (automatic),24.65,1138.8,No
+1155,CA-2014-136567,Male,Two year,No,Credit card (automatic),76.1,5264.25,No
+1156,CA-2014-136567,Female,Two year,No,Mailed check,18.7,1005.7,No
+1157,CA-2014-136567,Female,One year,Yes,Credit card (automatic),97.95,5936.55,No
+1158,CA-2016-149314,Male,Month-to-month,Yes,Credit card (automatic),94.1,5475.9,No
+1159,CA-2017-147039,Male,Month-to-month,Yes,Electronic check,80.4,224.05,Yes
+1160,CA-2017-147039,Male,Month-to-month,Yes,Electronic check,95.1,2326.05,No
+1161,CA-2014-126522,Male,Month-to-month,Yes,Mailed check,31.35,31.35,Yes
+1162,CA-2014-127964,Female,One year,Yes,Bank transfer (automatic),72.35,4991.5,No
+1163,CA-2014-127964,Male,Month-to-month,Yes,Bank transfer (automatic),89.75,1052.4,Yes
+1164,CA-2014-127964,Female,Two year,Yes,Bank transfer (automatic),82.7,5831.2,No
+1165,CA-2014-117709,Female,One year,No,Credit card (automatic),19.9,510.8,No
+1166,CA-2015-125416,Male,Month-to-month,Yes,Electronic check,53.8,283.95,No
+1167,CA-2017-145226,Male,One year,Yes,Credit card (automatic),51.55,1295.4,No
+1168,CA-2017-145226,Male,One year,No,Mailed check,19.65,19.65,No
+1169,CA-2017-145226,Male,One year,Yes,Credit card (automatic),44.05,3011.65,No
+1170,CA-2017-145226,Female,Two year,Yes,Electronic check,114.0,8093.15,No
+1171,US-2014-100279,Female,One year,Yes,Electronic check,94.4,5610.25,Yes
+1172,CA-2014-158064,Male,Month-to-month,Yes,Electronic check,100.4,3217.65,No
+1173,US-2015-104430,Male,Month-to-month,Yes,Electronic check,19.85,19.85,Yes
+1174,CA-2015-132080,Female,One year,Yes,Mailed check,54.25,773.2,No
+1175,CA-2016-161207,Female,Month-to-month,Yes,Credit card (automatic),80.0,1029.35,No
+1176,CA-2014-120243,Female,Month-to-month,Yes,Credit card (automatic),109.9,669.45,Yes
+1177,CA-2016-113621,Male,Two year,No,Mailed check,79.2,3593.8,No
+1178,CA-2016-113621,Male,Month-to-month,Yes,Electronic check,101.35,1553.95,Yes
+1179,CA-2016-168081,Male,Month-to-month,Yes,Electronic check,94.3,3953.15,No
+1180,CA-2014-128146,Male,Two year,Yes,Bank transfer (automatic),49.8,1971.15,No
+1181,CA-2014-128146,Male,Month-to-month,Yes,Bank transfer (automatic),60.05,1236.15,Yes
+1182,CA-2017-138779,Male,Month-to-month,Yes,Electronic check,53.75,3196.0,No
+1183,CA-2017-138779,Male,One year,Yes,Electronic check,93.45,4872.2,No
+1184,CA-2014-127131,Female,Month-to-month,Yes,Mailed check,87.9,1500.5,No
+1185,CA-2014-127131,Female,Month-to-month,Yes,Electronic check,60.15,60.15,Yes
+1186,CA-2014-127131,Female,One year,Yes,Bank transfer (automatic),61.05,3478.75,No
+1187,CA-2014-127131,Female,Two year,No,Bank transfer (automatic),104.05,7413.55,No
+1188,CA-2017-117212,Male,One year,Yes,Electronic check,99.25,3532.0,No
+1189,CA-2017-117212,Female,Month-to-month,No,Credit card (automatic),85.7,256.75,No
+1190,CA-2017-117212,Female,One year,Yes,Electronic check,104.85,3887.25,No
+1191,CA-2017-117212,Male,Two year,Yes,Credit card (automatic),69.15,2490.15,No
+1192,CA-2017-117212,Female,Month-to-month,Yes,Electronic check,90.45,593.45,Yes
+1193,US-2015-130519,Male,Two year,No,Mailed check,74.45,3510.3,No
+1194,US-2015-130519,Female,Month-to-month,No,Electronic check,50.45,765.45,No
+1195,US-2015-130519,Male,Month-to-month,Yes,Electronic check,60.0,1259.35,No
+1196,US-2015-130519,Male,Two year,No,Electronic check,85.25,5538.35,No
+1197,CA-2016-130946,Male,Month-to-month,Yes,Credit card (automatic),19.45,340.85,No
+1198,CA-2016-130946,Male,Two year,Yes,Bank transfer (automatic),20.75,844.45,No
+1199,CA-2016-130946,Female,Month-to-month,No,Electronic check,78.9,1348.95,No
+1200,CA-2016-114727,Male,One year,Yes,Credit card (automatic),104.5,3778.0,No
+1201,CA-2016-114727,Male,Month-to-month,Yes,Electronic check,49.4,611.65,No
+1202,CA-2016-114727,Male,One year,Yes,Bank transfer (automatic),94.25,4867.95,Yes
+1203,CA-2016-114727,Female,Two year,No,Mailed check,25.0,1505.05,No
+1204,CA-2016-114727,Male,Month-to-month,No,Credit card (automatic),25.55,467.85,No
+1205,CA-2017-133235,Male,Month-to-month,Yes,Electronic check,74.9,74.9,Yes
+1206,CA-2016-137050,Male,Month-to-month,Yes,Electronic check,70.15,194.2,No
+1207,CA-2016-137050,Male,Month-to-month,Yes,Credit card (automatic),69.4,571.45,No
+1208,CA-2016-137050,Male,Month-to-month,Yes,Electronic check,80.25,80.25,Yes
+1209,CA-2016-137050,Female,One year,Yes,Electronic check,93.15,5253.95,No
+1210,CA-2016-137050,Male,Month-to-month,Yes,Electronic check,69.0,1149.65,Yes
+1211,CA-2016-137050,Female,Month-to-month,Yes,Electronic check,66.35,740.8,Yes
+1212,US-2017-118087,Female,Month-to-month,Yes,Electronic check,69.55,521.35,No
+1213,US-2017-118087,Male,Two year,No,Bank transfer (automatic),20.2,1412.65,No
+1214,US-2017-118087,Male,Month-to-month,Yes,Bank transfer (automatic),86.0,1532.45,Yes
+1215,US-2017-118087,Male,Month-to-month,Yes,Electronic check,80.3,250.05,Yes
+1216,US-2017-118087,Male,Two year,No,Credit card (automatic),20.4,1090.6,No
+1217,US-2017-118087,Female,One year,Yes,Credit card (automatic),23.75,1446.8,No
+1218,US-2017-118087,Male,Month-to-month,Yes,Credit card (automatic),90.55,2282.55,Yes
+1219,US-2017-118087,Female,Month-to-month,Yes,Credit card (automatic),70.45,4300.45,No
+1220,CA-2014-110184,Male,Month-to-month,No,Bank transfer (automatic),65.75,1111.2,No
+1221,CA-2014-110184,Female,Month-to-month,Yes,Mailed check,24.6,190.1,No
+1222,CA-2016-126004,Female,Two year,No,Mailed check,69.25,4447.75,No
+1223,CA-2016-126004,Male,Month-to-month,Yes,Electronic check,75.9,143.35,Yes
+1224,CA-2016-126004,Female,Month-to-month,Yes,Mailed check,45.85,45.85,Yes
+1225,CA-2016-126004,Male,Month-to-month,Yes,Electronic check,49.95,810.2,Yes
+1226,CA-2016-126004,Female,Two year,No,Bank transfer (automatic),24.65,1830.05,No
+1227,CA-2016-126004,Male,One year,No,Bank transfer (automatic),90.4,2820.65,No
+1228,CA-2017-100013,Female,Month-to-month,Yes,Mailed check,100.85,4847.35,No
+1229,CA-2017-100013,Female,Two year,No,Credit card (automatic),75.35,4729.3,No
+1230,CA-2017-100013,Male,Month-to-month,No,Electronic check,87.2,4017.45,No
+1231,CA-2015-132570,Female,Month-to-month,No,Credit card (automatic),64.4,1398.6,No
+1232,CA-2015-132570,Female,Month-to-month,No,Electronic check,78.3,2564.3,Yes
+1233,CA-2016-153682,Male,Two year,No,Bank transfer (automatic),24.7,1685.9,No
+1234,CA-2016-144344,Male,One year,Yes,Electronic check,105.85,5826.65,No
+1235,CA-2016-144344,Female,One year,Yes,Mailed check,98.3,6066.55,No
+1236,CA-2016-144344,Male,Month-to-month,Yes,Electronic check,76.95,228.4,Yes
+1237,CA-2016-144344,Female,One year,No,Mailed check,19.45,270.2,No
+1238,CA-2014-127012,Male,Month-to-month,Yes,Electronic check,96.15,1529.2,Yes
+1239,CA-2014-127012,Male,Month-to-month,Yes,Credit card (automatic),58.7,168.6,No
+1240,CA-2014-127012,Male,Month-to-month,Yes,Mailed check,20.15,536.35,No
+1241,CA-2016-128727,Male,Month-to-month,Yes,Mailed check,64.5,1888.45,No
+1242,US-2016-162859,Male,Month-to-month,No,Electronic check,28.5,629.35,No
+1243,US-2016-162859,Female,Month-to-month,No,Electronic check,45.3,45.3,Yes
+1244,CA-2017-133641,Female,Month-to-month,No,Bank transfer (automatic),19.4,289.3,Yes
+1245,CA-2014-168494,Male,Month-to-month,Yes,Electronic check,90.45,2117.25,No
+1246,CA-2014-168494,Male,Month-to-month,Yes,Electronic check,105.15,4730.9,No
+1247,CA-2014-168494,Male,One year,No,Bank transfer (automatic),83.15,2033.05,No
+1248,CA-2017-115602,Male,Month-to-month,No,Electronic check,90.15,987.95,Yes
+1249,CA-2017-115602,Female,Month-to-month,No,Mailed check,45.05,45.05,Yes
+1250,CA-2017-115602,Female,Two year,No,Bank transfer (automatic),103.2,5744.35,No
+1251,CA-2017-115602,Female,Month-to-month,No,Electronic check,75.8,75.8,Yes
+1252,CA-2015-154956,Female,Month-to-month,No,Electronic check,19.45,19.45,No
+1253,CA-2017-144638,Male,Month-to-month,Yes,Electronic check,79.3,523.15,Yes
+1254,CA-2017-144638,Female,Two year,No,Credit card (automatic),88.8,4805.3,No
+1255,CA-2017-144638,Female,Month-to-month,Yes,Electronic check,30.9,59.05,Yes
+1256,CA-2017-144638,Male,Two year,Yes,Credit card (automatic),85.9,6110.75,No
+1257,US-2016-168620,Female,One year,No,Electronic check,34.2,1596.6,No
+1258,US-2016-168620,Female,Two year,No,Mailed check,20.15,1046.2,No
+1259,US-2016-168620,Female,One year,No,Credit card (automatic),95.25,4424.2,Yes
+1260,CA-2017-117079,Female,Month-to-month,Yes,Mailed check,50.3,92.75,No
+1261,US-2016-144393,Female,Month-to-month,Yes,Electronic check,80.15,194.55,No
+1262,CA-2017-105053,Female,Month-to-month,Yes,Electronic check,51.25,612.1,No
+1263,CA-2016-155992,Female,Month-to-month,Yes,Bank transfer (automatic),89.6,6127.6,Yes
+1264,CA-2016-155992,Male,Two year,Yes,Credit card (automatic),95.2,6671.7,No
+1265,CA-2017-110380,Female,One year,No,Credit card (automatic),94.8,5264.3,No
+1266,US-2014-167738,Male,Month-to-month,Yes,Electronic check,80.25,303.7,No
+1267,US-2014-167738,Male,Two year,Yes,Bank transfer (automatic),76.1,4818.8,No
+1268,CA-2017-121412,Male,One year,Yes,Electronic check,110.15,6448.05,Yes
+1269,CA-2017-100426,Male,Two year,No,Bank transfer (automatic),115.55,7159.05,No
+1270,US-2016-103646,Male,Two year,No,Credit card (automatic),24.65,1574.5,No
+1271,US-2016-103646,Female,One year,Yes,Electronic check,53.6,2879.2,No
+1272,US-2016-103646,Female,Month-to-month,No,Mailed check,19.45,86.05,No
+1273,CA-2016-119186,Female,Month-to-month,Yes,Electronic check,88.2,4159.45,No
+1274,CA-2016-119186,Male,Two year,Yes,Bank transfer (automatic),101.15,6638.35,No
+1275,CA-2016-119186,Female,Two year,No,Mailed check,56.8,3112.05,No
+1276,CA-2016-119186,Male,Two year,Yes,Electronic check,99.4,7168.25,No
+1277,CA-2016-148698,Male,Two year,Yes,Credit card (automatic),20.1,1326.25,No
+1278,CA-2014-163293,Female,One year,No,Credit card (automatic),60.7,2234.55,No
+1279,CA-2014-163293,Male,One year,Yes,Bank transfer (automatic),20.95,495.15,No
+1280,CA-2016-160815,Male,Two year,Yes,Bank transfer (automatic),114.85,8317.95,No
+1281,CA-2017-122154,Female,One year,Yes,Bank transfer (automatic),19.25,679.8,No
+1282,CA-2017-122154,Male,Month-to-month,Yes,Mailed check,62.8,62.8,No
+1283,CA-2017-122154,Male,Two year,Yes,Electronic check,105.5,7544.0,No
+1284,US-2015-149692,Male,Two year,No,Mailed check,19.85,1188.25,No
+1285,CA-2016-119445,Male,Month-to-month,Yes,Electronic check,89.5,676.7,Yes
+1286,CA-2015-124268,Male,One year,No,Credit card (automatic),74.1,74.1,No
+1287,CA-2016-154711,Female,Month-to-month,Yes,Electronic check,107.5,3242.5,No
+1288,CA-2016-154711,Female,Two year,No,Mailed check,19.55,1240.15,No
+1289,CA-2016-154711,Male,One year,No,Bank transfer (automatic),68.8,4111.35,No
+1290,CA-2016-163384,Male,Two year,No,Credit card (automatic),84.45,5899.85,No
+1291,CA-2016-163384,Female,Month-to-month,No,Electronic check,75.0,632.95,Yes
+1292,CA-2015-101707,Male,Two year,No,Bank transfer (automatic),84.5,5193.2,No
+1293,CA-2015-101707,Female,Two year,Yes,Bank transfer (automatic),111.2,7530.8,No
+1294,CA-2015-101707,Male,Month-to-month,No,Electronic check,44.75,270.95,Yes
+1295,CA-2015-138898,Female,Two year,Yes,Bank transfer (automatic),80.6,5460.2,No
+1296,CA-2017-115427,Male,Month-to-month,No,Bank transfer (automatic),80.7,1614.2,No
+1297,CA-2017-115427,Female,Month-to-month,No,Electronic check,75.6,402.5,No
+1298,CA-2016-134425,Female,One year,No,Electronic check,57.6,1367.75,No
+1299,CA-2015-121391,Male,Month-to-month,Yes,Electronic check,44.05,483.7,Yes
+1300,CA-2016-137043,Male,Two year,Yes,Credit card (automatic),110.6,7962.2,No
+1301,CA-2016-137043,Female,Two year,Yes,Credit card (automatic),58.2,3810.8,No
+1302,CA-2015-115847,Female,Two year,Yes,Mailed check,81.0,3533.6,No
+1303,US-2017-126179,Female,Two year,No,Bank transfer (automatic),19.7,1396.9,No
+1304,US-2017-126179,Female,Month-to-month,Yes,Bank transfer (automatic),85.6,1345.55,Yes
+1305,CA-2016-101966,Male,Month-to-month,Yes,Bank transfer (automatic),59.55,1646.45,No
+1306,CA-2016-141397,Female,One year,No,Credit card (automatic),115.55,8127.6,Yes
+1307,CA-2016-141397,Female,One year,Yes,Mailed check,75.55,2680.15,No
+1308,CA-2016-141397,Female,Month-to-month,Yes,Electronic check,86.6,1281.0,Yes
+1309,CA-2016-141397,Female,Month-to-month,Yes,Electronic check,85.2,1553.9,Yes
+1310,CA-2016-141397,Female,Month-to-month,Yes,Electronic check,97.65,3207.55,Yes
+1311,CA-2016-141082,Female,One year,Yes,Credit card (automatic),45.1,2049.05,No
+1312,CA-2016-141082,Male,One year,Yes,Bank transfer (automatic),70.95,3629.2,No
+1313,US-2016-134488,Male,Month-to-month,Yes,Electronic check,109.55,5124.55,Yes
+1314,CA-2016-145919,Female,One year,Yes,Electronic check,89.55,3474.45,Yes
+1315,CA-2016-145919,Male,Two year,No,Credit card (automatic),20.9,202.3,No
+1316,CA-2016-145919,Male,Month-to-month,Yes,Mailed check,19.95,147.5,No
+1317,CA-2017-157651,Male,Month-to-month,No,Mailed check,24.6,86.35,No
+1318,CA-2014-160773,Male,Month-to-month,Yes,Electronic check,66.7,579.0,No
+1319,CA-2014-160773,Male,Month-to-month,Yes,Mailed check,19.45,19.45,Yes
+1320,CA-2017-167703,Female,One year,No,Mailed check,94.8,3131.55,No
+1321,CA-2017-167703,Male,One year,Yes,Bank transfer (automatic),65.85,3928.3,No
+1322,CA-2017-121804,Female,Month-to-month,Yes,Bank transfer (automatic),19.95,187.75,No
+1323,CA-2017-162635,Male,Two year,Yes,Bank transfer (automatic),24.65,1710.15,No
+1324,CA-2014-107153,Female,Month-to-month,No,Mailed check,20.35,76.35,Yes
+1325,US-2014-117058,Male,Month-to-month,Yes,Electronic check,69.25,69.25,Yes
+1326,CA-2015-120439,Male,One year,Yes,Bank transfer (automatic),51.25,2151.6,No
+1327,CA-2016-128258,Male,One year,Yes,Bank transfer (automatic),99.5,5961.1,Yes
+1328,CA-2017-106033,Male,Month-to-month,No,Electronic check,54.25,1221.55,No
+1329,CA-2016-142762,Male,Two year,No,Bank transfer (automatic),19.4,1496.45,No
+1330,CA-2017-127705,Male,One year,Yes,Credit card (automatic),56.25,1292.2,No
+1331,CA-2017-127705,Male,Month-to-month,Yes,Mailed check,25.15,25.15,No
+1332,CA-2014-122567,Female,Two year,No,Bank transfer (automatic),23.95,1713.1,No
+1333,CA-2014-122567,Male,One year,Yes,Mailed check,35.4,1748.9,No
+1334,CA-2014-121664,Male,Month-to-month,Yes,Electronic check,25.2,25.2,Yes
+1335,CA-2016-122133,Female,Month-to-month,Yes,Mailed check,45.0,96.45,Yes
+1336,US-2017-123281,Male,Month-to-month,No,Bank transfer (automatic),75.35,1114.55,No
+1337,CA-2017-100524,Male,Two year,No,Bank transfer (automatic),20.4,609.1,No
+1338,CA-2017-100524,Male,Month-to-month,No,Mailed check,20.15,20.15,Yes
+1339,CA-2017-100524,Female,Month-to-month,Yes,Credit card (automatic),105.0,7133.25,Yes
+1340,CA-2017-113481,Male,Two year,No,Credit card (automatic),56.05,7133.25,No
+1341,CA-2017-113481,Male,Month-to-month,Yes,Credit card (automatic),54.7,169.45,Yes
+1342,CA-2017-113481,Male,Two year,No,Mailed check,20.0,141.6,No
+1343,CA-2015-131758,Male,One year,Yes,Credit card (automatic),73.05,4688.65,No
+1344,CA-2015-131758,Male,Month-to-month,No,Mailed check,20.5,563.05,No
+1345,CA-2014-118339,Male,One year,Yes,Credit card (automatic),100.75,5985.0,No
+1346,CA-2014-118339,Male,Month-to-month,Yes,Electronic check,87.25,1258.6,Yes
+1347,CA-2014-118339,Female,Two year,Yes,Mailed check,19.95,373.5,No
+1348,CA-2014-118339,Male,Month-to-month,Yes,Electronic check,79.95,857.2,Yes
+1349,CA-2014-118339,Female,Month-to-month,Yes,Electronic check,49.65,2553.35,No
+1350,CA-2014-153976,Male,Two year,No,Mailed check,65.65,4322.85,No
+1351,CA-2016-162901,Female,Month-to-month,Yes,Electronic check,20.45,250.8,No
+1352,CA-2017-162978,Male,Two year,No,Bank transfer (automatic),60.95,4549.05,No
+1353,CA-2017-162978,Male,One year,Yes,Electronic check,20.35,1359.5,No
+1354,CA-2017-162978,Female,Month-to-month,Yes,Electronic check,88.35,1639.3,Yes
+1355,US-2014-160444,Female,Month-to-month,Yes,Electronic check,19.5,178.85,No
+1356,US-2014-160444,Female,Month-to-month,Yes,Credit card (automatic),75.2,633.85,No
+1357,CA-2016-145247,Female,Month-to-month,Yes,Bank transfer (automatic),111.45,5315.1,No
+1358,CA-2017-160045,Female,Month-to-month,No,Mailed check,70.15,735.5,No
+1359,US-2014-151925,Male,Month-to-month,Yes,Electronic check,94.75,889.9,Yes
+1360,CA-2017-125199,Female,Month-to-month,Yes,Electronic check,95.05,1290.0,Yes
+1361,CA-2017-125199,Male,Month-to-month,No,Electronic check,78.45,330.05,Yes
+1362,CA-2017-125199,Female,Month-to-month,Yes,Electronic check,70.2,237.95,Yes
+1363,US-2017-155425,Female,Two year,No,Bank transfer (automatic),92.0,6474.4,No
+1364,US-2017-155425,Female,Two year,No,Credit card (automatic),85.5,4421.95,No
+1365,US-2017-155425,Male,Month-to-month,Yes,Bank transfer (automatic),41.05,2452.7,Yes
+1366,US-2017-155425,Female,Month-to-month,Yes,Electronic check,85.6,813.85,Yes
+1367,US-2017-155425,Female,Month-to-month,Yes,Electronic check,82.15,4904.85,No
+1368,CA-2017-133249,Male,One year,No,Electronic check,84.4,4484.05,No
+1369,US-2015-103471,Female,Month-to-month,Yes,Mailed check,60.9,2033.85,No
+1370,US-2015-103471,Female,Two year,Yes,Bank transfer (automatic),20.25,538.2,No
+1371,CA-2017-136672,Female,Month-to-month,Yes,Electronic check,79.2,79.2,Yes
+1372,US-2014-157021,Female,Month-to-month,No,Mailed check,95.3,2192.9,No
+1373,US-2014-157021,Male,Month-to-month,No,Mailed check,19.85,19.85,No
+1374,CA-2015-120362,Female,Two year,Yes,Mailed check,84.35,3858.05,No
+1375,CA-2014-126361,Female,Two year,Yes,Bank transfer (automatic),19.85,854.8,No
+1376,CA-2014-126361,Female,One year,Yes,Mailed check,70.0,347.4,Yes
+1377,CA-2014-126361,Male,Two year,No,Bank transfer (automatic),82.3,5815.15,No
+1378,CA-2014-126361,Male,Month-to-month,Yes,Bank transfer (automatic),66.8,3970.4,No
+1379,CA-2014-126361,Male,Two year,Yes,Bank transfer (automatic),44.6,3058.15,No
+1380,CA-2014-126361,Male,One year,Yes,Bank transfer (automatic),98.45,6145.2,No
+1381,US-2016-100566,Female,Month-to-month,No,Mailed check,70.7,129.2,No
+1382,US-2016-108504,Male,One year,No,Mailed check,24.95,1165.9,No
+1383,US-2016-108504,Female,Month-to-month,Yes,Bank transfer (automatic),49.95,49.95,Yes
+1384,US-2016-108504,Male,Month-to-month,Yes,Electronic check,69.25,1554.0,Yes
+1385,US-2016-108504,Male,Two year,Yes,Credit card (automatic),102.5,4904.25,No
+1386,US-2016-108504,Female,Two year,No,Credit card (automatic),86.55,5632.55,No
+1387,US-2016-108504,Female,Two year,No,Bank transfer (automatic),24.3,1643.25,No
+1388,US-2016-108504,Female,Month-to-month,Yes,Credit card (automatic),58.35,740.55,No
+1389,US-2016-108504,Male,Month-to-month,Yes,Electronic check,94.25,3217.55,Yes
+1390,US-2016-108504,Female,Two year,No,Credit card (automatic),68.75,4888.2,No
+1391,US-2016-108504,Female,Month-to-month,Yes,Electronic check,85.8,2440.25,No
+1392,US-2016-108504,Female,One year,No,Credit card (automatic),20.1,620.55,No
+1393,CA-2017-124828,Male,Month-to-month,No,Mailed check,20.35,20.35,No
+1394,US-2017-117247,Female,One year,Yes,Electronic check,110.8,6840.95,No
+1395,US-2017-117247,Female,One year,Yes,Electronic check,73.0,3001.2,Yes
+1396,CA-2016-124485,Female,One year,Yes,Credit card (automatic),100.05,6254.2,Yes
+1397,CA-2016-124485,Female,Month-to-month,Yes,Credit card (automatic),82.85,319.6,No
+1398,CA-2016-124485,Male,Month-to-month,Yes,Electronic check,84.35,1938.05,No
+1399,CA-2016-124485,Male,One year,No,Mailed check,19.55,294.5,No
+1400,CA-2016-159212,Female,Month-to-month,No,Mailed check,19.95,58.3,No
+1401,CA-2016-159212,Male,Month-to-month,Yes,Credit card (automatic),99.8,442.85,Yes
+1402,US-2016-161396,Male,Month-to-month,Yes,Electronic check,35.0,553.0,Yes
+1403,US-2016-161396,Male,Month-to-month,Yes,Electronic check,66.25,546.45,No
+1404,US-2014-118486,Female,Two year,No,Bank transfer (automatic),23.3,797.1,No
+1405,US-2014-118486,Male,Month-to-month,No,Electronic check,76.0,76.0,Yes
+1406,US-2014-118486,Male,Two year,Yes,Credit card (automatic),25.3,1673.8,No
+1407,CA-2016-130407,Female,Two year,Yes,Mailed check,44.55,343.45,No
+1408,CA-2016-130407,Female,One year,Yes,Credit card (automatic),104.1,7412.25,No
+1409,US-2016-122245,Female,Month-to-month,Yes,Bank transfer (automatic),92.55,4039.0,No
+1410,CA-2017-105144,Male,Month-to-month,Yes,Electronic check,93.85,170.85,Yes
+1411,CA-2016-136329,Male,Month-to-month,Yes,Bank transfer (automatic),101.45,2948.6,No
+1412,CA-2016-136329,Male,Month-to-month,Yes,Electronic check,84.3,1308.4,Yes
+1413,CA-2014-146640,Male,Two year,No,Credit card (automatic),94.55,6078.75,No
+1414,CA-2017-115994,Female,Month-to-month,No,Electronic check,95.5,3418.2,No
+1415,CA-2017-115994,Male,One year,Yes,Credit card (automatic),100.3,6603.8,No
+1416,CA-2015-126697,Female,Two year,Yes,Credit card (automatic),55.5,3166.9,No
+1417,CA-2015-126697,Male,Month-to-month,Yes,Credit card (automatic),49.85,865.75,No
+1418,CA-2015-126697,Male,Month-to-month,Yes,Bank transfer (automatic),89.55,6373.1,No
+1419,CA-2015-124800,Male,Two year,Yes,Mailed check,19.15,1177.05,No
+1420,CA-2015-124800,Female,Month-to-month,Yes,Electronic check,99.8,5985.75,No
+1421,CA-2015-124800,Male,Month-to-month,Yes,Credit card (automatic),84.4,732.5,Yes
+1422,CA-2015-124800,Female,Two year,Yes,Credit card (automatic),113.05,7869.05,No
+1423,CA-2015-124800,Male,Month-to-month,Yes,Electronic check,101.1,1504.05,Yes
+1424,CA-2015-124800,Female,One year,No,Mailed check,19.95,936.7,No
+1425,CA-2015-124800,Female,Month-to-month,Yes,Electronic check,74.15,741.4,No
+1426,US-2015-164448,Female,One year,Yes,Electronic check,92.0,6585.2,No
+1427,US-2015-164448,Female,Month-to-month,No,Electronic check,73.85,3122.4,No
+1428,US-2015-164448,Female,Month-to-month,Yes,Electronic check,50.45,50.45,Yes
+1429,US-2015-164448,Female,Two year,No,Mailed check,24.45,1088.25,No
+1430,CA-2017-122700,Male,One year,No,Credit card (automatic),24.8,615.35,No
+1431,CA-2014-120768,Female,One year,Yes,Bank transfer (automatic),64.85,2908.2,No
+1432,CA-2014-120768,Female,Month-to-month,No,Bank transfer (automatic),20.75,739.9,No
+1433,CA-2014-120768,Female,Month-to-month,Yes,Mailed check,68.95,593.85,No
+1434,US-2016-153129,Female,Month-to-month,Yes,Mailed check,99.95,1132.75,Yes
+1435,CA-2017-106852,Male,Month-to-month,Yes,Credit card (automatic),109.4,7227.45,No
+1436,CA-2017-106852,Female,Month-to-month,Yes,Electronic check,91.4,193.6,Yes
+1437,CA-2015-139731,Female,Month-to-month,No,Mailed check,49.0,1291.35,No
+1438,CA-2015-139731,Female,One year,Yes,Mailed check,50.25,2023.55,No
+1439,CA-2017-122735,Male,Month-to-month,Yes,Credit card (automatic),75.55,349.65,Yes
+1440,CA-2017-122735,Female,One year,No,Credit card (automatic),19.9,153.95,No
+1441,CA-2017-128160,Male,One year,Yes,Bank transfer (automatic),97.8,5458.8,No
+1442,CA-2017-117695,Male,One year,No,Electronic check,100.3,5244.45,No
+1443,CA-2015-166135,Female,Month-to-month,Yes,Mailed check,55.8,154.55,No
+1444,CA-2016-133725,Female,Two year,Yes,Electronic check,111.15,4507.15,No
+1445,CA-2017-102337,Male,Month-to-month,Yes,Mailed check,98.55,2031.95,No
+1446,CA-2017-102337,Female,Month-to-month,Yes,Electronic check,50.05,50.05,No
+1447,CA-2017-102337,Female,Month-to-month,No,Credit card (automatic),80.8,332.45,Yes
+1448,US-2014-112564,Male,Month-to-month,No,Electronic check,20.85,473.9,No
+1449,CA-2015-145821,Female,Month-to-month,No,Bank transfer (automatic),19.5,106.8,No
+1450,US-2015-160150,Male,Month-to-month,Yes,Mailed check,19.35,152.6,No
+1451,CA-2016-133711,Male,Month-to-month,No,Mailed check,69.5,1199.4,No
+1452,CA-2016-133711,Male,Month-to-month,Yes,Credit card (automatic),48.8,2555.05,No
+1453,CA-2016-133711,Male,Month-to-month,Yes,Electronic check,94.5,2979.2,No
+1454,CA-2016-133711,Male,Month-to-month,Yes,Mailed check,20.65,654.85,No
+1455,CA-2017-148474,Male,Two year,Yes,Credit card (automatic),106.05,3834.4,No
+1456,CA-2017-148474,Female,Month-to-month,Yes,Electronic check,100.0,1534.75,Yes
+1457,CA-2015-111297,Female,One year,Yes,Electronic check,108.3,4586.15,No
+1458,CA-2016-123722,Male,Month-to-month,No,Electronic check,20.55,20.55,Yes
+1459,CA-2014-155271,Male,Two year,Yes,Electronic check,99.65,5941.05,No
+1460,CA-2015-119907,Male,Month-to-month,Yes,Electronic check,85.3,424.15,Yes
+1461,US-2016-128902,Female,Month-to-month,No,Credit card (automatic),95.9,2234.95,No
+1462,CA-2016-152289,Female,One year,No,Mailed check,20.0,666.75,No
+1463,CA-2016-152289,Female,Month-to-month,No,Electronic check,70.4,281.0,Yes
+1464,US-2016-104794,Female,Month-to-month,No,Mailed check,64.95,547.8,No
+1465,CA-2014-151708,Male,Month-to-month,No,Credit card (automatic),74.6,74.6,No
+1466,CA-2014-151708,Female,Month-to-month,Yes,Electronic check,49.2,571.15,No
+1467,CA-2015-100769,Female,One year,Yes,Mailed check,73.75,1756.6,No
+1468,CA-2017-139199,Male,One year,Yes,Bank transfer (automatic),92.3,5731.45,No
+1469,CA-2017-139199,Male,Month-to-month,No,Bank transfer (automatic),98.8,3475.55,Yes
+1470,CA-2017-139199,Male,Month-to-month,No,Mailed check,19.2,156.85,No
+1471,US-2015-161466,Male,Month-to-month,No,Credit card (automatic),88.65,2683.2,No
+1472,CA-2017-164959,Male,Month-to-month,Yes,Credit card (automatic),74.4,896.75,Yes
+1473,US-2015-105676,Female,Month-to-month,Yes,Electronic check,98.75,2407.3,Yes
+1474,CA-2016-113138,Female,Month-to-month,Yes,Bank transfer (automatic),95.95,4456.65,No
+1475,CA-2016-113138,Female,Two year,No,Credit card (automatic),105.4,6998.95,No
+1476,US-2017-104955,Female,Month-to-month,No,Mailed check,20.25,36.8,No
+1477,CA-2016-121958,Male,One year,Yes,Electronic check,106.0,6547.7,Yes
+1478,CA-2017-121468,Female,Month-to-month,Yes,Electronic check,104.7,4346.4,Yes
+1479,US-2016-108455,Female,One year,Yes,Electronic check,49.05,2265.0,No
+1480,US-2016-108455,Female,One year,No,Mailed check,35.55,1309.15,No
+1481,US-2016-108455,Female,Two year,Yes,Credit card (automatic),65.1,4754.3,No
+1482,CA-2017-101210,Female,Month-to-month,Yes,Electronic check,96.85,1235.55,No
+1483,CA-2017-101210,Female,One year,Yes,Credit card (automatic),69.75,3562.5,No
+1484,US-2016-108098,Female,Two year,Yes,Electronic check,99.2,7213.75,No
+1485,CA-2014-119032,Male,Month-to-month,Yes,Electronic check,96.7,2082.95,Yes
+1486,CA-2015-140410,Female,Month-to-month,Yes,Credit card (automatic),55.05,102.75,Yes
+1487,CA-2015-140410,Male,One year,Yes,Electronic check,106.8,5914.4,No
+1488,CA-2015-140410,Male,Month-to-month,No,Mailed check,51.25,51.25,No
+1489,CA-2014-136280,Female,One year,Yes,Mailed check,57.75,1282.85,No
+1490,CA-2017-151911,Male,One year,Yes,Bank transfer (automatic),70.85,4738.85,No
+1491,CA-2017-166436,Female,Month-to-month,No,Mailed check,19.55,19.55,No
+1492,CA-2017-166436,Male,Month-to-month,Yes,Electronic check,88.2,1775.8,Yes
+1493,CA-2017-139661,Male,Month-to-month,Yes,Bank transfer (automatic),79.5,795.65,No
+1494,CA-2014-123925,Female,One year,Yes,Mailed check,19.75,145.0,Yes
+1495,CA-2017-152485,Male,Month-to-month,No,Bank transfer (automatic),98.15,4993.4,No
+1496,CA-2017-152485,Female,Month-to-month,Yes,Electronic check,20.25,61.45,No
+1497,CA-2017-152485,Male,Month-to-month,Yes,Bank transfer (automatic),79.15,4018.55,No
+1498,CA-2016-141586,Female,Month-to-month,No,Electronic check,75.65,1146.65,Yes
+1499,CA-2017-130386,Male,Month-to-month,Yes,Electronic check,94.25,6081.4,No
+1500,CA-2017-130386,Female,Month-to-month,Yes,Credit card (automatic),40.2,1478.85,No
+1501,CA-2017-130386,Female,Two year,No,Mailed check,19.95,243.65,No
+1502,CA-2016-100468,Female,One year,Yes,Electronic check,55.35,2633.95,No
+1503,CA-2016-100468,Male,One year,Yes,Bank transfer (automatic),102.15,4735.35,No
+1504,CA-2015-153388,Male,Month-to-month,Yes,Electronic check,71.1,1247.75,No
+1505,CA-2015-153388,Female,Month-to-month,Yes,Electronic check,74.7,74.7,Yes
+1506,CA-2017-154935,Female,Two year,Yes,Bank transfer (automatic),54.1,3794.5,No
+1507,CA-2016-134208,Female,Two year,No,Credit card (automatic),19.65,1008.7,No
+1508,CA-2017-108294,Male,Month-to-month,Yes,Bank transfer (automatic),88.45,2130.55,No
+1509,CA-2017-103611,Male,Month-to-month,Yes,Electronic check,76.65,1313.55,Yes
+1510,CA-2017-100384,Male,Two year,No,Credit card (automatic),80.4,5727.15,No
+1511,CA-2017-100384,Male,Two year,Yes,Bank transfer (automatic),19.25,1372.9,No
+1512,CA-2017-112809,Male,Month-to-month,Yes,Electronic check,84.8,1203.9,No
+1513,CA-2017-112809,Female,Month-to-month,Yes,Mailed check,25.8,25.8,Yes
+1514,CA-2017-112809,Female,Two year,No,Credit card (automatic),19.5,1215.1,No
+1515,US-2017-160759,Female,One year,Yes,Electronic check,68.6,2877.05,No
+1516,CA-2017-148446,Female,Month-to-month,No,Electronic check,92.6,1579.7,No
+1517,CA-2014-111059,Male,One year,Yes,Electronic check,100.55,5514.95,No
+1518,CA-2014-111059,Male,Month-to-month,No,Credit card (automatic),20.55,96.1,No
+1519,CA-2017-116204,Male,Month-to-month,Yes,Electronic check,42.6,72.4,Yes
+1520,CA-2017-109946,Female,Month-to-month,Yes,Mailed check,19.6,55.25,No
+1521,CA-2015-144806,Male,One year,No,Electronic check,67.45,2443.3,No
+1522,CA-2015-144806,Female,Month-to-month,Yes,Bank transfer (automatic),68.85,1970.5,Yes
+1523,CA-2015-144806,Female,Month-to-month,No,Mailed check,43.55,335.4,No
+1524,CA-2015-144806,Female,Month-to-month,Yes,Credit card (automatic),109.85,7002.95,No
+1525,CA-2015-144806,Male,Month-to-month,No,Mailed check,20.65,158.95,No
+1526,CA-2016-122392,Female,Month-to-month,No,Electronic check,95.4,293.15,No
+1527,CA-2016-122392,Female,Two year,No,Bank transfer (automatic),21.0,1493.75,No
+1528,CA-2015-148432,Male,Month-to-month,Yes,Electronic check,56.2,1093.4,No
+1529,CA-2015-148432,Male,Two year,No,Bank transfer (automatic),18.4,1057.85,No
+1530,CA-2015-103793,Male,Month-to-month,No,Credit card (automatic),90.0,190.05,Yes
+1531,CA-2017-159884,Male,Month-to-month,Yes,Electronic check,25.75,882.55,No
+1532,CA-2017-159884,Male,Month-to-month,No,Credit card (automatic),19.6,300.4,No
+1533,CA-2016-139885,Male,Month-to-month,No,Electronic check,75.35,1025.95,Yes
+1534,CA-2017-124086,Male,Two year,No,Credit card (automatic),19.8,1436.95,No
+1535,CA-2016-112389,Female,Month-to-month,No,Electronic check,64.2,475.0,No
+1536,CA-2016-112389,Female,Two year,Yes,Bank transfer (automatic),75.75,5388.15,No
+1537,CA-2017-121888,Female,Two year,Yes,Electronic check,78.95,5730.15,No
+1538,CA-2017-121888,Female,Month-to-month,No,Electronic check,100.85,819.55,Yes
+1539,CA-2017-121888,Male,Month-to-month,No,Electronic check,50.3,217.1,No
+1540,CA-2017-121888,Female,Month-to-month,Yes,Credit card (automatic),80.3,4896.35,No
+1541,CA-2014-166884,Male,Two year,No,Bank transfer (automatic),19.85,1434.1,No
+1542,CA-2014-166884,Male,Two year,Yes,Electronic check,21.1,937.1,No
+1543,CA-2014-107181,Female,Month-to-month,No,Electronic check,69.95,330.15,Yes
+1544,CA-2014-107181,Male,Month-to-month,Yes,Mailed check,50.0,1474.9,No
+1545,CA-2014-150245,Female,Two year,Yes,Bank transfer (automatic),104.75,6536.5,No
+1546,CA-2015-111395,Female,Two year,No,Bank transfer (automatic),19.85,1128.1,No
+1547,CA-2015-111395,Male,One year,Yes,Electronic check,107.5,6873.75,Yes
+1548,CA-2015-111395,Male,Month-to-month,No,Electronic check,85.9,2199.05,No
+1549,CA-2014-134278,Female,Month-to-month,Yes,Mailed check,45.85,45.85,Yes
+1550,US-2017-124926,Male,Month-to-month,Yes,Electronic check,80.8,457.1,No
+1551,CA-2016-159345,Female,Two year,No,Mailed check,25.25,566.5,No
+1552,CA-2014-130274,Female,Two year,No,Bank transfer (automatic),80.55,2471.6,No
+1553,CA-2017-158386,Female,Month-to-month,Yes,Bank transfer (automatic),81.5,3107.3,No
+1554,CA-2015-111507,Male,Month-to-month,No,Mailed check,20.9,518.3,No
+1555,CA-2017-120761,Male,One year,Yes,Bank transfer (automatic),106.1,5769.75,Yes
+1556,CA-2016-109176,Female,Month-to-month,No,Electronic check,91.7,91.7,Yes
+1557,CA-2016-109176,Male,Month-to-month,Yes,Electronic check,67.25,832.3,No
+1558,CA-2015-112116,Female,Month-to-month,Yes,Credit card (automatic),95.6,1555.65,Yes
+1559,CA-2016-126809,Male,Month-to-month,No,Mailed check,20.35,45.3,No
+1560,CA-2014-105172,Male,One year,No,Bank transfer (automatic),45.05,1790.6,No
+1561,CA-2017-107293,Male,Month-to-month,Yes,Electronic check,74.95,74.95,Yes
+1562,US-2017-102890,Female,Month-to-month,No,Mailed check,34.65,246.6,No
+1563,CA-2015-158554,Female,Month-to-month,No,Electronic check,69.35,261.65,No
+1564,CA-2014-116239,Female,Month-to-month,Yes,Electronic check,95.35,898.35,Yes
+1565,CA-2015-132101,Female,Month-to-month,Yes,Electronic check,81.55,4509.5,No
+1566,CA-2015-129112,Male,Two year,Yes,Bank transfer (automatic),75.4,5480.25,No
+1567,CA-2015-129112,Female,Month-to-month,Yes,Credit card (automatic),67.8,653.15,No
+1568,US-2017-152002,Male,Month-to-month,Yes,Electronic check,111.4,1183.05,No
+1569,CA-2017-165029,Male,Month-to-month,No,Electronic check,46.3,639.45,No
+1570,US-2014-157385,Male,Two year,No,Bank transfer (automatic),20.4,478.75,No
+1571,US-2014-157385,Male,Month-to-month,No,Mailed check,20.05,20.05,No
+1572,US-2014-157385,Male,Month-to-month,No,Electronic check,45.0,127.1,Yes
+1573,US-2014-157385,Female,One year,Yes,Electronic check,96.1,4391.45,No
+1574,CA-2014-101602,Male,One year,No,Mailed check,19.65,270.6,No
+1575,CA-2014-101602,Male,Month-to-month,No,Electronic check,99.5,6710.5,Yes
+1576,CA-2016-109057,Female,One year,Yes,Bank transfer (automatic),60.65,3975.9,No
+1577,CA-2016-154403,Male,One year,No,Bank transfer (automatic),98.6,1704.95,Yes
+1578,CA-2016-102456,Male,Month-to-month,Yes,Mailed check,59.5,415.95,Yes
+1579,CA-2015-131338,Female,Month-to-month,Yes,Electronic check,80.45,950.2,Yes
+1580,CA-2015-131338,Female,One year,No,Bank transfer (automatic),71.7,1497.05,No
+1581,CA-2015-131338,Male,Month-to-month,Yes,Mailed check,36.0,780.15,No
+1582,CA-2015-131338,Male,One year,No,Bank transfer (automatic),65.2,3512.15,No
+1583,CA-2015-131338,Male,Month-to-month,Yes,Credit card (automatic),48.95,273.25,No
+1584,CA-2015-131338,Female,Two year,Yes,Bank transfer (automatic),53.5,3517.9,No
+1585,CA-2015-131338,Female,One year,No,Credit card (automatic),80.45,3375.9,No
+1586,CA-2015-131338,Male,Two year,Yes,Bank transfer (automatic),109.05,7508.55,No
+1587,CA-2015-131338,Female,Two year,No,Bank transfer (automatic),26.3,1245.05,No
+1588,CA-2015-131338,Male,One year,Yes,Electronic check,106.8,5347.95,No
+1589,CA-2016-109911,Female,Month-to-month,Yes,Electronic check,64.95,493.65,No
+1590,US-2016-132423,Male,Two year,No,Electronic check,19.35,1263.85,No
+1591,US-2016-132423,Male,Month-to-month,No,Credit card (automatic),21.1,385.55,No
+1592,CA-2015-122826,Male,Month-to-month,Yes,Credit card (automatic),77.95,3384.0,Yes
+1593,CA-2014-117317,Male,Month-to-month,No,Mailed check,18.85,84.2,No
+1594,CA-2015-118423,Male,Two year,No,Bank transfer (automatic),26.0,1638.7,No
+1595,CA-2017-149181,Male,Month-to-month,Yes,Electronic check,74.7,165.4,Yes
+1596,CA-2017-132234,Male,Month-to-month,Yes,Electronic check,70.35,120.25,No
+1597,CA-2017-158876,Male,Two year,Yes,Bank transfer (automatic),96.9,4473.45,No
+1598,CA-2017-158876,Male,Two year,No,Bank transfer (automatic),19.55,520.55,No
+1599,CA-2017-158876,Female,Two year,Yes,Bank transfer (automatic),80.4,5717.85,No
+1600,CA-2017-158876,Male,Month-to-month,Yes,Electronic check,88.8,88.8,Yes
+1601,CA-2016-164672,Female,One year,Yes,Electronic check,94.65,4312.5,No
+1602,US-2016-132857,Male,Month-to-month,Yes,Electronic check,90.25,2755.35,Yes
+1603,CA-2017-116645,Male,Month-to-month,Yes,Bank transfer (automatic),64.65,994.55,Yes
+1604,US-2016-115819,Female,One year,No,Credit card (automatic),95.75,6511.25,No
+1605,US-2016-115819,Female,Two year,Yes,Credit card (automatic),19.55,1218.65,No
+1606,US-2016-115819,Female,Two year,Yes,Credit card (automatic),104.1,7447.7,No
+1607,US-2016-115819,Male,Month-to-month,Yes,Bank transfer (automatic),89.05,1169.35,Yes
+1608,US-2016-115819,Male,One year,Yes,Mailed check,20.1,279.5,No
+1609,US-2016-115819,Female,One year,Yes,Electronic check,111.55,5720.35,No
+1610,CA-2014-156349,Male,Two year,No,Credit card (automatic),60.5,3121.45,No
+1611,CA-2014-156349,Male,Two year,Yes,Bank transfer (automatic),90.95,6468.6,No
+1612,CA-2014-156349,Female,One year,No,Electronic check,87.4,5918.8,Yes
+1613,CA-2017-138380,Female,Month-to-month,No,Mailed check,19.7,675.6,No
+1614,US-2016-113509,Male,Two year,Yes,Bank transfer (automatic),50.95,3521.7,No
+1615,CA-2015-130022,Female,One year,Yes,Bank transfer (automatic),20.05,923.1,No
+1616,CA-2015-130022,Male,Two year,Yes,Mailed check,19.4,1110.35,No
+1617,CA-2015-130022,Male,Month-to-month,No,Electronic check,59.45,1611.65,No
+1618,US-2016-118780,Male,Month-to-month,Yes,Electronic check,94.75,2293.6,Yes
+1619,US-2016-118780,Female,Two year,Yes,Credit card (automatic),81.5,5553.25,No
+1620,CA-2017-108560,Male,Month-to-month,No,Bank transfer (automatic),29.05,44.75,No
+1621,CA-2017-108560,Male,Month-to-month,Yes,Electronic check,86.45,3029.1,Yes
+1622,CA-2017-108560,Male,One year,No,Mailed check,70.6,3231.05,No
+1623,CA-2017-108560,Male,Two year,Yes,Bank transfer (automatic),97.2,5129.45,No
+1624,CA-2015-157084,Female,One year,Yes,Electronic check,98.25,5508.35,Yes
+1625,CA-2015-157084,Female,Month-to-month,Yes,Bank transfer (automatic),75.75,655.9,Yes
+1626,CA-2015-164539,Male,Month-to-month,No,Bank transfer (automatic),59.2,1191.2,No
+1627,CA-2015-143119,Male,Month-to-month,Yes,Mailed check,75.9,866.4,No
+1628,CA-2017-101049,Female,Month-to-month,Yes,Electronic check,90.05,2627.2,No
+1629,CA-2017-101049,Male,Two year,No,Bank transfer (automatic),70.95,4741.45,No
+1630,CA-2016-106530,Male,Month-to-month,Yes,Electronic check,102.6,4009.2,No
+1631,CA-2016-106530,Male,Month-to-month,Yes,Bank transfer (automatic),85.35,1463.45,Yes
+1632,CA-2016-106530,Female,One year,Yes,Credit card (automatic),106.1,5082.8,Yes
+1633,CA-2016-106530,Male,Month-to-month,No,Electronic check,43.8,43.8,No
+1634,CA-2016-106530,Male,Two year,No,Electronic check,59.0,3707.6,No
+1635,CA-2014-168984,Male,One year,Yes,Electronic check,69.95,220.45,No
+1636,CA-2014-168984,Female,One year,No,Bank transfer (automatic),24.35,1133.7,No
+1637,CA-2014-168984,Male,One year,No,Credit card (automatic),29.45,1983.15,No
+1638,CA-2016-157266,Female,Two year,Yes,Credit card (automatic),84.4,5746.75,No
+1639,CA-2016-157266,Male,Month-to-month,Yes,Electronic check,45.05,770.6,Yes
+1640,CA-2016-157266,Female,One year,No,Mailed check,20.65,134.05,No
+1641,CA-2016-157266,Female,Two year,Yes,Bank transfer (automatic),87.1,6230.1,No
+1642,US-2014-134712,Female,Month-to-month,No,Mailed check,19.85,573.05,No
+1643,CA-2015-111829,Male,Month-to-month,Yes,Electronic check,90.35,3419.3,No
+1644,CA-2015-111829,Male,Month-to-month,Yes,Mailed check,109.8,3587.25,Yes
+1645,CA-2015-111829,Female,Month-to-month,Yes,Electronic check,84.65,3541.35,Yes
+1646,CA-2015-105221,Female,One year,No,Mailed check,65.5,3801.3,No
+1647,CA-2015-105221,Male,Month-to-month,Yes,Bank transfer (automatic),79.5,868.5,Yes
+1648,CA-2015-120341,Female,Month-to-month,Yes,Electronic check,80.95,4859.1,No
+1649,CA-2015-120341,Female,Month-to-month,Yes,Mailed check,56.15,1439.35,No
+1650,CA-2014-135699,Male,Month-to-month,No,Mailed check,85.8,85.8,Yes
+1651,CA-2014-135699,Female,Month-to-month,Yes,Electronic check,79.1,79.1,Yes
+1652,US-2017-132444,Male,Month-to-month,No,Mailed check,34.4,592.75,No
+1653,US-2017-132444,Female,Two year,No,Mailed check,20.75,1185.95,No
+1654,US-2017-132444,Female,One year,No,Mailed check,18.8,18.8,No
+1655,US-2017-132444,Female,Month-to-month,No,Mailed check,44.3,134.5,Yes
+1656,US-2017-132444,Female,Month-to-month,No,Electronic check,90.8,4921.2,No
+1657,CA-2014-127159,Male,Month-to-month,Yes,Electronic check,25.6,901.25,No
+1658,CA-2017-161809,Male,Month-to-month,No,Credit card (automatic),105.95,5341.8,Yes
+1659,CA-2017-127285,Male,Two year,No,Credit card (automatic),70.8,4859.95,No
+1660,CA-2017-127285,Male,Month-to-month,No,Electronic check,25.4,1139.2,No
+1661,CA-2017-144526,Male,Month-to-month,Yes,Bank transfer (automatic),108.8,7082.45,No
+1662,CA-2017-144526,Female,Month-to-month,Yes,Electronic check,69.75,324.6,Yes
+1663,CA-2016-128531,Male,Month-to-month,Yes,Electronic check,94.65,4812.75,Yes
+1664,CA-2016-128531,Male,Month-to-month,No,Bank transfer (automatic),96.05,4399.5,Yes
+1665,CA-2016-128531,Female,Month-to-month,Yes,Electronic check,76.85,663.55,No
+1666,CA-2016-128531,Male,Two year,No,Mailed check,20.25,174.65,No
+1667,CA-2016-128531,Male,One year,Yes,Credit card (automatic),24.8,321.7,No
+1668,CA-2016-128531,Male,Month-to-month,Yes,Electronic check,115.65,5125.5,No
+1669,US-2015-157154,Male,Month-to-month,Yes,Credit card (automatic),74.6,548.9,No
+1670,CA-2017-159457,Female,Month-to-month,Yes,Mailed check,50.15,50.15,Yes
+1671,CA-2016-107615,Female,One year,Yes,Bank transfer (automatic),103.15,7031.3,No
+1672,CA-2017-111647,Male,Two year,No,Credit card (automatic),72.1,5016.65,No
+1673,CA-2015-150560,Female,Month-to-month,Yes,Bank transfer (automatic),113.6,4594.95,Yes
+1674,CA-2015-143077,Female,Two year,No,Mailed check,25.1,611.45,No
+1675,CA-2015-143077,Male,Month-to-month,Yes,Electronic check,78.9,2384.15,Yes
+1676,CA-2016-122728,Male,Month-to-month,Yes,Electronic check,80.15,319.85,No
+1677,CA-2016-122728,Male,Two year,No,Mailed check,25.4,153.3,No
+1678,CA-2014-122882,Male,One year,Yes,Credit card (automatic),105.4,7035.6,No
+1679,CA-2014-122882,Female,Month-to-month,Yes,Mailed check,45.75,344.2,No
+1680,CA-2014-122882,Male,One year,Yes,Mailed check,24.45,1431.65,No
+1681,CA-2014-122882,Male,Two year,No,Credit card (automatic),25.0,1849.2,No
+1682,US-2016-101497,Male,Two year,Yes,Electronic check,85.25,6083.1,No
+1683,CA-2016-147585,Male,Two year,No,Credit card (automatic),19.6,426.65,No
+1684,CA-2017-149489,Male,Month-to-month,No,Mailed check,50.15,1655.35,No
+1685,CA-2017-149489,Female,Month-to-month,Yes,Electronic check,70.55,1943.9,No
+1686,CA-2017-149489,Male,Month-to-month,Yes,Electronic check,60.05,1616.15,Yes
+1687,CA-2017-143798,Male,One year,No,Mailed check,26.4,314.95,No
+1688,CA-2017-143798,Female,Two year,No,Mailed check,20.15,804.85,No
+1689,CA-2014-142839,Male,Month-to-month,No,Mailed check,58.85,465.7,No
+1690,CA-2017-129833,Female,Month-to-month,Yes,Credit card (automatic),97.55,6669.05,No
+1691,CA-2017-129833,Female,Two year,No,Credit card (automatic),19.65,1161.75,No
+1692,US-2016-154361,Female,One year,Yes,Credit card (automatic),25.25,947.75,No
+1693,US-2016-158708,Female,Two year,No,Credit card (automatic),114.45,8375.05,No
+1694,CA-2015-156335,Female,Month-to-month,Yes,Electronic check,34.7,34.7,Yes
+1695,CA-2015-156335,Female,One year,Yes,Electronic check,70.7,3770.0,No
+1696,CA-2015-156335,Female,Month-to-month,Yes,Electronic check,85.3,264.8,Yes
+1697,CA-2015-148376,Female,Two year,No,Credit card (automatic),75.55,4707.85,No
+1698,CA-2015-148376,Female,Two year,Yes,Electronic check,84.8,6152.4,No
+1699,CA-2014-135657,Female,One year,Yes,Mailed check,20.65,958.1,No
+1700,CA-2015-114069,Male,Two year,No,Bank transfer (automatic),20.45,943.0,No
+1701,CA-2015-114069,Female,One year,Yes,Credit card (automatic),102.45,6615.15,Yes
+1702,CA-2015-114069,Male,Month-to-month,Yes,Bank transfer (automatic),104.4,2200.25,Yes
+1703,CA-2014-139857,Male,Month-to-month,Yes,Electronic check,35.65,425.1,No
+1704,CA-2016-106306,Male,Month-to-month,Yes,Electronic check,99.75,99.75,Yes
+1705,CA-2015-100545,Male,Month-to-month,No,Electronic check,90.45,5044.8,No
+1706,CA-2017-123491,Male,Two year,Yes,Credit card (automatic),97.65,6743.55,No
+1707,CA-2017-123491,Female,Month-to-month,No,Electronic check,73.85,196.4,No
+1708,CA-2017-123491,Male,Month-to-month,Yes,Electronic check,74.4,299.7,Yes
+1709,CA-2017-123491,Male,Two year,Yes,Credit card (automatic),69.1,2093.9,No
+1710,CA-2017-123491,Female,Month-to-month,Yes,Electronic check,82.75,417.75,No
+1711,CA-2017-123491,Female,Two year,Yes,Credit card (automatic),24.4,1725.4,No
+1712,CA-2015-145401,Female,One year,Yes,Electronic check,55.25,1620.2,No
+1713,US-2017-124968,Male,Month-to-month,No,Bank transfer (automatic),61.35,3169.55,No
+1714,CA-2017-104003,Female,One year,No,Credit card (automatic),76.75,5233.25,No
+1715,CA-2016-154788,Male,Two year,No,Mailed check,19.4,967.85,No
+1716,CA-2016-169943,Male,Month-to-month,Yes,Credit card (automatic),54.75,438.05,No
+1717,CA-2016-169943,Female,Two year,No,Credit card (automatic),19.7,1421.9,No
+1718,CA-2016-169943,Male,One year,No,Bank transfer (automatic),19.9,323.15,No
+1719,CA-2016-169943,Male,Month-to-month,Yes,Electronic check,107.95,318.6,No
+1720,CA-2016-169943,Male,Month-to-month,Yes,Bank transfer (automatic),83.8,163.7,No
+1721,US-2015-123218,Male,Month-to-month,Yes,Credit card (automatic),74.25,639.65,Yes
+1722,US-2015-123218,Female,One year,Yes,Credit card (automatic),56.4,2928.5,No
+1723,US-2015-123218,Male,Two year,No,Mailed check,20.1,100.35,No
+1724,CA-2015-127453,Male,Month-to-month,No,Electronic check,94.9,273.2,No
+1725,CA-2015-127453,Female,Month-to-month,Yes,Electronic check,94.2,1608.15,No
+1726,CA-2015-127453,Female,Month-to-month,No,Electronic check,49.9,1441.95,No
+1727,US-2017-164056,Male,Month-to-month,Yes,Electronic check,71.05,2168.15,No
+1728,CA-2016-106894,Male,Two year,No,Bank transfer (automatic),81.65,3618.7,No
+1729,CA-2016-106894,Male,One year,No,Bank transfer (automatic),89.45,5692.65,No
+1730,CA-2014-125136,Female,Month-to-month,Yes,Electronic check,59.85,59.85,Yes
+1731,CA-2014-125136,Female,Month-to-month,Yes,Electronic check,69.6,69.6,Yes
+1732,US-2016-131149,Male,One year,No,Electronic check,99.0,5969.3,No
+1733,US-2016-131149,Female,Month-to-month,No,Mailed check,19.05,19.05,No
+1734,CA-2017-101483,Male,Month-to-month,Yes,Electronic check,45.4,418.8,Yes
+1735,CA-2017-101483,Female,Two year,No,Bank transfer (automatic),114.45,8100.55,No
+1736,CA-2017-101483,Male,Month-to-month,No,Mailed check,19.5,19.5,Yes
+1737,CA-2015-130204,Male,Month-to-month,Yes,Mailed check,44.25,313.45,No
+1738,CA-2015-130204,Female,One year,Yes,Bank transfer (automatic),90.55,6130.95,No
+1739,CA-2015-130204,Male,Month-to-month,Yes,Electronic check,69.9,69.9,Yes
+1740,CA-2014-110527,Male,Month-to-month,Yes,Bank transfer (automatic),20.4,745.3,No
+1741,CA-2017-152807,Female,Month-to-month,Yes,Bank transfer (automatic),71.4,1212.1,No
+1742,CA-2017-152807,Male,Month-to-month,Yes,Bank transfer (automatic),87.15,183.75,Yes
+1743,CA-2017-152807,Male,Two year,No,Credit card (automatic),24.85,1583.5,No
+1744,CA-2017-152807,Male,One year,Yes,Bank transfer (automatic),104.45,4162.05,No
+1745,CA-2014-133270,Male,Two year,Yes,Credit card (automatic),19.8,1119.9,No
+1746,CA-2016-155670,Female,Two year,Yes,Bank transfer (automatic),116.45,8013.55,No
+1747,CA-2016-155670,Male,Month-to-month,Yes,Bank transfer (automatic),84.75,264.85,Yes
+1748,US-2014-157406,Male,Two year,No,Credit card (automatic),20.05,1102.4,No
+1749,US-2014-157406,Male,Month-to-month,Yes,Electronic check,110.75,5832.0,No
+1750,CA-2015-139094,Female,Two year,Yes,Bank transfer (automatic),89.7,4304.5,No
+1751,CA-2017-168837,Female,Month-to-month,Yes,Electronic check,89.95,1178.4,Yes
+1752,CA-2017-116715,Male,One year,No,Credit card (automatic),48.7,1421.75,No
+1753,CA-2017-116715,Female,Two year,Yes,Bank transfer (automatic),96.6,6827.5,No
+1754,CA-2017-116715,Female,One year,Yes,Credit card (automatic),74.3,4698.05,No
+1755,CA-2015-135622,Male,Month-to-month,Yes,Electronic check,54.3,654.5,No
+1756,CA-2015-135622,Female,One year,No,Bank transfer (automatic),74.85,3268.05,No
+1757,US-2015-107349,Male,Two year,Yes,Bank transfer (automatic),79.95,4362.05,No
+1758,CA-2014-139017,Male,Two year,No,Bank transfer (automatic),20.05,1386.9,No
+1759,CA-2014-141817,Male,Month-to-month,No,Mailed check,19.4,415.4,No
+1760,CA-2015-130785,Male,One year,No,Bank transfer (automatic),54.9,2614.1,No
+1761,CA-2015-130785,Male,Two year,Yes,Credit card (automatic),24.45,1513.6,No
+1762,CA-2015-130785,Female,Month-to-month,Yes,Bank transfer (automatic),89.65,3161.6,No
+1763,CA-2016-110254,Male,Month-to-month,Yes,Electronic check,45.4,80.95,No
+1764,CA-2016-110254,Male,Two year,No,Mailed check,75.7,4676.7,No
+1765,CA-2016-110254,Male,One year,Yes,Credit card (automatic),110.65,6526.65,No
+1766,CA-2016-110254,Male,One year,Yes,Mailed check,20.55,583.3,No
+1767,US-2014-158057,Male,Two year,Yes,Credit card (automatic),115.15,8078.1,No
+1768,US-2014-158057,Female,One year,No,Credit card (automatic),58.55,3503.5,No
+1769,CA-2017-146024,Male,Month-to-month,Yes,Bank transfer (automatic),93.25,6669.45,No
+1770,CA-2017-146024,Female,Month-to-month,Yes,Electronic check,113.2,4689.5,Yes
+1771,CA-2016-129686,Male,Month-to-month,Yes,Electronic check,90.5,1201.15,Yes
+1772,CA-2016-129686,Female,Month-to-month,No,Electronic check,79.0,143.65,Yes
+1773,CA-2014-118976,Male,Two year,Yes,Bank transfer (automatic),19.35,1292.65,No
+1774,CA-2014-118976,Female,Month-to-month,Yes,Mailed check,48.75,48.75,No
+1775,CA-2014-118976,Male,Two year,Yes,Electronic check,109.05,7108.2,No
+1776,CA-2014-118976,Male,Two year,Yes,Bank transfer (automatic),25.0,1802.55,No
+1777,CA-2015-105347,Male,Month-to-month,Yes,Credit card (automatic),54.9,1505.15,No
+1778,CA-2015-105347,Male,Two year,No,Credit card (automatic),24.75,1859.1,No
+1779,CA-2016-124667,Female,Month-to-month,Yes,Electronic check,91.15,168.5,No
+1780,CA-2016-124667,Male,One year,No,Bank transfer (automatic),20.15,390.85,Yes
+1781,CA-2015-111094,Male,One year,Yes,Electronic check,104.35,6339.45,No
+1782,CA-2015-111094,Male,Month-to-month,Yes,Electronic check,66.05,1652.4,No
+1783,CA-2017-166317,Male,Month-to-month,Yes,Electronic check,71.65,71.65,Yes
+1784,CA-2017-166317,Male,Month-to-month,No,Mailed check,20.35,77.5,Yes
+1785,CA-2017-166317,Male,Two year,Yes,Credit card (automatic),92.2,6392.85,No
+1786,CA-2017-166317,Male,Month-to-month,Yes,Credit card (automatic),84.25,3264.5,Yes
+1787,CA-2015-154326,Male,One year,Yes,Bank transfer (automatic),105.2,4599.15,No
+1788,CA-2015-154326,Male,Two year,Yes,Bank transfer (automatic),19.6,1134.25,No
+1789,CA-2015-154326,Male,Month-to-month,No,Electronic check,30.4,1621.35,No
+1790,CA-2014-102008,Female,Month-to-month,No,Bank transfer (automatic),78.1,947.3,Yes
+1791,CA-2014-120474,Male,One year,Yes,Mailed check,61.5,2722.2,No
+1792,CA-2014-120474,Male,Month-to-month,Yes,Bank transfer (automatic),69.4,3058.3,No
+1793,CA-2014-104773,Female,Two year,No,Bank transfer (automatic),24.75,1769.6,No
+1794,CA-2016-140774,Female,Two year,No,Mailed check,91.05,6293.75,No
+1795,US-2017-139465,Male,Month-to-month,No,Mailed check,89.65,1761.05,Yes
+1796,US-2017-139465,Female,Month-to-month,Yes,Credit card (automatic),73.65,1642.75,No
+1797,US-2017-139465,Female,Two year,No,Credit card (automatic),19.4,578.5,No
+1798,CA-2016-100965,Female,One year,No,Bank transfer (automatic),26.2,954.9,No
+1799,CA-2016-121034,Female,Month-to-month,Yes,Electronic check,98.7,973.25,Yes
+1800,CA-2016-121034,Female,Month-to-month,Yes,Bank transfer (automatic),43.85,43.85,No
+1801,CA-2016-149461,Female,Month-to-month,Yes,Mailed check,69.7,1490.4,No
+1802,CA-2017-158379,Female,Two year,No,Mailed check,38.55,280.0,No
+1803,CA-2017-158379,Male,Two year,Yes,Mailed check,53.1,1901.25,No
+1804,CA-2017-158379,Male,Month-to-month,No,Mailed check,20.65,716.4,No
+1805,US-2016-116729,Male,Two year,No,Credit card (automatic),64.45,4720.0,No
+1806,US-2016-116729,Male,Two year,No,Credit card (automatic),25.1,930.95,No
+1807,US-2016-116729,Male,Month-to-month,No,Electronic check,76.35,76.35,Yes
+1808,CA-2016-164938,Male,Month-to-month,Yes,Electronic check,79.15,1676.95,Yes
+1809,CA-2016-165484,Male,Month-to-month,Yes,Electronic check,85.0,2642.05,Yes
+1810,CA-2016-165484,Male,One year,Yes,Credit card (automatic),95.15,6770.85,No
+1811,CA-2014-132612,Male,Month-to-month,Yes,Mailed check,79.35,1835.3,No
+1812,US-2017-161193,Female,One year,Yes,Bank transfer (automatic),96.65,1588.25,No
+1813,US-2017-161193,Female,Month-to-month,Yes,Electronic check,75.5,75.5,No
+1814,CA-2015-131597,Female,Two year,No,Mailed check,19.7,258.35,No
+1815,CA-2015-164833,Female,Two year,No,Credit card (automatic),20.5,1502.25,No
+1816,CA-2015-164833,Female,Month-to-month,No,Mailed check,19.2,19.2,No
+1817,CA-2015-125423,Female,Two year,No,Bank transfer (automatic),98.35,6929.4,No
+1818,US-2014-130379,Female,Month-to-month,No,Bank transfer (automatic),74.35,4453.3,No
+1819,US-2014-130379,Female,Two year,No,Credit card (automatic),51.35,3244.4,No
+1820,CA-2016-168956,Female,Month-to-month,No,Mailed check,45.65,323.45,No
+1821,CA-2016-168956,Female,Month-to-month,No,Electronic check,85.3,2661.1,Yes
+1822,CA-2016-168956,Male,Month-to-month,Yes,Credit card (automatic),86.55,2697.4,Yes
+1823,CA-2016-168956,Female,Month-to-month,Yes,Credit card (automatic),73.85,1424.5,Yes
+1824,CA-2016-167507,Female,Two year,No,Bank transfer (automatic),20.3,1401.15,No
+1825,CA-2016-167507,Male,Month-to-month,Yes,Electronic check,54.2,1739.6,No
+1826,CA-2016-167507,Male,Month-to-month,Yes,Electronic check,90.65,5931.0,No
+1827,CA-2016-109344,Male,Month-to-month,Yes,Bank transfer (automatic),50.9,2333.85,No
+1828,US-2015-140851,Male,One year,No,Electronic check,25.05,949.85,No
+1829,CA-2014-103373,Male,Month-to-month,Yes,Electronic check,74.85,572.45,No
+1830,CA-2017-145884,Male,Two year,No,Mailed check,20.5,696.8,No
+1831,CA-2017-145884,Male,Month-to-month,Yes,Mailed check,63.55,1381.8,No
+1832,CA-2015-131422,Male,Month-to-month,Yes,Electronic check,44.85,2572.95,Yes
+1833,CA-2017-162691,Male,Month-to-month,No,Electronic check,47.95,47.95,No
+1834,CA-2017-162691,Male,Month-to-month,No,Electronic check,45.1,45.1,Yes
+1835,CA-2014-141278,Male,Month-to-month,Yes,Electronic check,45.0,45.0,No
+1836,CA-2017-122693,Male,Month-to-month,Yes,Electronic check,96.0,2122.45,Yes
+1837,CA-2014-117345,Male,Month-to-month,No,Bank transfer (automatic),20.05,20.05,Yes
+1838,CA-2014-117345,Female,Month-to-month,Yes,Electronic check,90.05,4931.8,No
+1839,CA-2014-117345,Male,Two year,Yes,Credit card (automatic),25.3,116.95,No
+1840,CA-2014-117345,Female,Two year,No,Bank transfer (automatic),108.65,6937.95,Yes
+1841,CA-2016-157763,Male,One year,No,Electronic check,24.3,1261.7,No
+1842,CA-2015-135391,Male,Month-to-month,Yes,Electronic check,75.95,3273.8,No
+1843,CA-2015-135391,Male,Two year,No,Credit card (automatic),19.7,1415.85,No
+1844,US-2017-113852,Female,One year,No,Credit card (automatic),66.4,3958.2,No
+1845,US-2017-158512,Female,One year,Yes,Bank transfer (automatic),35.75,2492.25,No
+1846,US-2017-158512,Male,One year,No,Mailed check,18.8,279.2,No
+1847,CA-2017-128370,Male,Two year,No,Credit card (automatic),19.4,1083.0,No
+1848,CA-2017-128370,Male,One year,No,Mailed check,19.3,755.5,No
+1849,CA-2015-160472,Female,Month-to-month,Yes,Electronic check,45.55,402.6,Yes
+1850,CA-2015-160472,Female,Month-to-month,Yes,Credit card (automatic),67.45,3252.0,No
+1851,CA-2015-160472,Female,Month-to-month,Yes,Electronic check,35.1,68.75,Yes
+1852,CA-2015-160472,Male,Month-to-month,No,Credit card (automatic),46.2,46.2,Yes
+1853,CA-2015-160472,Female,Month-to-month,No,Electronic check,45.15,45.15,Yes
+1854,CA-2015-160472,Male,Month-to-month,Yes,Electronic check,43.3,43.3,Yes
+1855,CA-2014-114643,Male,Two year,Yes,Mailed check,20.1,936.85,No
+1856,US-2017-158218,Female,Month-to-month,Yes,Credit card (automatic),57.15,2250.65,Yes
+1857,US-2017-158218,Male,Two year,No,Credit card (automatic),58.9,3857.1,No
+1858,CA-2015-121608,Female,Month-to-month,Yes,Electronic check,73.2,1441.1,Yes
+1859,CA-2015-121608,Male,Month-to-month,Yes,Electronic check,85.35,4338.6,Yes
+1860,US-2017-121251,Female,Two year,No,Mailed check,19.45,1378.45,No
+1861,US-2017-121251,Female,Month-to-month,No,Mailed check,45.95,45.95,Yes
+1862,CA-2014-151078,Female,Month-to-month,Yes,Electronic check,50.5,2566.3,No
+1863,US-2016-100839,Male,One year,No,Mailed check,25.1,171.0,No
+1864,US-2016-100839,Male,One year,No,Mailed check,60.7,1597.4,No
+1865,US-2017-116659,Female,One year,Yes,Electronic check,99.0,4744.35,No
+1866,CA-2017-118857,Female,One year,Yes,Bank transfer (automatic),104.4,6721.6,No
+1867,CA-2015-127110,Female,Month-to-month,No,Electronic check,83.75,247.25,Yes
+1868,CA-2015-127110,Female,Month-to-month,Yes,Bank transfer (automatic),44.05,44.05,No
+1869,CA-2016-148201,Female,Two year,No,Credit card (automatic),24.1,1734.65,No
+1870,CA-2014-116932,Female,Month-to-month,Yes,Mailed check,45.55,45.55,No
+1871,CA-2014-116932,Female,Month-to-month,Yes,Electronic check,93.8,4539.35,No
+1872,CA-2014-116932,Female,Two year,No,Bank transfer (automatic),19.7,804.25,No
+1873,CA-2017-142888,Male,Two year,Yes,Credit card (automatic),70.65,5011.15,No
+1874,CA-2014-147914,Female,Two year,No,Credit card (automatic),86.45,3574.5,No
+1875,US-2016-112977,Male,Two year,Yes,Credit card (automatic),114.1,8086.4,No
+1876,CA-2017-112039,Female,One year,Yes,Credit card (automatic),95.2,4563.0,No
+1877,CA-2017-118885,Male,Two year,No,Credit card (automatic),88.55,6362.35,No
+1878,CA-2017-118885,Female,Month-to-month,Yes,Credit card (automatic),20.75,67.1,No
+1879,US-2017-166611,Male,Month-to-month,Yes,Electronic check,70.05,70.05,Yes
+1880,CA-2015-109512,Male,Month-to-month,Yes,Electronic check,86.0,165.45,Yes
+1881,CA-2015-109512,Male,Month-to-month,Yes,Bank transfer (automatic),44.65,1156.55,No
+1882,CA-2015-109512,Male,Month-to-month,Yes,Mailed check,60.2,1834.15,No
+1883,CA-2016-118570,Male,Month-to-month,Yes,Bank transfer (automatic),100.5,3653.35,Yes
+1884,CA-2017-154718,Female,One year,No,Bank transfer (automatic),55.45,1477.65,No
+1885,CA-2016-147578,Female,Month-to-month,Yes,Credit card (automatic),70.3,1706.45,No
+1886,CA-2014-140165,Female,Two year,Yes,Bank transfer (automatic),60.4,3953.7,No
+1887,CA-2014-140165,Male,Month-to-month,No,Electronic check,72.65,1194.3,Yes
+1888,CA-2014-142587,Male,One year,No,Bank transfer (automatic),55.8,1327.85,No
+1889,CA-2014-142587,Female,Month-to-month,Yes,Mailed check,31.1,419.7,No
+1890,CA-2014-157623,Female,Month-to-month,Yes,Electronic check,21.0,21.0,Yes
+1891,CA-2014-157623,Female,Month-to-month,No,Mailed check,45.1,45.1,Yes
+1892,CA-2017-145310,Male,Month-to-month,Yes,Credit card (automatic),50.95,207.35,No
+1893,CA-2016-100083,Female,Month-to-month,Yes,Electronic check,69.1,1083.7,No
+1894,US-2017-108063,Male,Month-to-month,Yes,Electronic check,43.95,2007.85,No
+1895,CA-2015-109197,Male,Two year,Yes,Bank transfer (automatic),86.5,5882.75,No
+1896,CA-2017-141789,Male,Month-to-month,No,Electronic check,69.95,2657.55,No
+1897,CA-2014-169775,Female,Month-to-month,Yes,Bank transfer (automatic),50.4,1527.5,Yes
+1898,CA-2014-169775,Female,Month-to-month,No,Electronic check,78.95,378.4,Yes
+1899,CA-2014-169775,Male,Month-to-month,Yes,Credit card (automatic),90.95,1612.2,No
+1900,CA-2016-140543,Male,Two year,No,Mailed check,19.9,76.65,No
+1901,CA-2016-151141,Male,One year,No,Electronic check,20.15,260.7,No
+1902,CA-2017-167094,Male,Two year,Yes,Credit card (automatic),90.6,6441.85,No
+1903,CA-2017-167094,Female,Month-to-month,Yes,Electronic check,92.0,266.8,No
+1904,CA-2017-167094,Male,Month-to-month,Yes,Electronic check,94.45,5124.6,Yes
+1905,CA-2017-154410,Female,One year,Yes,Mailed check,24.85,962.25,No
+1906,US-2016-150567,Male,One year,No,Credit card (automatic),36.0,1382.9,No
+1907,US-2016-150567,Male,Month-to-month,Yes,Electronic check,78.5,571.05,No
+1908,CA-2015-157959,Male,Two year,No,Credit card (automatic),19.95,1399.35,No
+1909,CA-2017-105886,Male,One year,No,Mailed check,20.65,150.0,No
+1910,CA-2016-105963,Male,Month-to-month,Yes,Electronic check,30.5,167.2,No
+1911,CA-2017-121503,Male,Two year,No,Credit card (automatic),106.1,7657.4,No
+1912,CA-2017-121503,Female,One year,Yes,Bank transfer (automatic),20.5,865.05,No
+1913,CA-2014-103366,Female,One year,Yes,Electronic check,95.5,6153.85,No
+1914,CA-2017-124597,Female,Month-to-month,No,Electronic check,64.6,174.2,No
+1915,CA-2017-124597,Female,Month-to-month,Yes,Credit card (automatic),51.1,1269.6,No
+1916,CA-2017-124597,Female,Month-to-month,Yes,Bank transfer (automatic),84.8,3862.55,Yes
+1917,CA-2015-105634,Male,Two year,No,Credit card (automatic),89.1,6352.4,No
+1918,CA-2015-123673,Female,Month-to-month,No,Electronic check,54.95,1348.5,No
+1919,US-2017-111423,Female,Month-to-month,No,Mailed check,50.9,50.9,Yes
+1920,US-2017-111423,Female,Month-to-month,Yes,Bank transfer (automatic),20.45,471.55,No
+1921,CA-2015-125178,Female,Two year,Yes,Credit card (automatic),85.95,5931.75,No
+1922,CA-2016-156685,Female,Month-to-month,No,Electronic check,60.35,1404.65,No
+1923,CA-2016-156685,Female,Two year,No,Bank transfer (automatic),19.8,726.1,No
+1924,CA-2017-126865,Female,Month-to-month,No,Bank transfer (automatic),85.35,1961.6,No
+1925,CA-2017-102834,Female,Two year,Yes,Bank transfer (automatic),72.1,4194.85,No
+1926,US-2016-139710,Female,Month-to-month,Yes,Electronic check,99.8,4872.45,Yes
+1927,CA-2017-121538,Male,Month-to-month,Yes,Bank transfer (automatic),107.35,5118.95,Yes
+1928,US-2017-101539,Male,Month-to-month,Yes,Mailed check,19.55,658.95,Yes
+1929,US-2017-101539,Male,Month-to-month,Yes,Electronic check,81.05,81.05,No
+1930,US-2017-101539,Male,Month-to-month,Yes,Electronic check,20.5,76.95,No
+1931,CA-2016-152121,Male,One year,Yes,Bank transfer (automatic),111.8,5809.75,No
+1932,CA-2017-161200,Male,Month-to-month,No,Mailed check,20.2,20.2,No
+1933,CA-2017-161200,Male,One year,Yes,Mailed check,19.7,415.9,No
+1934,CA-2017-101245,Male,Month-to-month,Yes,Electronic check,79.1,246.5,Yes
+1935,CA-2017-101245,Male,One year,Yes,Bank transfer (automatic),19.85,996.95,No
+1936,CA-2015-141768,Male,One year,Yes,Bank transfer (automatic),60.5,3145.15,No
+1937,CA-2016-112109,Male,Two year,No,Mailed check,19.55,265.3,No
+1938,CA-2016-112109,Male,Month-to-month,No,Mailed check,20.9,20.9,No
+1939,CA-2016-112109,Female,Month-to-month,Yes,Mailed check,21.05,21.05,No
+1940,CA-2016-112109,Female,One year,No,Electronic check,71.5,4576.3,No
+1941,CA-2017-144064,Male,Month-to-month,No,Mailed check,54.65,189.1,No
+1942,CA-2017-144064,Male,Two year,No,Credit card (automatic),19.2,908.15,No
+1943,CA-2017-144064,Male,Month-to-month,Yes,Credit card (automatic),49.8,49.8,No
+1944,CA-2016-108581,Male,Month-to-month,No,Mailed check,25.5,215.2,Yes
+1945,CA-2016-108581,Male,Two year,No,Bank transfer (automatic),20.5,1500.95,No
+1946,CA-2017-157987,Female,Month-to-month,Yes,Credit card (automatic),90.4,5099.15,No
+1947,CA-2017-157987,Male,One year,Yes,Bank transfer (automatic),90.25,6385.95,No
+1948,CA-2017-157987,Male,Month-to-month,No,Electronic check,80.75,159.45,Yes
+1949,CA-2017-157987,Female,Two year,No,Bank transfer (automatic),104.6,6885.75,No
+1950,CA-2017-157987,Male,Month-to-month,Yes,Bank transfer (automatic),91.85,5940.85,Yes
+1951,CA-2017-157987,Male,Month-to-month,No,Credit card (automatic),50.2,668.85,No
+1952,CA-2017-157987,Female,Month-to-month,Yes,Bank transfer (automatic),95.5,1916.2,No
+1953,CA-2017-157987,Female,Month-to-month,Yes,Electronic check,75.35,75.35,Yes
+1954,CA-2017-157987,Male,Month-to-month,Yes,Electronic check,75.45,75.45,Yes
+1955,CA-2017-157987,Female,Month-to-month,Yes,Bank transfer (automatic),95.4,4613.95,No
+1956,CA-2017-157987,Female,Two year,Yes,Bank transfer (automatic),101.3,7261.25,No
+1957,CA-2017-157987,Male,Month-to-month,No,Electronic check,53.1,2459.8,No
+1958,CA-2017-110905,Male,Month-to-month,Yes,Bank transfer (automatic),84.85,2048.8,No
+1959,CA-2017-110905,Female,Month-to-month,No,Electronic check,34.25,163.55,No
+1960,CA-2017-110905,Male,Month-to-month,No,Credit card (automatic),88.6,2888.7,No
+1961,CA-2017-110905,Male,One year,Yes,Bank transfer (automatic),60.15,2421.6,No
+1962,CA-2017-110905,Female,One year,Yes,Credit card (automatic),99.95,2292.75,No
+1963,CA-2017-110905,Female,Month-to-month,No,Bank transfer (automatic),70.7,553.4,No
+1964,CA-2017-110905,Female,One year,Yes,Mailed check,54.8,3465.7,No
+1965,CA-2017-110905,Male,Month-to-month,Yes,Bank transfer (automatic),49.55,1210.4,Yes
+1966,CA-2017-165841,Male,Month-to-month,No,Credit card (automatic),54.8,1291.3,No
+1967,CA-2017-165841,Female,One year,Yes,Credit card (automatic),78.6,5356.45,Yes
+1968,CA-2017-165841,Male,One year,Yes,Mailed check,100.3,5200.8,No
+1969,CA-2017-117485,Female,Two year,No,Electronic check,53.6,3237.05,No
+1970,CA-2017-140242,Female,Month-to-month,Yes,Electronic check,81.1,576.65,Yes
+1971,CA-2017-140242,Male,One year,Yes,Credit card (automatic),19.35,433.75,No
+1972,CA-2014-148950,Male,Month-to-month,No,Electronic check,85.6,1868.4,No
+1973,CA-2014-148950,Female,Two year,Yes,Electronic check,80.8,5728.55,No
+1974,CA-2014-148950,Female,Month-to-month,Yes,Electronic check,74.95,825.7,Yes
+1975,CA-2014-110408,Male,Two year,No,Mailed check,19.6,390.4,No
+1976,CA-2014-110408,Male,Month-to-month,Yes,Electronic check,93.55,93.55,Yes
+1977,CA-2014-110408,Male,Month-to-month,Yes,Electronic check,90.7,2845.15,No
+1978,CA-2015-109939,Male,Two year,No,Mailed check,69.75,3894.4,No
+1979,CA-2016-112669,Male,Two year,Yes,Bank transfer (automatic),20.0,886.4,No
+1980,CA-2016-112669,Male,Month-to-month,Yes,Electronic check,95.25,1021.55,No
+1981,CA-2015-119592,Male,Month-to-month,Yes,Credit card (automatic),102.1,5885.4,Yes
+1982,CA-2014-122749,Female,Month-to-month,No,Mailed check,19.95,268.4,No
+1983,CA-2014-164721,Female,One year,No,Mailed check,80.85,2204.35,No
+1984,CA-2014-164721,Female,Month-to-month,Yes,Bank transfer (automatic),90.9,1259.0,Yes
+1985,CA-2014-164721,Female,Month-to-month,No,Mailed check,29.2,309.1,Yes
+1986,CA-2016-147417,Female,Two year,Yes,Bank transfer (automatic),93.3,6398.05,No
+1987,CA-2015-127509,Female,Month-to-month,Yes,Bank transfer (automatic),89.15,2257.75,Yes
+1988,CA-2015-127509,Male,One year,Yes,Electronic check,108.85,6287.25,Yes
+1989,CA-2015-127509,Female,Two year,Yes,Credit card (automatic),46.35,1662.05,No
+1990,CA-2015-127509,Male,Month-to-month,Yes,Electronic check,84.75,1350.15,Yes
+1991,CA-2017-111374,Female,One year,No,Credit card (automatic),78.75,3600.65,No
+1992,CA-2017-133648,Female,Month-to-month,Yes,Electronic check,83.55,1329.15,No
+1993,CA-2017-133648,Female,Month-to-month,Yes,Electronic check,45.7,45.7,Yes
+1994,CA-2017-133648,Female,One year,No,Mailed check,19.6,422.5,No
+1995,US-2017-147221,Female,Month-to-month,Yes,Electronic check,69.95,69.95,Yes
+1996,US-2017-147221,Male,Two year,No,Mailed check,67.85,4627.65,No
+1997,CA-2014-131905,Male,Two year,Yes,Bank transfer (automatic),105.65,6717.9,No
+1998,CA-2014-131905,Male,Month-to-month,No,Electronic check,44.6,97.1,Yes
+1999,CA-2014-131905,Female,Month-to-month,Yes,Electronic check,74.95,1710.45,Yes
+2000,CA-2017-166128,Female,Month-to-month,No,Credit card (automatic),75.5,637.4,No
+2001,CA-2017-166128,Male,Month-to-month,No,Mailed check,20.15,117.95,No
+2002,CA-2017-163510,Male,Two year,No,Credit card (automatic),45.2,2460.55,No
+2003,CA-2017-163510,Male,Two year,Yes,Electronic check,95.25,5464.65,Yes
+2004,US-2017-143028,Male,Month-to-month,Yes,Mailed check,89.85,2165.05,Yes
+2005,CA-2014-111150,Male,One year,No,Mailed check,100.45,4941.8,Yes
+2006,CA-2014-111150,Female,Month-to-month,No,Electronic check,47.15,223.15,Yes
+2007,CA-2017-165386,Female,Month-to-month,Yes,Electronic check,80.2,181.1,Yes
+2008,CA-2014-116407,Female,Month-to-month,Yes,Mailed check,87.1,341.45,Yes
+2009,CA-2014-116407,Male,Two year,Yes,Bank transfer (automatic),79.25,5731.85,No
+2010,CA-2014-116407,Male,Month-to-month,Yes,Bank transfer (automatic),75.9,357.75,Yes
+2011,CA-2015-155761,Female,Month-to-month,No,Electronic check,85.7,4616.1,No
+2012,CA-2015-155761,Female,Month-to-month,Yes,Electronic check,98.75,4533.7,Yes
+2013,CA-2016-145905,Female,One year,No,Credit card (automatic),20.1,589.25,No
+2014,CA-2016-145905,Female,Month-to-month,No,Bank transfer (automatic),61.8,750.1,No
+2015,CA-2016-145905,Female,Month-to-month,No,Mailed check,49.9,1410.25,No
+2016,CA-2015-113110,Female,Month-to-month,No,Electronic check,86.45,830.85,Yes
+2017,CA-2015-113110,Female,Two year,No,Bank transfer (automatic),20.4,743.5,No
+2018,CA-2015-113110,Male,Month-to-month,Yes,Mailed check,45.3,45.3,Yes
+2019,CA-2015-113110,Female,One year,No,Electronic check,104.1,7040.85,Yes
+2020,CA-2016-168354,Male,One year,Yes,Mailed check,75.4,3865.45,No
+2021,CA-2016-168354,Female,Two year,No,Mailed check,108.15,6825.65,No
+2022,CA-2016-168354,Male,Month-to-month,Yes,Electronic check,86.25,1340.1,No
+2023,CA-2016-168354,Female,Month-to-month,Yes,Electronic check,81.0,371.65,Yes
+2024,US-2017-111241,Male,One year,No,Electronic check,95.7,1184.0,No
+2025,CA-2015-114237,Female,Two year,Yes,Bank transfer (automatic),116.85,8477.7,No
+2026,CA-2016-113516,Male,One year,No,Bank transfer (automatic),105.75,7382.85,No
+2027,CA-2016-113516,Female,One year,No,Mailed check,20.15,456.85,No
+2028,CA-2015-117961,Male,Two year,No,Mailed check,19.6,331.6,No
+2029,CA-2015-117961,Female,One year,Yes,Credit card (automatic),90.6,6056.15,Yes
+2030,CA-2015-117961,Male,Month-to-month,No,Bank transfer (automatic),60.95,134.6,No
+2031,CA-2015-117961,Female,Month-to-month,No,Mailed check,25.05,125.5,No
+2032,CA-2016-128923,Female,Month-to-month,No,Electronic check,88.15,1390.6,Yes
+2033,CA-2016-128923,Male,Month-to-month,Yes,Mailed check,20.2,20.2,Yes
+2034,CA-2017-162481,Male,One year,Yes,Bank transfer (automatic),60.3,2511.3,No
+2035,CA-2017-162481,Female,Month-to-month,Yes,Electronic check,63.95,2737.05,No
+2036,CA-2015-119214,Male,Month-to-month,No,Electronic check,74.3,74.3,No
+2037,CA-2015-119214,Female,Month-to-month,Yes,Mailed check,70.6,70.6,No
+2038,CA-2015-122287,Female,Month-to-month,Yes,Electronic check,90.8,2361.8,Yes
+2039,CA-2015-122287,Female,Month-to-month,Yes,Electronic check,79.35,1730.35,Yes
+2040,CA-2015-122287,Female,Two year,No,Bank transfer (automatic),90.55,6404.0,No
+2041,CA-2015-122287,Female,Two year,No,Mailed check,19.45,165.35,No
+2042,CA-2015-104493,Male,Month-to-month,No,Bank transfer (automatic),64.45,1867.6,No
+2043,US-2017-158946,Female,Month-to-month,No,Electronic check,69.65,1043.3,No
+2044,CA-2014-129168,Female,One year,No,Mailed check,19.5,128.6,No
+2045,CA-2016-131835,Male,Two year,Yes,Bank transfer (automatic),110.5,7455.45,No
+2046,CA-2016-131835,Male,Month-to-month,No,Mailed check,24.7,24.7,No
+2047,CA-2016-131835,Male,Month-to-month,Yes,Electronic check,77.4,206.15,No
+2048,CA-2015-142237,Male,Month-to-month,Yes,Bank transfer (automatic),96.8,2030.3,Yes
+2049,CA-2015-142237,Male,Month-to-month,Yes,Bank transfer (automatic),85.4,5869.4,No
+2050,CA-2015-142237,Male,Two year,Yes,Bank transfer (automatic),47.6,3377.8,No
+2051,CA-2015-142237,Male,Two year,No,Mailed check,19.4,1346.2,No
+2052,CA-2015-142237,Female,Month-to-month,Yes,Electronic check,103.85,4946.05,No
+2053,CA-2015-142237,Female,Month-to-month,Yes,Bank transfer (automatic),83.35,4065.0,Yes
+2054,CA-2016-136434,Male,Month-to-month,Yes,Electronic check,49.4,106.55,Yes
+2055,CA-2017-120376,Female,Month-to-month,Yes,Credit card (automatic),108.45,4964.7,No
+2056,CA-2017-120376,Female,Month-to-month,No,Bank transfer (automatic),81.0,4085.75,No
+2057,CA-2017-120376,Male,Month-to-month,Yes,Electronic check,79.2,1742.75,Yes
+2058,CA-2017-120376,Female,Two year,No,Bank transfer (automatic),86.65,6224.8,No
+2059,CA-2014-106439,Male,Month-to-month,Yes,Electronic check,92.95,3415.25,No
+2060,CA-2014-106439,Female,Two year,No,Electronic check,90.35,6325.25,No
+2061,CA-2014-106439,Male,Month-to-month,No,Electronic check,48.7,340.25,Yes
+2062,CA-2014-106439,Male,Two year,Yes,Credit card (automatic),25.15,1683.6,No
+2063,CA-2014-106439,Female,One year,Yes,Bank transfer (automatic),76.4,3966.3,No
+2064,CA-2014-106439,Female,One year,No,Bank transfer (automatic),19.55,608.5,No
+2065,CA-2014-106439,Male,Month-to-month,No,Electronic check,85.35,2896.6,No
+2066,CA-2014-106439,Female,Two year,Yes,Mailed check,24.8,1514.85,No
+2067,CA-2014-106439,Female,One year,Yes,Bank transfer (automatic),103.15,6792.45,No
+2068,CA-2015-133452,Female,Month-to-month,No,Mailed check,100.75,4669.2,No
+2069,CA-2015-133452,Female,Month-to-month,Yes,Electronic check,95.6,95.6,Yes
+2070,CA-2016-146521,Female,Month-to-month,Yes,Credit card (automatic),59.75,2934.3,Yes
+2071,US-2017-110996,Female,Two year,No,Credit card (automatic),94.1,6302.8,No
+2072,CA-2016-129693,Male,One year,No,Bank transfer (automatic),19.35,779.2,No
+2073,CA-2017-122504,Male,Month-to-month,No,Mailed check,19.9,283.75,No
+2074,CA-2017-122504,Female,Month-to-month,Yes,Credit card (automatic),108.15,4600.7,Yes
+2075,CA-2014-131051,Male,Month-to-month,Yes,Electronic check,101.05,5594.0,No
+2076,CA-2017-140676,Male,One year,No,Credit card (automatic),59.1,772.85,No
+2077,CA-2017-140676,Female,Month-to-month,No,Electronic check,71.35,71.35,Yes
+2078,CA-2017-140676,Female,One year,Yes,Mailed check,55.85,857.8,No
+2079,CA-2015-120103,Male,Month-to-month,Yes,Electronic check,106.05,7554.05,No
+2080,CA-2015-120103,Male,Two year,Yes,Credit card (automatic),84.1,5981.65,No
+2081,CA-2015-120103,Male,Month-to-month,Yes,Credit card (automatic),75.3,1702.9,No
+2082,CA-2017-104647,Male,Month-to-month,No,Mailed check,24.7,467.15,No
+2083,CA-2014-110352,Female,Month-to-month,Yes,Mailed check,20.15,20.15,Yes
+2084,CA-2016-140501,Female,Month-to-month,No,Bank transfer (automatic),69.75,69.75,Yes
+2085,CA-2016-140501,Male,Month-to-month,Yes,Electronic check,93.2,2931.0,Yes
+2086,CA-2016-140501,Female,Month-to-month,No,Electronic check,80.85,1400.85,Yes
+2087,CA-2016-140501,Female,Month-to-month,Yes,Electronic check,33.65,137.85,Yes
+2088,CA-2016-140501,Female,One year,No,Electronic check,55.8,1941.5,No
+2089,CA-2015-139290,Male,Two year,No,Credit card (automatic),39.7,1932.75,No
+2090,CA-2017-166142,Male,Month-to-month,Yes,Credit card (automatic),29.5,1423.05,No
+2091,CA-2017-166142,Female,Two year,No,Credit card (automatic),20.15,970.85,No
+2092,CA-2014-145926,Female,Two year,No,Credit card (automatic),79.55,5810.9,No
+2093,CA-2015-149678,Female,Month-to-month,No,Credit card (automatic),24.8,223.9,No
+2094,US-2015-164357,Female,Month-to-month,No,Mailed check,19.65,391.7,No
+2095,US-2016-146570,Male,Month-to-month,Yes,Electronic check,79.95,79.95,Yes
+2096,US-2016-146570,Female,Month-to-month,No,Electronic check,19.3,19.3,Yes
+2097,US-2016-146570,Male,Month-to-month,Yes,Electronic check,94.05,811.65,No
+2098,CA-2017-124401,Female,Month-to-month,No,Mailed check,90.75,174.75,No
+2099,CA-2017-124401,Female,Month-to-month,Yes,Credit card (automatic),78.85,3126.85,No
+2100,US-2014-140116,Male,One year,No,Bank transfer (automatic),99.5,6841.45,No
+2101,US-2014-140116,Male,One year,Yes,Electronic check,99.2,3754.6,Yes
+2102,CA-2014-123295,Female,Month-to-month,Yes,Credit card (automatic),80.55,1406.65,No
+2103,CA-2017-167101,Male,Month-to-month,Yes,Electronic check,70.2,834.7,No
+2104,CA-2017-167101,Male,Month-to-month,Yes,Credit card (automatic),85.2,627.4,Yes
+2105,US-2014-167633,Female,Month-to-month,No,Electronic check,75.25,242.0,Yes
+2106,US-2014-152723,Male,One year,No,Credit card (automatic),59.45,3157.0,No
+2107,CA-2015-164882,Male,Month-to-month,Yes,Electronic check,93.35,3092.0,No
+2108,CA-2015-164882,Male,Month-to-month,No,Bank transfer (automatic),44.95,2168.9,No
+2109,CA-2015-164882,Male,Two year,No,Bank transfer (automatic),26.1,980.35,No
+2110,CA-2015-164882,Female,Month-to-month,No,Electronic check,20.2,65.95,No
+2111,CA-2015-164882,Female,Two year,No,Mailed check,21.25,711.9,No
+2112,CA-2015-164882,Male,One year,No,Electronic check,59.4,1952.8,No
+2113,CA-2015-164882,Female,One year,Yes,Credit card (automatic),95.0,4368.85,No
+2114,CA-2015-164882,Male,Month-to-month,Yes,Mailed check,61.9,2647.1,No
+2115,CA-2015-164882,Male,Two year,Yes,Electronic check,118.65,8477.6,No
+2116,CA-2015-159786,Female,Month-to-month,No,Electronic check,54.35,54.35,Yes
+2117,CA-2016-130267,Male,Two year,No,Bank transfer (automatic),64.45,4528.0,No
+2118,CA-2017-155460,Male,Month-to-month,Yes,Electronic check,80.15,1790.65,No
+2119,CA-2017-155460,Female,One year,Yes,Bank transfer (automatic),20.2,845.6,No
+2120,US-2017-168690,Female,Two year,No,Mailed check,21.0,1210.3,No
+2121,CA-2017-158246,Female,Month-to-month,No,Mailed check,20.45,20.45,No
+2122,CA-2017-167381,Female,One year,Yes,Mailed check,75.85,854.45,No
+2123,CA-2017-167381,Male,Month-to-month,Yes,Electronic check,80.45,2429.1,No
+2124,CA-2017-144862,Male,Month-to-month,Yes,Electronic check,24.95,100.4,Yes
+2125,CA-2017-144862,Female,Two year,Yes,Electronic check,75.5,5229.45,No
+2126,CA-2014-126032,Male,Month-to-month,No,Mailed check,44.45,44.45,No
+2127,CA-2015-134859,Female,One year,Yes,Electronic check,42.35,1716.45,Yes
+2128,CA-2015-134859,Male,Month-to-month,Yes,Credit card (automatic),74.55,3023.55,No
+2129,US-2014-114188,Female,Month-to-month,Yes,Electronic check,75.3,75.3,Yes
+2130,US-2014-114188,Male,One year,Yes,Electronic check,94.8,4837.6,Yes
+2131,US-2014-114188,Male,Two year,No,Credit card (automatic),48.15,2032.3,No
+2132,CA-2015-156524,Female,One year,No,Mailed check,19.65,436.9,No
+2133,CA-2015-122210,Female,Month-to-month,Yes,Electronic check,70.55,70.55,Yes
+2134,CA-2015-122210,Male,Month-to-month,No,Mailed check,20.15,20.15,No
+2135,CA-2015-122210,Female,Month-to-month,Yes,Credit card (automatic),106.6,5893.95,No
+2136,CA-2015-156377,Female,Month-to-month,Yes,Electronic check,91.0,1430.05,No
+2137,CA-2015-156377,Female,Two year,Yes,Bank transfer (automatic),25.4,313.0,No
+2138,US-2017-157896,Male,Two year,No,Bank transfer (automatic),69.95,3871.85,No
+2139,CA-2014-159520,Female,Month-to-month,Yes,Electronic check,66.85,458.1,No
+2140,CA-2014-159520,Female,Month-to-month,No,Credit card (automatic),86.15,2745.7,Yes
+2141,CA-2014-159520,Female,Month-to-month,No,Electronic check,20.15,341.35,No
+2142,CA-2016-155481,Female,One year,No,Mailed check,64.85,1336.8,No
+2143,CA-2016-155481,Male,Two year,No,Electronic check,74.85,2181.75,No
+2144,CA-2016-155481,Male,Month-to-month,Yes,Mailed check,50.5,147.75,No
+2145,US-2016-152051,Female,Month-to-month,No,Electronic check,72.9,818.45,No
+2146,US-2016-152051,Female,One year,Yes,Credit card (automatic),115.05,7133.45,No
+2147,US-2016-152051,Male,Month-to-month,No,Electronic check,19.0,348.8,No
+2148,CA-2014-141607,Female,Month-to-month,No,Mailed check,19.55,128.6,No
+2149,CA-2017-102771,Female,One year,Yes,Electronic check,101.1,4674.4,No
+2150,US-2017-139969,Female,Month-to-month,Yes,Electronic check,84.1,1737.45,No
+2151,CA-2014-167360,Male,Two year,Yes,Bank transfer (automatic),24.15,1498.85,No
+2152,CA-2015-123505,Female,Month-to-month,Yes,Electronic check,50.1,50.1,No
+2153,CA-2016-117282,Male,Month-to-month,Yes,Electronic check,74.6,1797.75,No
+2154,US-2016-120460,Female,Two year,No,Mailed check,19.75,498.1,No
+2155,CA-2016-111115,Female,Month-to-month,Yes,Electronic check,85.0,2624.25,Yes
+2156,CA-2014-124646,Male,Month-to-month,No,Electronic check,80.55,184.1,Yes
+2157,CA-2014-124646,Male,One year,Yes,Bank transfer (automatic),106.8,5498.8,No
+2158,CA-2017-148166,Female,Two year,Yes,Electronic check,84.5,4845.4,No
+2159,CA-2016-159737,Male,Two year,No,Bank transfer (automatic),25.05,369.1,No
+2160,CA-2016-141019,Female,Two year,Yes,Bank transfer (automatic),83.7,6096.9,No
+2161,CA-2016-101938,Female,Month-to-month,Yes,Electronic check,75.8,160.75,Yes
+2162,CA-2017-166296,Female,Month-to-month,No,Credit card (automatic),96.6,2684.35,No
+2163,CA-2016-154018,Male,Month-to-month,Yes,Electronic check,98.5,3004.15,Yes
+2164,CA-2016-154018,Female,Two year,Yes,Credit card (automatic),101.1,6994.8,No
+2165,CA-2016-154018,Male,One year,No,Mailed check,20.2,273.25,No
+2166,CA-2016-154018,Male,One year,Yes,Electronic check,94.05,5483.9,No
+2167,CA-2016-154018,Male,Month-to-month,Yes,Electronic check,95.25,1233.65,Yes
+2168,CA-2017-117870,Female,Month-to-month,Yes,Mailed check,74.4,527.9,Yes
+2169,CA-2017-117870,Male,Two year,No,Mailed check,81.0,4985.9,No
+2170,CA-2017-117870,Female,One year,Yes,Electronic check,60.25,1258.35,No
+2171,US-2017-137491,Female,Month-to-month,No,Electronic check,60.85,111.4,No
+2172,CA-2014-152296,Female,Month-to-month,No,Credit card (automatic),43.95,43.95,No
+2173,CA-2016-112025,Female,Month-to-month,No,Electronic check,86.05,308.1,No
+2174,CA-2015-132507,Female,One year,No,Credit card (automatic),20.25,383.65,No
+2175,CA-2016-125738,Male,Month-to-month,No,Electronic check,85.15,2555.9,Yes
+2176,CA-2016-125738,Male,Two year,Yes,Credit card (automatic),19.4,1284.2,No
+2177,CA-2016-125738,Male,Two year,Yes,Credit card (automatic),102.65,7550.3,No
+2178,CA-2016-125738,Male,Two year,No,Credit card (automatic),19.9,1110.05,No
+2179,CA-2016-128818,Female,One year,No,Electronic check,19.55,99.6,No
+2180,CA-2016-128818,Male,Two year,Yes,Credit card (automatic),95.5,6707.15,No
+2181,CA-2016-128818,Male,One year,Yes,Credit card (automatic),84.15,4164.4,No
+2182,CA-2016-128818,Male,Two year,Yes,Electronic check,103.2,5873.75,No
+2183,CA-2016-128818,Male,Month-to-month,Yes,Credit card (automatic),50.2,109.25,No
+2184,CA-2016-128818,Male,Month-to-month,Yes,Electronic check,88.55,179.25,Yes
+2185,CA-2017-124576,Female,Month-to-month,No,Electronic check,54.75,1338.15,Yes
+2186,CA-2016-101378,Male,Two year,No,Credit card (automatic),19.95,862.4,No
+2187,CA-2017-143063,Female,Two year,Yes,Electronic check,116.25,8564.75,No
+2188,CA-2017-143063,Male,Month-to-month,Yes,Electronic check,31.2,926.2,No
+2189,CA-2017-143063,Female,Two year,No,Bank transfer (automatic),24.45,1718.2,No
+2190,CA-2016-118913,Female,Two year,No,Credit card (automatic),84.2,5956.85,No
+2191,CA-2016-128412,Female,Month-to-month,Yes,Electronic check,91.3,91.3,Yes
+2192,CA-2016-128412,Female,Two year,Yes,Bank transfer (automatic),85.65,4824.45,No
+2193,CA-2016-128412,Female,One year,Yes,Mailed check,21.2,1238.65,No
+2194,CA-2016-128412,Female,Month-to-month,Yes,Electronic check,79.5,79.5,Yes
+2195,CA-2016-128412,Female,One year,No,Mailed check,25.55,672.2,No
+2196,CA-2016-136483,Female,Month-to-month,No,Mailed check,20.2,382.2,No
+2197,CA-2014-163013,Female,Month-to-month,No,Electronic check,63.85,4264.6,No
+2198,CA-2015-135363,Male,One year,Yes,Mailed check,61.95,1070.7,No
+2199,CA-2015-135363,Male,Two year,No,Mailed check,25.75,1345.85,No
+2200,US-2014-165659,Female,One year,No,Electronic check,58.2,1045.25,No
+2201,US-2014-165659,Male,One year,No,Bank transfer (automatic),85.85,3003.55,No
+2202,CA-2015-138002,Female,Month-to-month,Yes,Mailed check,70.1,467.55,Yes
+2203,CA-2015-138002,Male,One year,Yes,Credit card (automatic),104.9,7537.5,No
+2204,CA-2015-128860,Female,One year,Yes,Electronic check,111.3,7482.1,Yes
+2205,CA-2016-164350,Male,One year,Yes,Electronic check,99.85,3343.15,No
+2206,US-2014-103905,Female,Month-to-month,Yes,Bank transfer (automatic),95.25,5427.05,Yes
+2207,US-2014-103905,Male,Month-to-month,Yes,Electronic check,86.25,587.1,Yes
+2208,CA-2015-129854,Male,Month-to-month,Yes,Electronic check,100.8,100.8,Yes
+2209,CA-2014-125556,Male,Month-to-month,Yes,Bank transfer (automatic),19.55,161.15,No
+2210,CA-2014-125556,Female,Two year,No,Electronic check,104.0,7028.5,No
+2211,CA-2016-162313,Male,One year,Yes,Mailed check,104.4,5232.9,No
+2212,CA-2017-107874,Female,One year,No,Mailed check,19.5,225.85,No
+2213,CA-2017-129378,Male,Two year,No,Credit card (automatic),25.25,274.7,No
+2214,CA-2017-129378,Female,Month-to-month,Yes,Electronic check,86.3,1180.95,Yes
+2215,CA-2017-129378,Male,Two year,Yes,Bank transfer (automatic),49.85,3370.2,No
+2216,CA-2017-129378,Male,Month-to-month,Yes,Bank transfer (automatic),108.95,7111.3,No
+2217,CA-2014-151953,Male,Two year,No,Credit card (automatic),89.9,5958.85,No
+2218,CA-2017-130841,Male,Two year,Yes,Credit card (automatic),82.0,5999.85,No
+2219,CA-2017-130841,Male,Month-to-month,No,Electronic check,89.95,1648.45,No
+2220,CA-2017-130841,Female,Two year,Yes,Bank transfer (automatic),79.35,5753.25,No
+2221,CA-2015-131884,Female,Two year,No,Credit card (automatic),64.05,4492.9,No
+2222,CA-2015-131884,Male,Month-to-month,Yes,Credit card (automatic),101.15,3956.7,No
+2223,CA-2015-131884,Male,Month-to-month,Yes,Electronic check,89.95,2625.55,Yes
+2224,CA-2017-121909,Male,Month-to-month,Yes,Electronic check,76.45,1233.4,Yes
+2225,CA-2016-106383,Female,One year,Yes,Electronic check,39.1,1309.0,No
+2226,CA-2017-130771,Female,Two year,No,Mailed check,34.6,813.45,No
+2227,CA-2017-130771,Male,One year,Yes,Electronic check,19.55,1108.8,No
+2228,CA-2016-139157,Female,Two year,Yes,Bank transfer (automatic),104.45,7349.35,No
+2229,CA-2014-128055,Male,Month-to-month,No,Electronic check,70.5,294.2,No
+2230,CA-2014-128055,Female,Two year,No,Mailed check,20.35,929.2,No
+2231,CA-2017-157091,Female,Month-to-month,Yes,Electronic check,70.0,740.0,Yes
+2232,CA-2017-132122,Male,Two year,No,Credit card (automatic),19.45,754.5,No
+2233,CA-2015-123232,Female,Month-to-month,Yes,Mailed check,69.9,3883.3,No
+2234,CA-2017-104066,Male,Two year,No,Mailed check,59.7,1414.2,No
+2235,CA-2015-145849,Male,One year,Yes,Credit card (automatic),78.35,3211.2,No
+2236,CA-2015-145849,Male,Month-to-month,Yes,Mailed check,71.45,371.6,No
+2237,CA-2016-122322,Male,One year,Yes,Credit card (automatic),45.85,1246.4,No
+2238,CA-2017-166849,Male,Month-to-month,Yes,Electronic check,95.85,95.85,No
+2239,CA-2016-146633,Male,Two year,No,Credit card (automatic),35.7,2545.7,No
+2240,CA-2016-146633,Female,Two year,Yes,Credit card (automatic),89.55,6448.85,No
