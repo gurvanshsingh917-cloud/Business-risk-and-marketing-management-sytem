@@ -26,25 +26,27 @@ Excel
 
 📂 Project Structure
 
-Integrated-Business-Risk-Marketing-System/
-│
-├── datasets/
-│   sales_data.csv
-│   customer_data.csv
-│   marketing_data.csv
-│   churn_data.csv
-│
-├── notebooks/
-│   day1.ipynb
-│   marketing.ipynb
-│   churn.ipynb
-│   customers.ipynb
-|
-├── dashboard/
-│   powerbi_dashboard.pbix
-│
-│
-└── README.md
+Integrated-Business-Risk-Marketing-System
+
+ datasets
+
+  sales_data.csv
+  customer_data.csv
+  marketing_data.csv
+  churn_data.csv
+
+ notebooks
+ 
+   day1.ipynb
+   marketing.ipynb
+   churn.ipynb
+   customers.ipynb
+   
+ dashboard
+ 
+   powerbi_dashboard.pbix
+
+ README.md
 
 📊 Key Features
 
