@@ -29,19 +29,19 @@ Excel
 Integrated-Business-Risk-Marketing-System/
 │
 ├── datasets/
-│   ├── sales_data.csv
-│   ├── customer_data.csv
-│   ├── marketing_data.csv
-│   └── churn_data.csv
+│   sales_data.csv
+│   customer_data.csv
+│   marketing_data.csv
+│   churn_data.csv
 │
 ├── notebooks/
-│   ├── day1.ipynb
-│   ├── marketing.ipynb
-│   └── churn.ipynb
-│   └──customers.ipynb
+│   day1.ipynb
+│   marketing.ipynb
+│   churn.ipynb
+│   customers.ipynb
 |
 ├── dashboard/
-│   └── powerbi_dashboard.pbix
+│   powerbi_dashboard.pbix
 │
 │
 └── README.md
@@ -54,17 +54,20 @@ Revenue trend analysis
 Profit margin evaluation
 Product performance tracking
 Top customer contribution analysis
+
 🔹 Customer Segmentation
 
 High Value Customers
 Loyal Customers
 At-Risk Customers
 Dormant Customers
+
 🔹 Churn Analysis
 
 Customer churn rate calculation
 Revenue loss estimation
 Retention analysis
+
 🔹 Marketing Analytics
 
 Conversion rate analysis
